@@ -61,15 +61,16 @@ Genaueres siehe Notiz: [[8 grüne Ampeln-System]]  (Wichtig!)
 Inhalt siehe Notiz: [[ICP]]
 - 
 
-#### 4. **Angebotsformate**
+#### 4. **Angebotsformate** (fast nur B2B)
 
-- Coaching 
-- Coaching-"Flatrates" (z. B. 3, 6 oder 12 Monate)
-    
-- Vorbereitung auf Mediationen mit 8gA
-   
-- Trainings spezieller Teilkompetenzen 
-	- z. B. „Stoppschild-Technik“
-    
+
+- Seminare, insbesondere zum Thema Konfliktmanagement / Konfliktkompetenz (da wurde ich Testsieger Stiftung Warentest). Überwiegend in Präsenz
+- Mediation (in Präsenz sowie online)
+- Führungskräfte-Coaching (in Präsenz sowie online)
+- Coaching-"Flatrates" (z. B. 3, 6 oder 12 Monate) (überwiegend online)
+* Vorbereitung auf Mediationen mit 8gA (online)
+* Trainings spezieller Teilkompetenzen 
+	- z. B. „Stoppschild-Technik“ (online)
+* (ist vermutlich noch nicht vollständig)*
  
 
