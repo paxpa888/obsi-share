@@ -31,7 +31,7 @@ Genaueres siehe Notiz: [[8 grüne Ampeln-System]]  (Wichtig!)
 
 #### 2. **Vertrauensanker**
 
-* schon vor vielen Jahren **Testsieger Stiftung Warentest** (mit Konfliktmanagement-Seminaren
+* schon vor vielen Jahren **Testsieger Stiftung Warentest** (mit Konfliktmanagement-Seminaren; das betraf also nicht das 8 grüne Ampeln-System)
 * Nr. 1 Bestseller-Autor im renommierten Fachverlag Springer. Titel "Psychologisches Konfliktmanagement: Professionelles Handwerkszeug für Fach- und Führungskräfte" (2025 auch auf Englisch erschienen)
 * Das ARD-Fernsehen nannte ihn "Red Adair", in Anlehnung an den berühmten Feuerwehrmann, der auch aussichtslos scheinende Feuer oft löschen konnte
 * Zahlreiche hervorragende Testimonials von allen Hierarchie-Ebenen (bis hoch auf Vorstandsebene Dax-Unternehmen), darunter auch viele Video-Testimonials. Und hervorragende Empfehlungen in der Empfehlungs-Section im Linkedin-Profil
