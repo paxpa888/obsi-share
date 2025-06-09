@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/WS-Profil.md",
+                "file": "CCC/CCC-Kern-4-TIMM/ICP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WS-Profil"
+              "title": "ICP"
             }
           },
           {
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/WS-Profil.md",
+                "file": "CCC/CCC-Kern-4-TIMM/ICP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WS-Profil"
+              "title": "Backlinks for ICP"
             }
           },
           {
@@ -328,10 +328,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "d72e27c8300d3bbb",
   "lastOpenFiles": [
-    "CCC/CCC-Kern-4-TIMM/ICP.md",
     "CCC/CCC-Kern-4-TIMM/WS-Profil.md",
+    "CCC/CCC-Kern-4-TIMM/ICP.md",
     "CCC/CCC-Kern-4-TIMM/TechStack.md",
     "CCC/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "hl Obsi/Button Git-Save.md",
