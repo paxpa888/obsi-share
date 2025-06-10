@@ -1,9 +1,16 @@
 
-#Cnt #TKK
+#Cnt #TKK #CntXXX
+
 
 #XXXX "Polarisierte Gruppen: Faustregeln für Scouts"
 
 ( #XXXXX  dies für Vorträge oder ein Buch nutzen?)
+
+
+Kernpunkt: 
+Je weiter "oben" man ist, desto weniger darf man vom Main-Narrativ der Gruppe abweichen. Sonst ist man bald nicht mehr oben, man wird ausgespuckt.
+
+
 
 25+ Jahre als Mediator haben mich gelehrt:
 "Faustregeln für Leute mit aufrichtigem Scout-Mindset"
@@ -14,7 +21,6 @@ Groupthink befeuert Eskalation! - Ist das klug?
 "Groupthink? Das gibts nur bei der ANDEREN Gruppe" 
 
 Du willst herausfinden, ob Du womöglich Teil (Opfer?) von Groupthink bist? Paradoxe Faustregel: Ja, Du bist es, sobald Du glaubst, dass Groupthink  nur bei der GEGNERISCHEN Gruppe vorkommt.
-
 
 
 
