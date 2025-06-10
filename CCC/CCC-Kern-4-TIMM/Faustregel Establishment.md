@@ -9,6 +9,8 @@
 "Faustregeln für Leute mit aufrichtigem Scout-Mindset"
 - Abweichler nehmen mehr Risiken in Kauf, können für sich selber oft nichts gewinnen. Müssen daher meist 10x präziser und gründlicher prüfen."
 
+Groupthink befeuert Eskalation! - Ist das klug?
+
 "Groupthink? Das gibts nur bei der ANDEREN Gruppe" 
 
 Du willst herausfinden, ob Du womöglich Teil (Opfer?) von Groupthink bist? Paradoxe Faustregel: Ja, Du bist es, sobald Du glaubst, dass Groupthink  nur bei der GEGNERISCHEN Gruppe vorkommt.
