@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl Obsi/ObSi_ Ytb-Video embed.md",
+                "file": "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ObSi_ Ytb-Video embed"
+              "title": "Cnt-Ideen"
             }
           },
           {
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hl Obsi/ObSi_ Ytb-Video embed.md",
+                "file": "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ObSi_ Ytb-Video embed"
+              "title": "Backlinks for Cnt-Ideen"
             }
           },
           {
@@ -330,8 +330,10 @@
   },
   "active": "0f3ea52a85eae340",
   "lastOpenFiles": [
-    "LeadMagnets-XXX/Untitled.md",
     "hl Obsi/ObSi_ Ytb-Video embed.md",
+    "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
+    "CCC/Cnt-IdeenSammlung",
+    "LeadMagnets-XXX/Untitled.md",
     "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
     "CCC/CCC-Kern-4-TIMM/WS-Profil.md",
     "hl Obsi/Button Git-Save.md",
@@ -366,7 +368,6 @@
     "test/ausgerechnet-das-wichtigste-gewinnfeld-wird-fast-immer-schienle.md",
     "test.md",
     "test/warum-kollege-maier-sie-nicht-mehr-mag-oder-der-werner-schienle.md",
-    "test/miniperlen-denkanstöße-werner-schienle.md",
     "test/Attachments/1533245462738.png",
     "test/Attachments/1533127393491.jpeg",
     "test/Attachments/1533125290025.png",
@@ -374,7 +375,6 @@
     "test/Attachments/1533125271107.png",
     "test/Attachments/1533127277926.jpeg",
     "test/Attachments/1533125114279.png",
-    "test/Attachments",
-    "test"
+    "test/Attachments"
   ]
 }
