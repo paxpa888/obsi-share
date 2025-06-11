@@ -134,6 +134,20 @@
             }
           },
           {
+            "id": "cbc7245f8f8ecd63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hl Obsi/Button Git-Save.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Button Git-Save"
+            }
+          },
+          {
             "id": "69a99eea9fcb7a89",
             "type": "leaf",
             "state": {
@@ -162,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -255,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/Pickaxe-LeadMagnet.md",
+                "file": "hl Obsi/Button Git-Save.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +279,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pickaxe-LeadMagnet"
+              "title": "Backlinks for Button Git-Save"
             }
           },
           {
@@ -370,10 +384,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3b36aed8eefc7913",
+  "active": "cbc7245f8f8ecd63",
   "lastOpenFiles": [
-    "CCC/CCC-Kern-4-TIMM/WS-Profil.md",
+    "hl Obsi/Att/Pasted image 20250609131440.png",
+    "hl Obsi/Obsidian Metacard.md",
+    "hl Obsi/Hotkeys Obsidian.md",
+    "hl Obsi/hl ObSi allgemein.md",
+    "hl Obsi/Git Versionen-Check.md",
+    "hl Obsi/Button Git-Save.md",
+    "CCC/CCC-Kern-4-TIMM/YTb-Video in ObSi einbetten.md",
     "CCC/CCC-Kern-4-TIMM/Pickaxe-LeadMagnet.md",
+    "CCC/CCC-Kern-4-TIMM/WS-Profil.md",
     "LeadMagnets-XXX",
     "Untitled.md",
     "CCC/CCC-Kern-4-TIMM/ICP.md",
@@ -382,18 +403,12 @@
     "Reflexionen",
     "CCC/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "CCC/CCC-Kern-4-TIMM/FixMix.md",
-    "hl Obsi/hl ObSi allgemein.md",
     "CCC/CCC-Kern-4-TIMM/fixmix2.md",
     "CCC/Reflexionen",
     "CCC/CCC-Kern-4-TIMM/ICP-Weiteres.md",
     "CCC/CCC-Kern-4-TIMM/TechStack.md",
-    "hl Obsi/Button Git-Save.md",
     "WS-Profil",
     "CCC/WS-Profile",
-    "hl Obsi/Obsidian Metacard.md",
-    "hl Obsi/Hotkeys Obsidian.md",
-    "hl Obsi/Git Versionen-Check.md",
-    "hl Obsi/Att/Pasted image 20250609131440.png",
     "hl Obsi/Att",
     "Willkommen.md",
     "hl Obsi",
@@ -414,9 +429,7 @@
     "test/Attachments/1533127277926.jpeg",
     "test/Attachments/1533125114279.png",
     "test/konflikt-café-online-komm-dazu-lass-dich-inspirieren-mit-schienle.md",
-    "test/die-stille-revolution-macht-gänsehaut-sap-und-ein-traum-schienle.md",
     "test/Attachments",
-    "test",
-    "HTML import/TESTUmfrage-Antworten_gesamtedatei_25227-SCa-Konfl-im-Betrieb__gesamtemails_88-bv.md"
+    "test"
   ]
 }
