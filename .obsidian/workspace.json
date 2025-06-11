@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
+                "file": "CCC/CCC-Kern-4-TIMM/ICP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cnt-Ideen"
+              "title": "ICP"
             }
           },
           {
@@ -116,8 +116,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b28e6f22ef5a1dda",
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
+                "file": "CCC/CCC-Kern-4-TIMM/ICP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cnt-Ideen"
+              "title": "Backlinks for ICP"
             }
           },
           {
@@ -274,9 +273,9 @@
   },
   "active": "4f3561ada9c01f75",
   "lastOpenFiles": [
+    "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
     "Reflexionen/Faustregel Establishment.md",
     "CCC/CCC-Kern-4-TIMM/ICP.md",
-    "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
     "CCC/CCC-Kern-4-TIMM/WS-Profil.md",
     "CCC/CCC-Kern-4-TIMM/FixMix.md",
     "CCC/CCC-Kern-4-TIMM/SbSi_ YTb-Video bzw. webseiten einbetten.md",
