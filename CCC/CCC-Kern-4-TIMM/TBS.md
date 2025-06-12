@@ -16,3 +16,14 @@ Du siehst dort einen roten Pfeil. Er steht zwischen zwei "Sections".
 
 
 Entwickle drei verschiedene Ideen für Text und Design. Die auch einem kritischen Auge gefallen.
+
+---
+
+Trete ein paar Schritte zurück. Schaue alles im Detail UND im Gesamtzusammenhang an.
+
+Vergiss in diesem Chat all die früheren Bilder der Website, die Du kennst.
+
+Deine Bewertung?
+
+---
+
