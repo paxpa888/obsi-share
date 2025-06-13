@@ -18,6 +18,10 @@
 	* Unter WS-Kürzel "Rel25" arbeite ich an einem kompletten Redesign, umgesetzt mit Thrive Theme Builder (Shapeshift Theme)
 	* 
 
+
+# für Linkedin
+
+* getsales * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox * leaddelta
 ### Software (KI)
 
 * ChatGPT Plus

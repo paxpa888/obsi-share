@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/ICP.md",
+                "file": "CCC/CCC-Kern-4-TIMM/TechStack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICP"
+              "title": "TechStack"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/TBS.md",
+                "file": "CCC/CCC-Kern-4-TIMM/TechStack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBS"
+              "title": "TechStack"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "FixMix"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cnt",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +130,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b28e6f22ef5a1dda",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/TBS.md",
+                "file": "CCC/CCC-Kern-4-TIMM/TechStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TBS"
+              "title": "Backlinks for TechStack"
             }
           },
           {
@@ -286,9 +286,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "428e39f1e40ec355",
+  "active": "4f3561ada9c01f75",
   "lastOpenFiles": [
     "CCC/CCC-Kern-4-TIMM/ICP.md",
+    "CCC/CCC-Kern-4-TIMM/TechStack.md",
     "CCC/CCC-Kern-4-TIMM/TBS.md",
     "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
     "Reflexionen/Faustregel Establishment.md",
@@ -313,7 +314,6 @@
     "CCC/CCC-Kern-4-TIMM/fixmix2.md",
     "CCC/Reflexionen",
     "CCC/CCC-Kern-4-TIMM/ICP-Weiteres.md",
-    "CCC/CCC-Kern-4-TIMM/TechStack.md",
     "WS-Profil",
     "CCC/WS-Profile",
     "hl Obsi/Att",
