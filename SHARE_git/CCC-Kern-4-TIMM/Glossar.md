@@ -9,3 +9,4 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * TBd = Thunderbird (email Client)
 * ead = email adresse
 * 
+* 
