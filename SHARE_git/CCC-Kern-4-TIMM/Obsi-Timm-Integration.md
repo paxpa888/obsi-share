@@ -81,6 +81,9 @@ Wenn du nur selten darauf zugreifen musst:
 1. **+**-Button in der Chat-Eingabezeile → **Attach file**.
     
 2. Statt Datei hochzuladen, **raw-URL** einer einzelnen GitHub-Datei einfügen  
+
+#Muster-wl
+
     (z. B. `https://raw.githubusercontent.com/paxpa888/obsi-share/trunk/SHARE_git/CCC-Kern-4-TIMM/Untitled%201.md`).
     
 3. ChatGPT liest dann nur diese Datei.
