@@ -127,7 +127,7 @@
               "state": {
                 "file": "SHARE_git/CCC-Kern-4-TIMM/Untitled 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Untitled 1"
@@ -398,7 +398,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2bb717e478b2cccf",
+  "active": "64e7c135c9fb6ccd",
   "lastOpenFiles": [
     "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 1.md",
