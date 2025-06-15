@@ -1,0 +1,6 @@
+# Alle Dateien ignorieren …
+*
+# … außer .gitignore selbst und dem ganzen Ordner SHARE_git (inklusive Unterordner)
+!.gitignore
+!SHARE_git/
+!SHARE_git/**
