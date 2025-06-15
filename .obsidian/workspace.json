@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
+                "file": "CCC/CCC-Kern-4-TIMM/ICP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruben Hasid_ Mehrstufen-Prompts"
+              "title": "ICP"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
+                "file": "CCC/CCC-Kern-4-TIMM/ICP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ruben Hasid_ Mehrstufen-Prompts"
+              "title": "Backlinks for ICP"
             }
           },
           {
@@ -302,8 +302,10 @@
   },
   "active": "1660bb8327441d0e",
   "lastOpenFiles": [
-    "CCC/CCC-Kern-4-TIMM/TechStack.md",
+    "CCC/CCC-Kern-4-TIMM/FixMix.md",
+    "CCC/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "CCC/CCC-Kern-4-TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
+    "CCC/CCC-Kern-4-TIMM/TechStack.md",
     "TIMM/Prompt-Bspe",
     "TIMM",
     "CCC/CCC-Kern-4-TIMM/ICP.md",
@@ -311,7 +313,6 @@
     "CCC/Cnt-IdeenSammlung/Cnt-Ideen.md",
     "Reflexionen/Faustregel Establishment.md",
     "CCC/CCC-Kern-4-TIMM/WS-Profil.md",
-    "CCC/CCC-Kern-4-TIMM/FixMix.md",
     "CCC/CCC-Kern-4-TIMM/SbSi_ YTb-Video bzw. webseiten einbetten.md",
     "hl Obsi/Button Git-Save.md",
     "hl Obsi/Hotkeys Obsidian.md",
@@ -327,7 +328,6 @@
     "Untitled.md",
     "CCC/CCC-Kern-4-TIMM/Testimonials.md",
     "Reflexionen",
-    "CCC/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "CCC/CCC-Kern-4-TIMM/fixmix2.md",
     "CCC/Reflexionen",
     "CCC/CCC-Kern-4-TIMM/ICP-Weiteres.md",
