@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ICP"
+              "title": "Backlinks for Produktideen"
             }
           },
           {
@@ -314,10 +314,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8fad2148d09aec59",
+  "active": "2978d0363e590e01",
   "lastOpenFiles": [
-    "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
     "SHARE_git/CCC-Kern-4-TIMM/ICP.md",
+    "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "Produkt-Idee uae",
     "SHARE_git/CCC-Kern-4-TIMM/FixMix.md",
