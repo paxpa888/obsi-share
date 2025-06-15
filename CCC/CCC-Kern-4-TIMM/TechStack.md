@@ -16,7 +16,8 @@
 * Pabbly  (LTD), aber bisher nicht genutzt, Stand 9.Juni25)
 * WordPress für die eigene Website
 	* Unter WS-Kürzel "Rel25" arbeite ich an einem kompletten Redesign, umgesetzt mit Thrive Theme Builder (Shapeshift Theme)
-	* 
+	*
+	Canva Pro
 
 
 # für Linkedin
