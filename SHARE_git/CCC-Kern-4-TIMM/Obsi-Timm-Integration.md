@@ -71,3 +71,17 @@ Wenn du _doch_ einen frischen Standard-Chat nutzt:
 
 So hast du abhängig vom Szenario immer den bequemsten Zugang zu deinem GitHub-Wissensspeicher.
 ---
+
+---
+16.06.2025
+## Weg 3 – „Schnell & temporär“ (ohne Project, ohne Custom GPT)
+
+Wenn du nur selten darauf zugreifen musst:
+
+1. **+**-Button in der Chat-Eingabezeile → **Attach file**.
+    
+2. Statt Datei hochzuladen, **raw-URL** einer einzelnen GitHub-Datei einfügen  
+    (z. B. `https://raw.githubusercontent.com/paxpa888/obsi-share/trunk/SHARE_git/CCC-Kern-4-TIMM/Untitled%201.md`).
+    
+3. ChatGPT liest dann nur diese Datei.
+---
