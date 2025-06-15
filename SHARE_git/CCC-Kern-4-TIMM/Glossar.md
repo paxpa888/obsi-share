@@ -8,5 +8,5 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * TCmd = Total Commander (App)
 * TBd = Thunderbird (email Client)
 * ead = email adresse
-* 
+* win10 = Windows Version 10
 * 
