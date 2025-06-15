@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stack",
+                "query": "gitign",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/push_test.md.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for push_test.md"
+              "title": "Backlinks for ICP"
             }
           },
           {
@@ -370,10 +370,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "840b80932b41b893",
+  "active": "8fad2148d09aec59",
   "lastOpenFiles": [
-    "SHARE_git/CCC-Kern-4-TIMM/test3.md",
     "SHARE_git/CCC-Kern-4-TIMM/push_test.md.md",
+    "SHARE_git/CCC-Kern-4-TIMM/test3.md",
     "SHARE_git/CCC-Kern-4-TIMM/test2.md",
     "SHARE_git/CCC-Kern-4-TIMM/test.md",
     "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
