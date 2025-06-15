@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "2978d0363e590e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCC/CCC-Kern-4-TIMM/Produktideen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Produktideen"
+            }
+          },
+          {
             "id": "428e39f1e40ec355",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/TechStack.md",
+                "file": "CCC/CCC-Kern-4-TIMM/Produktideen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TechStack"
+              "title": "Backlinks for Produktideen"
             }
           },
           {
@@ -300,13 +314,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1660bb8327441d0e",
+  "active": "2978d0363e590e01",
   "lastOpenFiles": [
+    "CCC/CCC-Kern-4-TIMM/TechStack.md",
+    "CCC/CCC-Kern-4-TIMM/Produktideen.md",
+    "Produkt-Idee uae",
     "CCC/CCC-Kern-4-TIMM/ICP.md",
     "CCC/CCC-Kern-4-TIMM/FixMix.md",
     "CCC/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "CCC/CCC-Kern-4-TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
-    "CCC/CCC-Kern-4-TIMM/TechStack.md",
     "TIMM/Prompt-Bspe",
     "TIMM",
     "CCC/CCC-Kern-4-TIMM/TBS.md",
@@ -335,12 +351,10 @@
     "CCC/WS-Profile",
     "hl Obsi/Att",
     "Willkommen.md",
-    "hl Obsi",
     "HTML import/die-stille-revolution-macht-gänsehaut-sap-und-ein-traum-schienle.md",
     "HTML import/20250227-SCa ausgefüllt. Von_ A B_ _Konflikt im Betrieb_ Ihr Sofort-Check für die nächsten Schritte_-127.md",
     "HTML import/Attachments/1541429471857.jpeg",
     "HTML import/Attachments/1541462023165.jpeg",
-    "test/ausgerechnet-das-wichtigste-gewinnfeld-wird-fast-immer-schienle.md",
     "test/Attachments/1533245462738.png",
     "test/Attachments/1533127393491.jpeg",
     "test/Attachments/1533125290025.png",
