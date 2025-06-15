@@ -11,3 +11,4 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * win10 = Windows Version 10
 
 Mist - echt jetzt
+endlich klappt es
