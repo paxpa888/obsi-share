@@ -155,7 +155,7 @@
               "state": {
                 "file": "SHARE_git/CCC-Kern-4-TIMM/MetaCard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "MetaCard"
