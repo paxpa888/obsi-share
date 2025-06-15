@@ -311,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/MetaCard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +321,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ICP"
+              "title": "Backlinks for MetaCard"
             }
           },
           {
@@ -426,13 +426,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8fad2148d09aec59",
+  "active": "f7f83a19e9017a02",
   "lastOpenFiles": [
+    "SHARE_git/CCC-Kern-4-TIMM/ICP.md",
     "SHARE_git/CCC-Kern-4-TIMM/MetaCard.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 2.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 1.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
-    "SHARE_git/CCC-Kern-4-TIMM/ICP.md",
     "SHARE_git/CCC-Kern-4-TIMM/push_test.md.md",
     "SHARE_git/CCC-Kern-4-TIMM/test3.md",
     "SHARE_git/CCC-Kern-4-TIMM/test2.md",
