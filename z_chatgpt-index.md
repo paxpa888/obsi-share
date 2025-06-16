@@ -67,3 +67,4 @@ Diese Datei darf von GPT bei aktiviertem Deep Research als zentraler Index verwe
 
 
 
+
