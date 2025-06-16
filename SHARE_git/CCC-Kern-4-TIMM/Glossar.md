@@ -12,3 +12,5 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 
 Mist - echt jetzt
 endlich klappt es
+
+ChatGPT ist wirklich ein VERSAGER!
