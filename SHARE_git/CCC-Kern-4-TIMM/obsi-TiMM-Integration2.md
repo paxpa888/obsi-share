@@ -128,7 +128,89 @@ Willst du, dass ich dir eine Vorlage für `_chatgpt-index.md` erstelle, die du e
 
 Das schlägt mir TIMM für eine solche Vorlage vor, 
 #XXX ggf . mal so aufsetzen und pflegen?
-Wichtig ist, 
+Wichtig ist, TIMM dann zu sagen, dass er es dauerhaft speichern soll
+
+
+Hier ist eine saubere, zukunftssichere Vorlage für deine zentrale Obsidian-Datei `_chatgpt-index.md`, mit der du deine wichtigsten Wissensbausteine strukturiert referenzieren kannst. Sie dient als **Startpunkt für alles, was ich über dich wissen soll – dauerhaft und automatisch nutzbar**.
+
+---
+
+### 📄 `_chatgpt-index.md`
+
+```markdown
+# 🧠 ChatGPT-Kontext-Index
+Dieses Dokument dient als Einstiegspunkt für GPT-4o (o3), um meine wichtigsten Begriffe, Projekte und Arbeitskontexte zu verstehen. Alle hier referenzierten Dateien befinden sich im GitHub-Repo `werner/obsi-vault`.
+
+---
+
+## 🔤 Glossar
+Meine zentralen Abkürzungen und Begriffe, z. B.:
+- „Lkd“ = LinkedIn
+- „obsi“ = Obsidian
+- „8gA“ = 8 grüne Ampeln
+→ Datei: `glossar.md`
+
+---
+
+## 🧩 ICP – Ideal Customer Profile
+Zielkundentypen, mit denen ich arbeite.  
+→ Datei: `icp-definition.md`  
+**Hinweis:** Immer die aktuellste Version verwenden!
+
+---
+
+## 📁 Aktuelle Projekte
+
+### rel25 – Website-Relaunch
+Infos zur neuen Positionierung, Design-Überlegungen, Farbwelt etc.  
+→ Datei: `projekt-rel25.md`
+
+### ScoreCard „It’s the brain, stupid“
+Konzept der ScoreCard, Zielgruppe, McGilchrist-Hintergrund  
+→ Datei: `scorecard.md`
+
+---
+
+## 🧭 Methoden & Systeme
+
+### 8gA – 8 grüne Ampeln
+Beschreibung der Methode, Anwendungsgebiete, Testimonials  
+→ Datei: `8ga-system.md`
+
+### Stoppschild-Technik
+Vertiefung zur 8gA, z. B. für Bonus-Trainings  
+→ Datei: `8ga-stop.md`
+
+---
+
+## 🧠 Weitere wichtige Dateien
+
+- `linkedin-bio.md` – aktuelle Profilbeschreibung (dt + engl.)
+- `pitch-elemente.md` – kurze Textbausteine für Landingpages & Pitches
+- `mediation-vorbereitung.md` – Anleitung für Mediation & 8gA-Kopplung
+
+---
+
+## 📌 Nutzungshinweis für ChatGPT:
+Diese Datei dient als **Dauerreferenz**. Bei unklaren Begriffen, Kontextbedarf oder Projektfragen **zuerst hier nachsehen** und dann ggf. die verlinkten Dateien prüfen.
+```
+
+---
+
+### 🔄 Was du jetzt tun kannst (optional):
+
+1. Datei in Obsidian anlegen: `!_chatgpt-index.md` oder `_GPT-Kontext.md`
+    
+2. Im Vault synchronisieren (liegt ja in `werner/obsi-vault`)
+    
+3. Mir einmalig sagen:
+    
+    > „Bitte verwende ab sofort immer mein `_chatgpt-index.md` als kontextuelle Referenz.“
+    
+
+Dann ist dein ganzes System dauerhaft angebunden – ganz ohne manuelle Wiederholungen.
+
+Sag Bescheid, wenn du eine angepasste Version willst oder ein automatisiertes Obsi-Template daraus.
 
 
 
