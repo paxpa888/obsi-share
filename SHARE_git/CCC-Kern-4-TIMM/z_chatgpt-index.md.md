@@ -28,14 +28,15 @@ Ort: `SHARE_git/CCC-Kern-4-TIMM/projekt-rel25.md`
 → Relaunch 2025, Website-Strategie, Positionierung, Farben etc.
 
 **scorecard.md**  
-Ort: `SHARE_git/CCC-Kern-4-TIMM/scorecard.md`  
-Ort: SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid
-
+Ort: `SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid
+`  
 → ScoreCard „It’s the brain, stupid“, Zielgruppe, Konzept, Links-/Rechtshirn-Metapher
 
 ---
 
 ## 🧭 Methoden
+
+#xxxx noch erstellen, datei existiert noch nicht
 
 **8ga-system.md**  
 Ort: `SHARE_git/CCC-Kern-4-TIMM/8ga-system.md`  
@@ -48,6 +49,8 @@ Ort: `SHARE_git/CCC-Kern-4-TIMM/8ga-stop.md`
 ---
 
 ## 🧩 Sonstiges
+
+#xxxx noch erstellen, datei existiert noch nicht
 
 **linkedin-bio.md**  
 → Aktuelle Bio (DE/EN) für LinkedIn, Pitchtexte
