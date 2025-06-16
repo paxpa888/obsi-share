@@ -247,12 +247,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
+                "file": "Reflexionen/Faustregel Establishment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pickaxe-LeadMagnet"
+              "title": "Faustregel Establishment"
             }
           },
           {
@@ -405,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
+                "file": "Reflexionen/Faustregel Establishment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +415,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pickaxe-LeadMagnet"
+              "title": "Backlinks for Faustregel Establishment"
             }
           },
           {
@@ -522,6 +522,7 @@
   },
   "active": "fa8b6a1ecb571106",
   "lastOpenFiles": [
+    "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
     "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
     "z_chatgpt-index.md",
@@ -550,7 +551,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "TIMM/Prompt-Bspe",
     "TIMM",
-    "SHARE_git/CCC-Kern-4-TIMM/TBS.md",
     "SHARE_git/Cnt-IdeenSammlung",
     "hl Obsi/Att/Pasted image 20250609131440.png",
     "LeadMagnets-XXX",
