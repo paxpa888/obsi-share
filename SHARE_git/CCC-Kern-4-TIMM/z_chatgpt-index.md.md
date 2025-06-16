@@ -29,6 +29,8 @@ Ort: `SHARE_git/CCC-Kern-4-TIMM/projekt-rel25.md`
 
 **scorecard.md**  
 Ort: `SHARE_git/CCC-Kern-4-TIMM/scorecard.md`  
+Ort: SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid
+
 → ScoreCard „It’s the brain, stupid“, Zielgruppe, Konzept, Links-/Rechtshirn-Metapher
 
 ---
