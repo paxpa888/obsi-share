@@ -13,5 +13,5 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * bv-e = "Brief von, als Email" = Ich habe von jdm eine Mail erhalten
 * TBS = Textbaustein
 * rel25 = "Relaunch 25" = der grundlegende Relaunch meiner Firmenwebsite
-* 
+* WS = Werner Schienle (= ich selber)
 

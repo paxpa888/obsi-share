@@ -79,7 +79,9 @@ Ich merke mir das dauerhaft – **kein Wiederholen nötig**.
 
 ## 🧩 Ergänzungsidee: Ein zentrales Obsi-Dokument
 
-#XXX 
+#XXX #hlObSi 
+WS: guter Tipp!, mal so anlegen, p3
+
 Wenn du willst, kannst du ein zentrales Dokument anlegen wie  
 `_chatgpt-index.md` oder `_GPT-kontext.md`, mit Inhalt wie:
 
