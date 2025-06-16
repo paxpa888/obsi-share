@@ -8,7 +8,7 @@ Diese Datei dient als zentrales Einstiegstor für GPT-4o bei aktiviertem Deep Re
 ## 🔤 Glossar & Begriffe
 
 **Glossar.md**  
-Ort: `SHARE_git/CCC-Kern-4-TIMM/Glossar.md`  
+Ort: `SHARE_git/Glossar.md`  
 → Enthält alle relevanten Abkürzungen wie „aks“, „ba-e“, „Lkd“, „obsi“ etc.
 
 ---
@@ -16,7 +16,7 @@ Ort: `SHARE_git/CCC-Kern-4-TIMM/Glossar.md`
 ## 🎯 ICP (Ideal Customer Profile)
 
 **icp-definition.md**  
-Ort: `SHARE_git/CCC-Kern-4-TIMM/icp-definition.md`  
+Ort: `SHARE_git/icp-definition.md`  
 → Aktuell gültige Zielkundenbeschreibung (z. B. für rel25, ScoreCard, Coaching-Angebote)
 
 ---

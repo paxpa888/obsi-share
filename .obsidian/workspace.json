@@ -247,12 +247,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/Glossar.md",
+                "file": "SHARE_git/z_chatgpt-index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossar"
+              "title": "z_chatgpt-index.md"
             }
           },
           {
@@ -385,7 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/Glossar.md",
+                "file": "SHARE_git/z_chatgpt-index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -395,7 +395,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Glossar"
+              "title": "Backlinks for z_chatgpt-index.md"
             }
           },
           {
@@ -502,11 +502,11 @@
   },
   "active": "fa8b6a1ecb571106",
   "lastOpenFiles": [
+    "SHARE_git/Glossar.md",
     "SHARE_git/z_chatgpt-index.md.md",
     "SHARE_git/ICP-Definition.md",
     "Reflexionen/Faustregel Establishment.md",
     "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
-    "SHARE_git/Glossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
     "z_chatgpt-index.md",
     "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
