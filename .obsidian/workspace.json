@@ -288,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -381,7 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +391,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for z_chatgpt-index.md"
+              "title": "Backlinks for Glossar"
             }
           },
           {
@@ -496,12 +496,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fa8b6a1ecb571106",
+  "active": "4c687a4fafbe60f5",
   "lastOpenFiles": [
+    "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
     "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
     "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
-    "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
     "SHARE_git/CCC-Kern-4-TIMM/Obsi-Timm-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 1.md",

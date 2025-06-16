@@ -23,5 +23,6 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * TstiT = Text-Testimonal
 * aks = Akquise-Step
 * pic = mein Sammelbegriff für Bild, image, Grafik
+* lp = laufendes Projekt (statt einfach nur "Projekt" zu sagen)
 * 
 
