@@ -22,5 +22,6 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * TstiV = Video-Testimonial
 * TstiT = Text-Testimonal
 * aks = Akquise-Step
+* pic = mein Sammelbegriff für Bild, image, Grafik
 * 
 
