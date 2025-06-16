@@ -247,12 +247,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflexionen/Faustregel Establishment.md",
+                "file": "SHARE_git/z_chatgpt-index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faustregel Establishment"
+              "title": "z_chatgpt-index.md"
             }
           },
           {
@@ -405,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reflexionen/Faustregel Establishment.md",
+                "file": "SHARE_git/z_chatgpt-index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +415,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Faustregel Establishment"
+              "title": "Backlinks for z_chatgpt-index.md"
             }
           },
           {
@@ -522,6 +522,7 @@
   },
   "active": "fa8b6a1ecb571106",
   "lastOpenFiles": [
+    "Reflexionen/Faustregel Establishment.md",
     "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
     "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
@@ -548,7 +549,6 @@
     "Produkt-Idee uae",
     "SHARE_git/CCC-Kern-4-TIMM/FixMix.md",
     "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
-    "SHARE_git/CCC-Kern-4-TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "TIMM/Prompt-Bspe",
     "TIMM",
     "SHARE_git/Cnt-IdeenSammlung",
