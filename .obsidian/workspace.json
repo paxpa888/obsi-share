@@ -211,7 +211,17 @@
               "state": {
                 "file": "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "lp_Sca_Its-the-brain-stupid"
@@ -316,7 +326,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -409,7 +419,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +429,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lp_Sca_Its-the-brain-stupid"
+              "title": "Backlinks for Glossar"
             }
           },
           {
@@ -524,7 +534,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e30f4dc366ab6650",
+  "active": "4c687a4fafbe60f5",
   "lastOpenFiles": [
     "SHARE_git/CCC-Kern-4-TIMM/lp_rel25.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
