@@ -12,5 +12,6 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * ba-e = "Brief an, als Email" = ich habe jdm eine Mail geschrieben
 * bv-e = "Brief von, als Email" = Ich habe von jdm eine Mail erhalten
 * TBS = Textbaustein
-* rel25 = "Relaunch 2"
+* rel25 = "Relaunch 25" = der grundlegende Relaunch meiner Firmenwebsite
+* 
 
