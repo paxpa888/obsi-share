@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "z_chatgpt-index.md"
+              "title": "ICP-Definition"
             }
           },
           {
@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsi-TiMM-Integration2"
+              "title": "z_chatgpt-index.md"
             }
           },
           {
@@ -288,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -353,12 +353,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICP"
+              "title": "ICP-Definition"
             }
           }
         ]
@@ -496,14 +496,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "384776353ed365c2",
+  "active": "fa8b6a1ecb571106",
   "lastOpenFiles": [
-    "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
-    "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
     "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
+    "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
+    "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
+    "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
     "SHARE_git/CCC-Kern-4-TIMM/Obsi-Timm-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
-    "SHARE_git/CCC-Kern-4-TIMM/ICP.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 1.md",
     "SHARE_git/CCC-Kern-4-TIMM/MetaCard.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 2.md",

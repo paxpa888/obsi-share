@@ -90,7 +90,7 @@
 
 Gehört zu
 [[CCC]]
-[[ICP]]
+[[ICP-Definition]]
 [[Kerndaten]]
 
 #CCC #ICP #Kern

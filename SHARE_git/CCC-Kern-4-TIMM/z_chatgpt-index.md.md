@@ -1,4 +1,4 @@
-Zentrale Index-Datei, damit TIMM die relevanten Files zuverlässig auf Github finden kann.
+**Zentrale Index-Datei**, damit TIMM die relevanten Files zuverlässig auf Github finden kann.
 
 # 🧠 ChatGPT-Kontext-Index
 Diese Datei dient als zentrales Einstiegstor für GPT-4o bei aktiviertem Deep Research. Sie verweist auf alle weiteren Kontext-Dateien im TiMM-Vault (Repo: paxpa888/obsi-share), die für saubere Begriffsverwendung, Projektbezug und inhaltliche Konsistenz nötig sind.

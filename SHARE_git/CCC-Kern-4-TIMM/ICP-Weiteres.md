@@ -1,5 +1,5 @@
 #XXXX 
-[[ICP]]
+[[ICP-Definition]]
 
 Timm DeepResearch 25609
 
@@ -283,7 +283,7 @@ https://phlow.de/ki-prompts/text-ki-wer-zielgruppe/
 
 Gehört zu
 [[CCC]]
-[[ICP]]
+[[ICP-Definition]]
 [[Kerndaten]]
 
 #CCC #ICP #Kern

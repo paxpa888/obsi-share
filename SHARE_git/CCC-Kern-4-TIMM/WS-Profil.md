@@ -58,7 +58,7 @@ Genaueres siehe Notiz: [[8 grüne Ampeln-System]]  (Wichtig!)
 
 #### 3. **ICP (Ideal Customer Profile)**
 
-Inhalt siehe Notiz: [[ICP]]
+Inhalt siehe Notiz: [[ICP-Definition]]
 - 
 
 #### 4. **Angebotsformate** (fast nur B2B)
