@@ -324,6 +324,7 @@
       {
         "id": "68b5b791d4a9d0bb",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "44c75d6aab52c37a",
@@ -370,6 +371,7 @@
       {
         "id": "b28e6f22ef5a1dda",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "8fad2148d09aec59",
@@ -405,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/z_chatgpt-index.md.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +417,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for z_chatgpt-index.md"
+              "title": "Backlinks for ICP-Definition"
             }
           },
           {
@@ -520,8 +522,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fa8b6a1ecb571106",
+  "active": "8fad2148d09aec59",
   "lastOpenFiles": [
+    "SHARE_git/z_chatgpt-index.md.md",
     "Reflexionen/Faustregel Establishment.md",
     "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
     "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
@@ -529,7 +532,6 @@
     "z_chatgpt-index.md",
     "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
     "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md",
-    "SHARE_git/z_chatgpt-index.md.md",
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
     "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
