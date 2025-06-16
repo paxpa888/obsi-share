@@ -63,4 +63,7 @@ Ort: `SHARE_git/CCC-Kern-4-TIMM/8ga-stop.md`
 ## 📌 GPT-Hinweis
 Diese Datei darf von GPT bei aktiviertem Deep Research als zentraler Index verwendet werden, um automatisch auf die jeweils aktuellste Version der verlinkten Dateien zuzugreifen – **ohne dass explizit darauf hingewiesen werden muss**.
 
-.
+.Stand 16.06.2025 01:25 am
+
+
+
