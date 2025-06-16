@@ -15,5 +15,6 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * rel25 = "Relaunch 25" = der grundlegende Relaunch meiner Firmenwebsite
 * WS = Werner Schienle (= ich selber)
 * hd = Festplatte (hard disk)
+* TiMM-Vault = für ChatGPT gepflegter Vault in Obsidian
 * 
 
