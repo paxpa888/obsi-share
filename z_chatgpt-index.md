@@ -65,6 +65,9 @@ Diese Datei darf von GPT bei aktiviertem Deep Research als zentraler Index verwe
 
 .Stand 16.06.2025 01:25 am
 
+edit in place, stand 16.06.2025, 13h08
+
+
 
 
 
