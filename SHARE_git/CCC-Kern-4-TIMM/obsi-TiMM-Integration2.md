@@ -79,6 +79,7 @@ Ich merke mir das dauerhaft – **kein Wiederholen nötig**.
 
 ## 🧩 Ergänzungsidee: Ein zentrales Obsi-Dokument
 
+#XXX 
 Wenn du willst, kannst du ein zentrales Dokument anlegen wie  
 `_chatgpt-index.md` oder `_GPT-kontext.md`, mit Inhalt wie:
 
