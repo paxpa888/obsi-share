@@ -65,3 +65,6 @@ Ich arbeite im Moment an folgendem Projekt:
 
 Wenn du willst, kann ich dir daraus auch eine kleine `.txt`-Datei oder Obsidian-Vorlage machen, die du immer griffbereit hast. Sag Bescheid.
 
+
+---
+
