@@ -9,10 +9,7 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * TBd = Thunderbird (email Client)
 * ead = email adresse
 * win10 = Windows Version 10
-* ba-e = "Brief an, als Email"
-* bv-e = "Brief von, als Email"
+* ba-e = "Brief an, als Email" = ich habe jdm eine Mail geschrieben
+* bv-e = "Brief von, als Email" = Ich habe von jdm eine Mail erhalten
+* TBS = Textbaustein
 
-Mist - echt jetzt
-endlich klappt es
-
-ChatGPT ist wirklich ein VERSAGER!
