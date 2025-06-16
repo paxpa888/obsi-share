@@ -18,5 +18,8 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * TiMM-Vault = für ChatGPT gepflegter Vault in Obsidian
 * df = meine spezifische Definition von Kürzeln u.ä.
 * VMail = Videomail (die ich z.B. oft in der App "Dubb" erstelle und dort hoste)
+* TSti = Testimonial
+* TstiV = Video-Testimonial
+* TstiT = Text-Testimonal
 * 
 
