@@ -21,5 +21,6 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * TSti = Testimonial
 * TstiV = Video-Testimonial
 * TstiT = Text-Testimonal
+* aks = Akquise-Step
 * 
 
