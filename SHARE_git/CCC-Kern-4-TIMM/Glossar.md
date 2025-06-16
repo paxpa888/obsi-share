@@ -9,6 +9,8 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * TBd = Thunderbird (email Client)
 * ead = email adresse
 * win10 = Windows Version 10
+* ba-e = "Brief an, als Email"
+* bv-e = "Brief von, als Email"
 
 Mist - echt jetzt
 endlich klappt es
