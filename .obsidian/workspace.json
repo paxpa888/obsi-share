@@ -284,6 +284,20 @@
             }
           },
           {
+            "id": "04aaf0c5e9ae718c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "error_TIMM-GitHub-Integration"
+            }
+          },
+          {
             "id": "0f3ea52a85eae340",
             "type": "leaf",
             "state": {
@@ -326,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -419,7 +433,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +443,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for z_chatgpt-index.md"
+              "title": "Backlinks for error_TIMM-GitHub-Integration"
             }
           },
           {
@@ -534,10 +548,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "428e39f1e40ec355",
+  "active": "04aaf0c5e9ae718c",
   "lastOpenFiles": [
-    "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
     "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
+    "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
+    "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
     "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_rel25.md",
@@ -564,7 +579,6 @@
     "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
     "Reflexionen/Faustregel Establishment.md",
     "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
-    "SHARE_git/CCC-Kern-4-TIMM/SbSi_ YTb-Video bzw. webseiten einbetten.md",
     "SHARE_git/Cnt-IdeenSammlung",
     "hl Obsi/Att/Pasted image 20250609131440.png",
     "LeadMagnets-XXX",
