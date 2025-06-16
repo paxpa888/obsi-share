@@ -125,3 +125,11 @@ Ich ziehe mir dann alle Infos **automatisch aus diesem Index-Dokument + den refe
 Willst du, dass ich dir eine Vorlage für `_chatgpt-index.md` erstelle, die du einfach in Obsidian übernehmen kannst?
 
 ---
+
+Das schlägt mir TIMM für eine solche Vorlage vor, 
+#XXX ggf . mal so aufsetzen und pflegen?
+Wichtig ist, 
+
+
+
+---
