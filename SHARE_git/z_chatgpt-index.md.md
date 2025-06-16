@@ -23,8 +23,8 @@ Ort: `SHARE_git/icp-definition.md`
 
 ## 📁 Projekte
 
-**projekt-rel25.md**  
-Ort: `SHARE_git/CCC-Kern-4-TIMM/projekt-rel25.md`  
+**lp_rel25.md**  
+Ort: `SHARE_git/lp_rel25.md`  
 → Relaunch 2025, Website-Strategie, Positionierung, Farben etc.
 
 **scorecard.md**  
