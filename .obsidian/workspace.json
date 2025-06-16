@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
+                "file": "SHARE_git/Glossar.md",
                 "mode": "source",
                 "source": false
               },
@@ -233,7 +233,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
+                "file": "SHARE_git/ICP-Definition.md",
                 "mode": "source",
                 "source": false
               },
@@ -385,7 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
+                "file": "SHARE_git/ICP-Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -505,14 +505,14 @@
     "SHARE_git/z_chatgpt-index.md.md",
     "Reflexionen/Faustregel Establishment.md",
     "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
-    "SHARE_git/CCC-Kern-4-TIMM/Glossar.md",
+    "SHARE_git/Glossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
     "z_chatgpt-index.md",
     "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md.md",
     "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md",
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
-    "SHARE_git/CCC-Kern-4-TIMM/ICP-Definition.md",
+    "SHARE_git/ICP-Definition.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_rel25.md",
     "SHARE_git/CCC-Kern-4-TIMM/Obsi-Timm-Integration.md",
