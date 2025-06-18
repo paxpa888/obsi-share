@@ -275,12 +275,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cnt_ AiKi-HilfeTipps.md",
+                "file": "SHARE_git/lp_rel25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cnt_ AiKi-HilfeTipps"
+              "title": "lp_rel25"
             }
           },
           {
@@ -413,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cnt_ AiKi-HilfeTipps.md",
+                "file": "SHARE_git/lp_rel25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +423,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cnt_ AiKi-HilfeTipps"
+              "title": "Backlinks for lp_rel25"
             }
           },
           {
@@ -528,11 +528,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "26c42019dc8b46c3",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
-    "AiKi-Agents bauen.md",
+    "rel25",
     "Cnt_ AiKi-HilfeTipps.md",
-    "Untitled",
+    "AiKi-Agents bauen.md",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
     "Cnt-Creation",
     "testglossar.md",
@@ -558,7 +558,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 2.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
     "SHARE_git/CCC-Kern-4-TIMM/push_test.md.md",
-    "SHARE_git/CCC-Kern-4-TIMM/test3.md",
     "Produkt-Idee uae",
     "TIMM/Prompt-Bspe",
     "TIMM",
