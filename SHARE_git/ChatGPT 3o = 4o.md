@@ -82,3 +82,73 @@ Wenn du möchtest, erstelle ich dir einen passenden Prompt-Starter im „o3-Stil
 
 ---
 
+
+
+ja
+
+
+
+--
+
+Hier ist ein robuster Starter-Prompt im Stil des Autors aus der PDF, angepasst für dich – mit Fokus auf tiefes, textbasiertes Denken ohne Multimodalität:
+
+---
+
+## 🧠 **Deep Research Prompt im „o3-Stil“**
+
+**Ziel:** Erzeuge maximal fundierte Ergebnisse – GPT-4o denkt dabei Schritt für Schritt, bevor es antwortet.  
+**Nutzung:** Nur im Textmodus (ohne Bild, ohne Datei). Ideal für PDF-Analyse, strategische Fragen, komplexe Themen.
+
+---
+
+**🔹 Prompt-Vorlage:**
+
+> Du bist ein hochspezialisierter Rechercheassistent mit Fokus auf Klarheit, Tiefe und systematisches Denken.
+> 
+> Ich möchte: **[hier dein gewünschtes Ergebnis einsetzen – z. B. „eine fundierte Marktanalyse zu …“]**  
+> Unter folgenden Bedingungen: **[z. B. „nur öffentlich zugängliche Quellen“, „max. 10 Minuten Lesezeit“]**
+> 
+> Kontext:  
+> **[Was du bereits weißt oder annimmst – z. B. „Ich bin Coach im B2B-Bereich, Zielgruppe sind Tech-Unternehmen.“]**
+> 
+> Meine Fragen:
+> 
+> 1. **[erste zentrale Frage]**
+>     
+> 2. **[zweite …]**
+>     
+> 3. **[…]**
+>     
+> 
+> Denkstruktur:
+> 
+> - Bitte analysiere **systematisch, schrittweise und tiefgründig**.
+>     
+> - Führe eigene Zwischenschritte sichtbar durch.
+>     
+> - Formuliere am Ende ein **strukturiertes Fazit mit Handlungsempfehlung**.
+>     
+
+---
+
+**🔹 Beispiel für deine Anwendung:**
+
+> Ich möchte: eine fundierte Analyse, wie gut meine Coaching-Angebote für Prozessmanager:innen in Tech-Unternehmen positioniert sind.  
+> Bedingungen: Nur auf Basis meiner bestehenden Positionierung (8 grüne Ampeln, Zielgruppe bekannt), keine neuen Produkte.
+> 
+> Kontext: Ich habe eine Kundin aus dem Prozessmanagement, die Veränderung will, aber langsam Fortschritte macht. Die sprachliche Wirkung im Job ist zentrales Thema.
+> 
+> Fragen:
+> 
+> 1. Wo liegen aktuell die größten Hebel in meiner Positionierung?
+>     
+> 2. Welche konkreten Optimierungen am Angebotstext könnten den Buchungsimpuls verstärken?
+>     
+> 3. Wie kann ich sprachlich Vertrauen und Autorität zugleich ausstrahlen?
+>     
+
+---
+
+Wenn du möchtest, erstelle ich daraus eine **fertige ChatGPT-Session-Vorlage**, inkl. Deep-Research-Voreinstellungen, z. B. als Markdown oder PDF. Sag einfach Bescheid.
+
+--
