@@ -289,12 +289,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
+                "file": "SHARE_git/lp_rel25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rel25 für TIMM lieber jpg oder URL"
+              "title": "lp_rel25"
             }
           },
           {
@@ -427,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
+                "file": "SHARE_git/lp_rel25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -437,7 +437,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rel25 für TIMM lieber jpg oder URL"
+              "title": "Backlinks for lp_rel25"
             }
           },
           {
@@ -544,8 +544,8 @@
   },
   "active": "0ab34622d0dea108",
   "lastOpenFiles": [
-    "SHARE_git/lp_rel25.md",
     "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
+    "SHARE_git/lp_rel25.md",
     "rel25",
     "Cnt_ AiKi-HilfeTipps.md",
     "AiKi-Agents bauen.md",

@@ -1,4 +1,8 @@
-Soll ich ChatGPT lieber jpg oder URL zur Verfügung stellen
+#hl-rel25
+[[lp_rel25]] 
+
+Soll ich ChatGPT lieber jpg oder URL zur Verfügung stellen und zeigen?
+
 timm:
 
 Hier ist eine **Vergleichstabelle** der beiden Methoden – aus der Perspektive: **Wie gut kann ich dir damit helfen** (z. B. Analyse, Feedback, Textoptimierung, Designkritik etc.).
