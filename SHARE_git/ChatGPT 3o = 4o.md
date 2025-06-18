@@ -152,3 +152,4 @@ Hier ist ein robuster Starter-Prompt im Stil des Autors aus der PDF, angepasst f
 Wenn du möchtest, erstelle ich daraus eine **fertige ChatGPT-Session-Vorlage**, inkl. Deep-Research-Voreinstellungen, z. B. als Markdown oder PDF. Sag einfach Bescheid.
 
 --
+
