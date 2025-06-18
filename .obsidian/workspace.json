@@ -270,6 +270,20 @@
             }
           },
           {
+            "id": "26c42019dc8b46c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cnt_ AiKi-HilfeTipps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cnt_ AiKi-HilfeTipps"
+            }
+          },
+          {
             "id": "e89990641ad23ba0",
             "type": "leaf",
             "state": {
@@ -326,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -399,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AiKi-Agents bauen.md",
+                "file": "Cnt_ AiKi-HilfeTipps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,7 +423,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AiKi-Agents bauen"
+              "title": "Backlinks for Cnt_ AiKi-HilfeTipps"
             }
           },
           {
@@ -514,11 +528,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "26c42019dc8b46c3",
   "lastOpenFiles": [
+    "AiKi-Agents bauen.md",
+    "Cnt_ AiKi-HilfeTipps.md",
+    "Untitled",
+    "Cnt-Creation/Cnt_AiKi-Hilfen",
     "Cnt-Creation",
     "testglossar.md",
-    "AiKi-Agents bauen.md",
     "z_chatgpt-index.md",
     "SHARE_git/testglossar.md",
     "SHARE_git/z_chatgpt-index.md",
@@ -550,9 +567,6 @@
     "LeadMagnets-XXX",
     "Reflexionen",
     "SHARE_git/Reflexionen",
-    "WS-Profil",
-    "CCC/WS-Profile",
-    "hl Obsi/Att",
     "HTML import/Attachments/1541429471857.jpeg",
     "HTML import/Attachments/1541462023165.jpeg",
     "test/Attachments/1533245462738.png",
