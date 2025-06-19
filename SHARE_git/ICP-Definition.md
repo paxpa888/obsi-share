@@ -21,7 +21,9 @@
 
 ### **3. Probleme & Herausforderungen**
 
-- - **Teamkommunikation holpert**. Aber eventuell ist der der Führungskraft gar nicht bewusst, warum es holpert und hakt. Eventuell ist ihr nicht bewusst, dass die Ursachen in einer schlechten "Chemie" (also Beziehungsebene) liegt. Die Führungskraft hat u.U. keine guten Antennen für die Bedeutung der Beziehungsebene.
+- **Wichtig: Manche Personen haben unmittelbar akute Spannungen oder Konflikte in ihrem direkten Umfeld. Die sollen sich gleich zu Beginn beim Besuch meiner Website so fühlen, dass genau diese Situation adressiert wird und hier die Lösung wartet!**
+    
+* ***Teamkommunikation holpert**. Aber eventuell ist der der Führungskraft gar nicht bewusst, warum es holpert und hakt. Eventuell ist ihr nicht bewusst, dass die Ursachen in einer schlechten "Chemie" (also Beziehungsebene) liegt. Die Führungskraft hat u.U. keine guten Antennen für die Bedeutung der Beziehungsebene.
     
 - **Reibungsverluste**, z. B. durch unterschwellige Spannungen oder Missverständnisse, geringe Chemie-Kompetenz
     
@@ -32,8 +34,7 @@
 - Der **Produktivitätsverlust** durch zwischenmenschliche Probleme wird **systematisch unterschätzt**
     
 - Hohe mentale Belastung durch **unausgesprochene Konflikte**, und vielleicht auch Situationen, wo der Führungskraft gar nicht bewusst ist, dass der Flaschenhals für eine bessere Produktivität darin liegt, dass die "Chemie" nicht gut ist, also die Beziehungsebene der Flaschenhals ist.
-- Wichtig: Manche Personen haben unmittelbar akute Spannungen oder Konflikte in ihrem direkten Umfeld. Die sollen sich gleich zu Beginn beim Besuch meiner Website so fühlen, dass genau diese Situation adress
-    
+- 
 
 ### **4. Haltung & Mindset**
 
