@@ -14,7 +14,7 @@
 * Größe: 100 bis 3.000 MitarbeiterInnen*
 * Technisch geprägt
 	* z.B. IT, Software, Engineering, Technik, Automatisierung, IT-Security, QM, Prozessmanagement
-	* Können auch andere Branchen sein, dort aber ist der Zielkunden dann insbesondere in der IT angesiedelt
+	* Können auch andere Branchen sein, dort aber ist der Zielkunden dann insbesondere in der IT-Abteilung oder in sonstigen technischen Bereichen des Unternehmens angesiedelt
 * Unternehmen bzw. Unternehmensbereich mit Matrixstrukturen oder hohem Abstimmungsbedarf
 
    
