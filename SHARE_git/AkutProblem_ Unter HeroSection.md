@@ -9,6 +9,7 @@ Auch kurzfristige Unterstützung möglich. In drei Schritten:
 2) Situation erörtern
 3) Zeitnah Optionen entwickeln
 
+→ So gewinnen Sie schnell wieder Klarheit & Handlungsspielraum.
 
 
 3 konkrete Schritte
