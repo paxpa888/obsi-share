@@ -18,6 +18,7 @@ Sie suchen ganz akut
 
 Sie suchen eine Lösung für eine aktuelle Situation?
 
+Lösung für eine **akute** Situation erforderlich?
 
 
 Kurzfristige Soforthilfe nutzen
