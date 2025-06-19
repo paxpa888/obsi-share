@@ -38,6 +38,7 @@
 
 - Eher fokussierend auf Strukturen und Prozesse.  
 	- dabei kann es sein, dass eine Führungskraft sich dessen bewusst ist, wie wichtig "Chemie" ist, es kann aber auch sein, dass es sich um eine Führungskraft handelt, die sich dessen NICHT bewusst ist.
+	- Gemäß den wichtigen Arbeiten des Neurowissenschaftlers Dr. Iain McGilchrist macht es einen großen Unterschied, ob sozusagen unsere linke Hirnäfte ihre Aufmerksamkeit auf die Welt richtet (die kontroll)
 - 
 - Intellektuell wach, selbstreflektiert, **lösungsorientiert**
     
