@@ -8,11 +8,12 @@ Auch kurzfristige Unterstützung möglich!
 * Anrufen
 
 
-➤ So helfe ich Ihnen in 3 
+So helfe ich Ihnen in 3 Schritten
 
-➤ Mail schreiben – ich antworte persönlich
+Mail schreiben – ich antworte persönlich
 
-➤ Anrufen – ich nehme mir Zeit
+Anrufen – Situation erörtern
+
 
 3 einfache Schritte
 
