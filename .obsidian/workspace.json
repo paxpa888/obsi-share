@@ -128,9 +128,23 @@
               "icon": "lucide-file",
               "title": "ICP-Definition"
             }
+          },
+          {
+            "id": "3641f8f788ed0540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SHARE_git/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -183,8 +197,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/ICP-Definition.md",
+                "file": "SHARE_git/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +227,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ICP-Definition"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -319,8 +332,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3a270ad5a30583a6",
+  "active": "3641f8f788ed0540",
   "lastOpenFiles": [
+    "SHARE_git/ICP-Definition.md",
+    "SHARE_git/Untitled.md",
     "SHARE_git/ICP-Definition_Stand-25619b.md",
     "SHARE_git/Glossar_Stand-25619b.md",
     "SHARE_git/CCC-Kern-4-TIMM/ICP-Weiteres.md",
@@ -330,7 +345,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
     "SHARE_git/Glossar.md",
-    "SHARE_git/ICP-Definition.md",
     "SHARE_git/lp_rel25.md",
     "AiKi-Agents bauen.md",
     "testglossar.md",
@@ -347,7 +361,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/test2.md",
     "SHARE_git/CCC-Kern-4-TIMM/test.md",
     "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
-    "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "rel25",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
     "Cnt-Creation",
