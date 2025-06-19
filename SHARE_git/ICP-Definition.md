@@ -42,9 +42,7 @@
 - 
 - Intellektuell wach, selbstreflektiert, **lösungsorientiert**
     
-- Nicht primär „weichgespült“, sondern **wirkungssuchend**
-    
-- Will kein Kuschel-Coaching, sondern **klare Wirkung auf Produktivität & Zusammenarbeit**
+- - Will kein Kuschel-Coaching, sondern **klare Wirkung auf Produktivität & Zusammenarbeit**
     
 - Offen für neue Perspektiven, aber kritisch gegenüber **Pseudotools** oder **Weichzeichner-Coaching**
     
