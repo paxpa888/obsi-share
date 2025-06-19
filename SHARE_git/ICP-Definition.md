@@ -31,13 +31,13 @@
     
 - Der **Produktivitätsverlust** durch zwischenmenschliche Probleme wird **systematisch unterschätzt**
     
-- Hohe mentale Belastung durch **unausgesprochene Konflikte**, und vielleicht auch Situationen, wo der Führungskraft gar nicht bewusst ist, dass der Flaschenhals für eine bessere Produktivität darin liegt, dass die "Chemie" nicht gut ist, also die Beziehungsebene 
+- Hohe mentale Belastung durch **unausgesprochene Konflikte**, und vielleicht auch Situationen, wo der Führungskraft gar nicht bewusst ist, dass der Flaschenhals für eine bessere Produktivität darin liegt, dass die "Chemie" nicht gut ist, also die Beziehungsebene der Flaschenhals ist.
     
 
 ### **4. Haltung & Mindset**
 
 - Eher fokussierend auf Strukturen und Prozesse.  
-	- 
+	- dabei kann es sein, dass eine Führungskraft sich dessen bewusst ist, wie wichtig "Chemie" ist, es kann aber auch sein, dass es sich um eine Führungskraft handelt, die sich dessen NICHT bewusst ist.
 - 
 - Intellektuell wach, selbstreflektiert, **lösungsorientiert**
     
