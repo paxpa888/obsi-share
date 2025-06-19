@@ -31,7 +31,7 @@
     
 - Der **Produktivitätsverlust** durch zwischenmenschliche Probleme wird **systematisch unterschätzt**
     
-- Hohe mentale Belastung durch **unausgesprochene Konflikte**
+- Hohe mentale Belastung durch **unausgesprochene Konflikte**, und vielleicht auch Situationen, wo der Führungskraft gar nicht bewusst ist, dass der Flaschenhals für eine bessere Produktivität darin liegt, dass die "Chemie" nicht gut ist, also die Beziehungsebene 
     
 
 ### **4. Haltung & Mindset**
