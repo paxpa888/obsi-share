@@ -3,6 +3,13 @@
 ## _akuter_ Sand im Getriebe? 
 Auch kurzfristige Unterstützung möglich!
 
+## _Akuter_ Sand im Getriebe? 
+Auch kurzfristige Unterstützung möglich, in drei Schritten:
+1) Kontakt aufnehmen
+2) 
+
+
+
 3 konkrete Schritte
 
 * Mehr erfahren
