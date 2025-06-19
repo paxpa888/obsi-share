@@ -10,7 +10,9 @@ Akut erschwerte Zusammenarbeit?
 
 Akuter Sand im Getriebe?
 
-Akuten Sand im Getriebe? Finden Sie hier zeitnahe Unterstützung.
+Akuter Sand im Getriebe? Finden Sie hier zeitnahe Unterstützung.
+
+Akuter Sand im Getriebe? Unterstützung hier!
 
 
 Sie haben aktuell Sand im Getriebe
