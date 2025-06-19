@@ -6,6 +6,12 @@ Aktuell Stress im Miteinander?
 
 *Akuter* Stress in der Zusammenarbeit?
 
+Akut erschwerte Zusammenarbeit?
+
+Akuter Sand im Getriebe?
+
+Sie haben aktuell Sand im Getriebe
+
 
 
 Kurzfristige Soforthilfe nutzen
