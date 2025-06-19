@@ -1,9 +1,11 @@
 19.06.2025
 
-## **Akuter** Sand im Getriebe? 
+## _akuter_ Sand im Getriebe? 
 Auch kurzfristige Unterstützung möglich!
 
 * Mehr erfahren
+* Mail schicken
+* Anrufen
 * 
 
 
