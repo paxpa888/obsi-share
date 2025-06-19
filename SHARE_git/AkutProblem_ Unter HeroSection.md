@@ -12,7 +12,9 @@ Akuter Sand im Getriebe?
 
 Akuter Sand im Getriebe? Finden Sie hier zeitnahe Unterstützung.
 
-Akuter Sand im Getriebe? Unterstützung hier!
+Akuter Sand im Getriebe? Sofortunterstützung nutzen!
+
+
 
 
 Sie haben aktuell Sand im Getriebe
