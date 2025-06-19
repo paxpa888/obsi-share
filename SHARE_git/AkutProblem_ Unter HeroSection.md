@@ -17,7 +17,7 @@ Akuter Sand im Getriebe? Sofortunterstützung nutzen!
 Akuter Sand im Getriebe? Hier gibt's auch Sofortunterstützung.
 
 
-Akuter Sand im Getriebe? Hier gibt's auch Sofortunterstützung.
+**Akuter** Sand im Getriebe? 
 Auch kurzfristige Unterstützung möglich!
 
 
