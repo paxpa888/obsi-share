@@ -102,34 +102,6 @@
             }
           },
           {
-            "id": "26c42019dc8b46c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/lp_rel25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lp_rel25"
-            }
-          },
-          {
-            "id": "0ab34622d0dea108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/lp_rel25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lp_rel25"
-            }
-          },
-          {
             "id": "8f1a53e27037da2e",
             "type": "leaf",
             "state": {
@@ -156,65 +128,9 @@
               "icon": "lucide-file",
               "title": "Aktuell-XXXXX"
             }
-          },
-          {
-            "id": "e89990641ad23ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIMM-Limits"
-            }
-          },
-          {
-            "id": "04aaf0c5e9ae718c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "error_TIMM-GitHub-Integration"
-            }
-          },
-          {
-            "id": "cbc7245f8f8ecd63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hl Obsi/Button Git-Save.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Button Git-Save"
-            }
-          },
-          {
-            "id": "69a99eea9fcb7a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCC/CCC-Kern-4-TIMM/FixMix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FixMix"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -287,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/lp_rel25.md",
+                "file": "SHARE_git/Aktuell-XXXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lp_rel25"
+              "title": "Backlinks for Aktuell-XXXXX"
             }
           },
           {
@@ -402,17 +318,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "26c42019dc8b46c3",
+  "active": "3a270ad5a30583a6",
   "lastOpenFiles": [
+    "SHARE_git/Aktuell-XXXXX.md",
+    "hl Obsi/Button Git-Save.md",
+    "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
+    "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
+    "SHARE_git/Glossar.md",
     "SHARE_git/ICP-Definition.md",
+    "SHARE_git/lp_rel25.md",
     "AiKi-Agents bauen.md",
     "testglossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
-    "SHARE_git/lp_rel25.md",
     "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
     "Zertifizierung Bafa",
-    "SHARE_git/Glossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/Obsi-Timm-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 1.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 2.md",
@@ -423,15 +343,11 @@
     "SHARE_git/CCC-Kern-4-TIMM/test.md",
     "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
-    "SHARE_git/Aktuell-XXXXX.md",
     "SHARE_git/ICP-Definition_Stand-25619a.md",
     "SHARE_git/Glossar_Stand-25618.md",
     "SHARE_git/Glossar_Stand-25619.md",
     "SHARE_git/ChatGPT 3o = 4o.md",
-    "SHARE_git/Templates_ von KI erzeugt.md",
-    "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
     "rel25",
-    "Cnt_ AiKi-HilfeTipps.md",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
     "Cnt-Creation",
     "Produkt-Idee uae",
