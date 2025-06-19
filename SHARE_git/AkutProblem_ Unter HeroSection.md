@@ -3,12 +3,14 @@
 ## _akuter_ Sand im Getriebe? 
 Auch kurzfristige Unterstützung möglich!
 
+3 konkrete Schritte
+
 * Mehr erfahren
 * Mail schicken, ich antworte persönlich
 * Anrufen
 
 
-So helfe ich Ihnen in 3 Schritten
+So helfe ich in 3 Schritten
 
 Mail schreiben – ich antworte persönlich
 
