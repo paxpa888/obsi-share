@@ -162,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glossar",
+                "query": "zielgruppe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +183,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -318,7 +319,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3a270ad5a30583a6",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "SHARE_git/Aktuell-XXXXX.md",
     "hl Obsi/Button Git-Save.md",
