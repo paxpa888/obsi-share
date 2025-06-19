@@ -4,9 +4,10 @@
 Auch kurzfristige Unterstützung möglich!
 
 ## _Akuter_ Sand im Getriebe? 
-Auch kurzfristige Unterstützung möglich, in drei Schritten:
+Auch kurzfristige Unterstützung möglich. In drei Schritten:
 1) Kontakt aufnehmen
-2) 
+2) Situation erörtern
+3) Zeitnah Optionen entwickeln
 
 
 
