@@ -21,7 +21,7 @@
 
 ### **3. Probleme & Herausforderungen**
 
-- **Teamkommunikation holpert**
+- **Teamkommunikation holpert**. Aber eventuell ist der der Führungskraft
     
 - **Reibungsverluste**, z. B. durch unterschwellige Spannungen oder Missverständnisse, geringe Chemie-Kompetenz
     
