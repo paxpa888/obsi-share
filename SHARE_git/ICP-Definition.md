@@ -38,7 +38,7 @@
 
 - Eher fokussierend auf Strukturen und Prozesse.  
 	- dabei kann es sein, dass eine Führungskraft sich dessen bewusst ist, wie wichtig "Chemie" ist, es kann aber auch sein, dass es sich um eine Führungskraft handelt, die sich dessen NICHT bewusst ist.
-	- Gemäß den wichtigen Arbeiten des Neurowissenschaftlers Dr. Iain McGilchrist macht es einen großen Unterschied, ob sozusagen unsere linke Hirnhälfte ihre Aufmerksamkeit auf die Welt richtet (die kontrollierend ist), oder die rechte Hirnhälfte. Wer ganz ganz überwiegend mit der linken Hirnhälfte schaut, der kann sehr gut Strukturen und Prozesse gestalten, aber er übersieht die Bedeutung von Beziehungsebene.
+	- Gemäß den wichtigen Arbeiten des Neurowissenschaftlers Dr. Iain McGilchrist macht es einen großen Unterschied, ob sozusagen unsere linke Hirnhälfte ihre Aufmerksamkeit auf die Welt richtet (die kontrollierend ist), oder die rechte Hirnhälfte. Wer ganz ganz überwiegend mit der linken Hirnhälfte schaut, der kann sehr gut Strukturen und Prozesse gestalten, aber er übersieht die Bedeutung von Beziehungsebene. In der Ansprache und im Wording sollten tendenziell eher die "Linkshirnigen" angesprochen werden. Aber die "Rechtshirner" sollten sich nicht abgestoßen fühlen.
 - 
 - Intellektuell wach, selbstreflektiert, **lösungsorientiert**
     
