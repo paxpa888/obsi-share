@@ -102,34 +102,6 @@
             }
           },
           {
-            "id": "fa8b6a1ecb571106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testglossar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "testglossar"
-            }
-          },
-          {
-            "id": "a38c1a1eceb06b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AiKi-Agents bauen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AiKi-Agents bauen"
-            }
-          },
-          {
             "id": "26c42019dc8b46c3",
             "type": "leaf",
             "state": {
@@ -242,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -315,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/Zertifizierung Bafa wl-Liste.md",
+                "file": "SHARE_git/lp_rel25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +297,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zertifizierung Bafa wl-Liste"
+              "title": "Backlinks for lp_rel25"
             }
           },
           {
@@ -430,8 +402,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e6f69c6024fe33da",
+  "active": "26c42019dc8b46c3",
   "lastOpenFiles": [
+    "SHARE_git/ICP-Definition.md",
+    "AiKi-Agents bauen.md",
+    "testglossar.md",
+    "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
+    "SHARE_git/lp_rel25.md",
     "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
     "Zertifizierung Bafa",
@@ -448,20 +425,15 @@
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "SHARE_git/Aktuell-XXXXX.md",
     "SHARE_git/ICP-Definition_Stand-25619a.md",
-    "SHARE_git/ICP-Definition.md",
     "SHARE_git/Glossar_Stand-25618.md",
     "SHARE_git/Glossar_Stand-25619.md",
     "SHARE_git/ChatGPT 3o = 4o.md",
     "SHARE_git/Templates_ von KI erzeugt.md",
-    "SHARE_git/lp_rel25.md",
     "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
     "rel25",
     "Cnt_ AiKi-HilfeTipps.md",
-    "AiKi-Agents bauen.md",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
     "Cnt-Creation",
-    "testglossar.md",
-    "z_chatgpt-index.md",
     "Produkt-Idee uae",
     "TIMM/Prompt-Bspe",
     "TIMM",
