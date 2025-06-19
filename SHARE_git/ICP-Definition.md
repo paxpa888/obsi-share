@@ -21,7 +21,7 @@
 
 ### **3. Probleme & Herausforderungen**
 
-- **Teamkommunikation holpert**. Aber eventuell ist der der Führungskraft
+- **Teamkommunikation holpert**. Aber eventuell ist der der Führungskraft gar nicht bewusst, warum es holpert und hakt. Eventuell ist ihr nicht bewusst, dass die Ursachen in einer schlechten "Chemie" (also Beziehungsebene) liegt. 
     
 - **Reibungsverluste**, z. B. durch unterschwellige Spannungen oder Missverständnisse, geringe Chemie-Kompetenz
     
