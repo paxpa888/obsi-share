@@ -36,6 +36,8 @@
 
 ### **4. Haltung & Mindset**
 
+- Eher fokussierend auf Strukturen und Prozesse
+- 
 - Intellektuell wach, selbstreflektiert, **lösungsorientiert**
     
 - Nicht primär „weichgespült“, sondern **wirkungssuchend**
