@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "icp",
+                "query": "rel25",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +197,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -332,7 +333,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3641f8f788ed0540",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "SHARE_git/ICP-Definition_Stand-25619c.md",
     "SHARE_git/ICP-Definition.md",
