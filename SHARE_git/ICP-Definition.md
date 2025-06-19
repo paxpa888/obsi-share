@@ -32,7 +32,7 @@
 - Der **Produktivitätsverlust** durch zwischenmenschliche Probleme wird **systematisch unterschätzt**
     
 - Hohe mentale Belastung durch **unausgesprochene Konflikte**, und vielleicht auch Situationen, wo der Führungskraft gar nicht bewusst ist, dass der Flaschenhals für eine bessere Produktivität darin liegt, dass die "Chemie" nicht gut ist, also die Beziehungsebene der Flaschenhals ist.
-- Wichtig: Manche 
+- Wichtig: Manche Personen haben unmittelbar akute Spannungen oder Konflikte in ihrem direkten Umfeld. Die sollen sich gleich zu Beginn beim Besuch meiner Website so fühlen, dass genau diese Situation adress
     
 
 ### **4. Haltung & Mindset**
