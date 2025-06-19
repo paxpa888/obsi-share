@@ -1,5 +1,9 @@
 19.06.2025
 
+**Akuter** Sand im Getriebe? 
+Auch kurzfristige Unterstützung möglich!
+
+
 Aktuell Stress im Miteinander?
 
 *Akuter* Stress im Miteinander?
@@ -17,8 +21,6 @@ Akuter Sand im Getriebe? Sofortunterstützung nutzen!
 Akuter Sand im Getriebe? Hier gibt's auch Sofortunterstützung.
 
 
-**Akuter** Sand im Getriebe? 
-Auch kurzfristige Unterstützung möglich!
 
 
 
