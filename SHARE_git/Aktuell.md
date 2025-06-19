@@ -1,3 +1,0 @@
-
-CHP
-* frühzeitig auf Frontpage *

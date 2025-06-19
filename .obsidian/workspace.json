@@ -317,12 +317,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/Aktuell.md",
+                "file": "SHARE_git/Aktuell-XXXXX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aktuell"
+              "title": "Aktuell-XXXXX"
             }
           },
           {
@@ -455,7 +455,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/Aktuell.md",
+                "file": "SHARE_git/Aktuell-XXXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +465,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aktuell"
+              "title": "Backlinks for Aktuell-XXXXX"
             }
           },
           {
@@ -573,7 +573,7 @@
   "active": "3a270ad5a30583a6",
   "lastOpenFiles": [
     "SHARE_git/Glossar.md",
-    "SHARE_git/Aktuell.md",
+    "SHARE_git/Aktuell-XXXXX.md",
     "SHARE_git/ICP-Definition_Stand-25619a.md",
     "SHARE_git/ICP-Definition.md",
     "SHARE_git/Glossar_Stand-25618.md",
