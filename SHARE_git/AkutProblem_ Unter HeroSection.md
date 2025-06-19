@@ -4,9 +4,15 @@
 Auch kurzfristige Unterstützung möglich!
 
 * Mehr erfahren
-* Mail schicken
+* Mail schicken, ich antworte persönlich
 * Anrufen
 
+
+➤ So helfe ich Ihnen in 3 
+
+➤ Mail schreiben – ich antworte persönlich
+
+➤ Anrufen – ich nehme mir Zeit
 
 3 einfache Schritte
 
