@@ -3,7 +3,7 @@
 
 ### Position und Verantwortung
 
-* Führungskräfte und Geschäftsleitende** in Unternehmen 
+* Führungskräfte und Geschäftsleitende in Unternehmen 
 - Personen möglichst mit **Budgetverantwortung**
 - Teams mit hoher fachlicher Exzellenz, aber **Kommunikations- oder Kooperationsschwierigkeiten
 * Einzelpersonen in anspruchsvollen Rollen**, z. B. Prozessmanagement
