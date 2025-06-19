@@ -12,6 +12,12 @@ Akuter Sand im Getriebe?
 
 Sie haben aktuell Sand im Getriebe
 
+Sie haben genau jetzt Sand im Getriebe
+
+Sie suchen ganz akut 
+
+Sie suchen eine Lösung für eine aktuelle Situation?
+
 
 
 Kurzfristige Soforthilfe nutzen
