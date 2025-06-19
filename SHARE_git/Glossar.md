@@ -25,7 +25,8 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * pic = mein Sammelbegriff für Bild, image, Grafik
 * lp = laufendes Projekt (statt einfach nur "Projekt" zu sagen)
 * FK = Führungskraft
-* pic = mein Sammelbegriff für a
+* pic = mein Sammelbegriff für all dieses: Image, Bild, Grafik, und Ähnliches.
+* 
 
 
 
