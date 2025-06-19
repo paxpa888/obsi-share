@@ -286,7 +286,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/Glossar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Glossar"
+              "title": "Backlinks"
             }
           },
           {
@@ -401,8 +400,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4c687a4fafbe60f5",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
+    "Zertifizierung Bafa",
+    "SHARE_git/Glossar.md",
+    "SHARE_git/Untitled.md",
     "SHARE_git/CCC-Kern-4-TIMM/Obsi-Timm-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 1.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 2.md",
@@ -414,7 +416,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "SHARE_git/Aktuell-XXXXX.md",
-    "SHARE_git/Glossar.md",
     "SHARE_git/ICP-Definition_Stand-25619a.md",
     "SHARE_git/ICP-Definition.md",
     "SHARE_git/Glossar_Stand-25618.md",
@@ -430,8 +431,6 @@
     "Cnt-Creation",
     "testglossar.md",
     "z_chatgpt-index.md",
-    "SHARE_git/testglossar.md",
-    "SHARE_git/z_chatgpt-index.md",
     "Produkt-Idee uae",
     "TIMM/Prompt-Bspe",
     "TIMM",
