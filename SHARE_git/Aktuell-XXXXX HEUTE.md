@@ -6,6 +6,10 @@ CHP
 
 #8gA-Page
 
+Kompass, Navigationssystem, Hebel
+
+Bedeutung der Beziehungsebene - das geht aber noch viel tiefer. Frage "wer hat die Wahrheit"
+
 
 
 
