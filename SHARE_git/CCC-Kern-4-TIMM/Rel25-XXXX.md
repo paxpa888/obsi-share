@@ -1,4 +1,6 @@
-
+#rel25 
+[[ChatGPT vs Perplexity DeepResearch]]
+[[]]
 # XXXXX Ausbaustufe MVP
 
 * Sub-Page Datenschutz
@@ -24,22 +26,13 @@
 ---
 # XXXX Ausbaustufe 2
 
-
-
 ### Plugins:
 * publitio (?)
 
 
 
-## Spamsicherheit
-
-
-ERLEDIGT:
-
-- Security Plugin installieren: iThemes Security Pro: erl: 11:30 22.05.2025
-    
-
 ---
+
 
 ---
 
