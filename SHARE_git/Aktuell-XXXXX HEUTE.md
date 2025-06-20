@@ -18,6 +18,14 @@ Kenntnis unserer Denk- und Wahrnehmungsmechanismen
 
 It's the Brain, Stupid
 
+Die 8 Ampeln sind kein Theoriemodell – sie sind ein Trainingspfad
+
+**Kooperation braucht kein Kuschel-Coaching.**  
+Sie braucht Struktur, Tiefe – und das richtige Werkzeug. Genau das leisten die 8 grünen Ampeln.
+
+**Die 8 Ampeln sind wie ein Körperscan – aber für Zusammenarbeit.**  
+Sie zeigen, wo es klemmt – und wie man es wieder fließen lässt.
+
 
 
 
