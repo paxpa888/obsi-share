@@ -1,6 +1,7 @@
 #rel25 
 [[ChatGPT vs Perplexity DeepResearch]]
-[[]]
+[[lp_rel25]]
+
 # XXXXX Ausbaustufe MVP
 
 * Sub-Page Datenschutz
