@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/ChatGPT vs Perplexity DeepResearch.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT vs Perplexity DeepResearch"
+              "title": "obsi-TiMM-Integration2"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xxx",
+                "query": "rel25 xxx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,8 +225,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/ChatGPT vs Perplexity DeepResearch.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +255,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ChatGPT vs Perplexity DeepResearch"
+              "title": "Backlinks for obsi-TiMM-Integration2"
             }
           },
           {
@@ -361,10 +360,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c5eba6c59425c63f",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
-    "SHARE_git/AkutProblem_ Unter HeroSection.md",
+    "SHARE_git/lp_rel25.md",
+    "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
     "SHARE_git/ChatGPT vs Perplexity DeepResearch.md",
+    "SHARE_git/AkutProblem_ Unter HeroSection.md",
     "SHARE_git/rel25-XXXX.md",
     "SHARE_git/ICP-Definition_Stand-25619c.md",
     "SHARE_git/ICP-Definition.md",
@@ -377,7 +378,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
     "SHARE_git/Glossar.md",
-    "SHARE_git/lp_rel25.md",
     "AiKi-Agents bauen.md",
     "testglossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
@@ -389,7 +389,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/Untitled 2.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
     "SHARE_git/CCC-Kern-4-TIMM/push_test.md.md",
-    "SHARE_git/CCC-Kern-4-TIMM/test3.md",
     "rel25",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
     "Cnt-Creation",
