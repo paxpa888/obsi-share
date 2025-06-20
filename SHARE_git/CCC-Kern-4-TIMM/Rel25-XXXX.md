@@ -5,33 +5,34 @@
 * Sub-Page Impressum
 * Sub-Page für 8gA erstellen.
 
+### PLUGINS:
+* Borlab Cookies
+* eRecht24
+
+---
 
 # XXXX Ausbaustufe 1
 
-Google Analytics einbauen, TIMM fragen
-
-# XXXX Ausbaustufe 2
-
-
-
-
-
-PLUGINS:
-
-Borlab Cookies
-
-eRecht24
-
-publitio (?)
-
-## Spamsicherheit
-
+* Google Analytics einbauen, TIMM fragen
 - ead verschlüsseln, dto bzgl. Tel.nr.
     
     - im Footer.
         
     - direkt unter HeroSection
         
+
+---
+# XXXX Ausbaustufe 2
+
+
+
+### Plugins:
+* publitio (?)
+
+
+
+## Spamsicherheit
+
 
 ERLEDIGT:
 
