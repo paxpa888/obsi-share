@@ -26,6 +26,14 @@ Sie braucht Struktur, Tiefe – und das richtige Werkzeug. Genau das leisten die
 **Die 8 Ampeln sind wie ein Körperscan – aber für Zusammenarbeit.**  
 Sie zeigen, wo es klemmt – und wie man es wieder fließen lässt.
 
+**Die 8 grünen Ampeln sind wie ein Kompass für Beziehungsintelligenz.**  
+Sie helfen, sich in heiklen Situationen besser zu orientieren – ganz ohne Druck oder Theorieballast.
+
+Das Destillat aus 25 Jahren Erfahrung an der Schnittstelle von Kooperation, Kommunikation und Klarheit.
+
+**Viele Führungskräfte setzen auf Prozesse.**  
+Die 8 Ampeln setzen bei dem an, was Prozesse behindert: Beziehungslücken, Unsicherheiten, Missverständnisse.
+
 
 
 
