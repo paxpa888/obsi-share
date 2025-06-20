@@ -232,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "8ga",
+                "query": "tag:#Beziehungsebene",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -389,7 +389,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fc0f82b4877a22cc",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "rel25/Rel25-XXXX.md",
     "Cnt-Creation/Cnt-Tipps von Experten.md",

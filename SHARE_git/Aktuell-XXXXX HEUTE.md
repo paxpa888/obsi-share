@@ -8,7 +8,11 @@ CHP
 
 Kompass, Navigationssystem, Hebel
 
-Bedeutung der Beziehungsebene - das geht aber noch viel tiefer. Frage "wer hat die Wahrheit"
+Ein spannender Aspekt ist: Manche der Inhalte haben erst in ihren AUSWIRKUNGEN den pos. Einfluss auf Bez.ebene
+
+Bedeutung der #Beziehungsebene - das geht aber noch viel tiefer. Frage "wer hat die Wahrheit" ...
+
+
 
 
 
