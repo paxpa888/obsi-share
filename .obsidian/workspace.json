@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rel25/Untitled.md",
+                "file": "Cnt-Creation/Cnt-Tipps von Experten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Cnt-Tipps von Experten"
             }
           },
           {
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Untitled.md",
+                "file": "Cnt-Creation/Cnt-Tipps von Experten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Cnt-Tipps von Experten"
             }
           },
           {
@@ -388,10 +388,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fc0f82b4877a22cc",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
     "rel25/Rel25-XXXX.md",
-    "rel25/Untitled.md",
+    "Cnt-Creation/Cnt-Tipps von Experten.md",
     "TIMM/Prompt-Bspe/Prompt-NICHT-HALLUZINIEREN.md",
     "SHARE_git/ChatGPT 3o = 4o.md",
     "TIMM/TIMM-Limits.md",
