@@ -9,6 +9,7 @@
 * Sub-Page Impressum
 * Sub-Page für 8gA erstellen.
 * Sub-Page "About" erstellen
+* Links im Footer korrigieren
 * 
 
 ### PLUGINS:
