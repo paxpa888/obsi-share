@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/rel25-XXXX.md",
+                "file": "SHARE_git/AkutProblem_ Unter HeroSection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rel25-XXXX"
+              "title": "Backlinks for AkutProblem_ Unter HeroSection"
             }
           },
           {
@@ -346,10 +346,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "51865bc6a9e74b0f",
+  "active": "3641f8f788ed0540",
   "lastOpenFiles": [
-    "SHARE_git/AkutProblem_ Unter HeroSection.md",
     "SHARE_git/rel25-XXXX.md",
+    "SHARE_git/AkutProblem_ Unter HeroSection.md",
     "SHARE_git/ICP-Definition_Stand-25619c.md",
     "SHARE_git/ICP-Definition.md",
     "SHARE_git/ICP-Definition_Stand-25619b.md",
