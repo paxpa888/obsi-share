@@ -3,8 +3,11 @@ XXXXX
 
 
 CHP
-* frühzeitig auf Frontpage Kd-Situation: Spannungen
-* 8gA-Seite*
+
+#8gA-Page
+
+
+
 
 # Aspekt des GARANTIERTEN Erfolgs
 #8gA #TrimmDichPfad
