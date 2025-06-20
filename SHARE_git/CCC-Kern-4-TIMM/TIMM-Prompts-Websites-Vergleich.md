@@ -1,4 +1,4 @@
-
+20.06.2025 13:34
 
 Tritt innerlich ein paar Schritte zurück. Stelle Dir vor und tue so, als würdest Du keine Website oder Website-Entwürfe von mir kennen. Anbei siehst Du die Frontpage Screenshots von zwei Websites.
 
