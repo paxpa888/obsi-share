@@ -163,12 +163,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/Rel25-XXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rel25-XXXX"
+              "title": "obsi-TiMM-Integration2"
             }
           },
           {
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/Rel25-XXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXX"
+              "title": "Backlinks for obsi-TiMM-Integration2"
             }
           },
           {
@@ -376,11 +376,17 @@
   },
   "active": "60a9b86a0d8156c5",
   "lastOpenFiles": [
+    "SHARE_git/CCC-Kern-4-TIMM/Obsi-Timm-Integration.md",
+    "SHARE_git/CCC-Kern-4-TIMM/MetaCard.md",
+    "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
+    "SHARE_git/CCC-Kern-4-TIMM/FixMix.md",
+    "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
+    "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
+    "SHARE_git/CCC-Kern-4-TIMM/Rel25-XXXX.md",
     "SHARE_git/CCC-Kern-4-TIMM/test2.md",
     "SHARE_git/CCC-Kern-4-TIMM/test3.md",
     "SHARE_git/CCC-Kern-4-TIMM/test.md",
     "TIMM/Prompt-Bspe/TIMM-Prompts-Websites-Vergleich.md",
-    "SHARE_git/CCC-Kern-4-TIMM/Rel25-XXXX.md",
     "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
     "SHARE_git/lp_rel25.md",
     "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
@@ -395,13 +401,7 @@
     "SHARE_git/ChatGPT 3o = 4o.md",
     "SHARE_git/Aktuell-XXXXX.md",
     "hl Obsi/Button Git-Save.md",
-    "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/TIMM-Limits.md",
-    "SHARE_git/Glossar.md",
-    "AiKi-Agents bauen.md",
-    "testglossar.md",
-    "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
-    "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "Zertifizierung Bafa",
     "rel25",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
