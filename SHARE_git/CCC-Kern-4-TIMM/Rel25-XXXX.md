@@ -4,9 +4,12 @@
 
 # XXXXX Ausbaustufe MVP
 
+* mobile + Tablet testen!
 * Sub-Page Datenschutz
 * Sub-Page Impressum
 * Sub-Page für 8gA erstellen.
+* Sub-Page "About" erstellen
+* 
 
 ### PLUGINS:
 * Borlab Cookies
