@@ -12,6 +12,15 @@ Ein spannender Aspekt ist: Manche der Inhalte haben erst in ihren AUSWIRKUNGEN d
 
 Bedeutung der #Beziehungsebene - das geht aber noch viel tiefer. Frage "wer hat die Wahrheit" ...
 
+#Tiefenblick
+
+Kenntnis unserer Denk- und Wahrnehmungsmechanismen
+
+It's the Brain, Stupid
+
+
+
+
 
 
 
