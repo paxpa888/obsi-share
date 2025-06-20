@@ -27,7 +27,8 @@
 ---
 # XXXX Ausbaustufe 2
 
-* LeadMagnet *
+* LeadMagnet einbauen*
+* Video mit WS einbauen
 
 ### Plugins:
 * publitio (?)
