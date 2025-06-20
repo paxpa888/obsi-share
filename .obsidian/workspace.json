@@ -204,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rel25",
+                "query": "xxx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +225,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -360,7 +361,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d9816ece31625151",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "SHARE_git/AkutProblem_ Unter HeroSection.md",
     "SHARE_git/ChatGPT vs Perplexity DeepResearch.md",
