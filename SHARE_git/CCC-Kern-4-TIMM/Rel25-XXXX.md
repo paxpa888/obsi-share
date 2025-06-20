@@ -27,6 +27,8 @@
 ---
 # XXXX Ausbaustufe 2
 
+* LeadMagnet *
+
 ### Plugins:
 * publitio (?)
 
