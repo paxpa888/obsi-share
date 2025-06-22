@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kleve-Vortrag/Untitled.md",
+                "file": "TIMM/Prompt-Bspe/MetaPrompt 8gA-Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "MetaPrompt 8gA-Page"
             }
           },
           {
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kleve-Vortrag/Untitled.md",
+                "file": "TIMM/Prompt-Bspe/MetaPrompt 8gA-Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for MetaPrompt 8gA-Page"
             }
           },
           {
@@ -444,10 +444,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f23743324b766672",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
     "Kleve-Vortrag/Kleve-Vortrag.md",
-    "Kleve-Vortrag/Untitled.md",
+    "TIMM/Prompt-Bspe/MetaPrompt 8gA-Page.md",
     "Kleve-Vortrag",
     "rel25/Rel25-XXXX.md",
     "rel25/tmp.md",
