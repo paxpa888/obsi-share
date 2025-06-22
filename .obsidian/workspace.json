@@ -219,12 +219,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rel25/Untitled.md",
+                "file": "rel25/Kleve-Vortrag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Kleve-Vortrag"
             }
           },
           {
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Untitled.md",
+                "file": "rel25/Kleve-Vortrag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Kleve-Vortrag"
             }
           },
           {
@@ -433,7 +433,7 @@
   "active": "911ca49e3c98a9aa",
   "lastOpenFiles": [
     "rel25/Rel25-XXXX.md",
-    "rel25/Untitled.md",
+    "rel25/Kleve-Vortrag.md",
     "rel25/tmp.md",
     "rel25/8gA-Page_rel25.md",
     "SHARE_git/Aktuell-XXXXX HEUTE.md",
