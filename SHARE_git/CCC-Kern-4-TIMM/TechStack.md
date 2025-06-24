@@ -17,9 +17,8 @@
 * WordPress für die eigene Website
 	* Unter WS-Kürzel "Rel25" arbeite ich an einem kompletten Redesign, umgesetzt mit Thrive Theme Builder (Shapeshift Theme)
 	*
-	Canva Pro
-
-
+* Canva Pro
+* "Kofax Power PDF Advanced" Version 5.1.*
 # für Linkedin
 
 * getsales * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox * leaddelta

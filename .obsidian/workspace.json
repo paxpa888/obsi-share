@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rel25/Rel25-XXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rel25-XXXX"
+              "title": "TechStack"
             }
           },
           {
@@ -288,7 +288,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Beziehungsebene",
+                "query": "techsta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -309,7 +309,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -329,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Rel25-XXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +340,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXX"
+              "title": "Backlinks for TechStack"
             }
           },
           {
@@ -446,12 +447,12 @@
   },
   "active": "f23743324b766672",
   "lastOpenFiles": [
+    "rel25/Rel25-XXXX.md",
     "rel25/tmp.md",
     "rel25/8gA-Page_rel25.md",
     "TIMM/Prompt-Bspe/MetaPrompt 8gA-Page.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "Kleve-Vortrag",
-    "rel25/Rel25-XXXX.md",
     "SHARE_git/Aktuell-XXXXX HEUTE.md",
     "Cnt-Creation/Cnt-Tipps von Experten.md",
     "TIMM/Prompt-Bspe/Prompt-NICHT-HALLUZINIEREN.md",
