@@ -19,6 +19,7 @@
 	*
 * Canva Pro
 * "Kofax Power PDF Advanced" Version 5.1.*
+*  Foxit
 # für Linkedin
 
 * getsales * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox * leaddelta
