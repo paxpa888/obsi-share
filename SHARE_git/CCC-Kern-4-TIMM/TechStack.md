@@ -19,7 +19,9 @@
 	*
 * Canva Pro
 * "Kofax Power PDF Advanced" Version 5.1.*
-*  Foxit
+*  Foxit (Browser), free version
+* Browser-Addon "Printfriendly"
+* 
 # für Linkedin
 
 * getsales * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox * leaddelta
