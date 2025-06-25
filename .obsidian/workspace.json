@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rel25/Rel25-XXXX.md",
+                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rel25-XXXX"
+              "title": "Kleve-Vortrag"
             }
           },
           {
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Rel25-XXXX.md",
+                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXX"
+              "title": "Backlinks for Kleve-Vortrag"
             }
           },
           {
@@ -474,10 +474,10 @@
   },
   "active": "ebc403e942487edb",
   "lastOpenFiles": [
+    "rel25/Rel25-XXXX.md",
     "rel25/8gA-Page_rel25.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "SHARE_git/Glossar.md",
-    "rel25/Rel25-XXXX.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "TIMM/Files",
