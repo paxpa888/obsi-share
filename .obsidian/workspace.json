@@ -245,14 +245,12 @@
             "id": "fa1ea35ef8e17bbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "TIMM/Perplexity-Labs-UseCases.md",
-                "mode": "source",
-                "source": false
+                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Perplexity-Labs-UseCases"
+              "icon": "lucide-file-text",
+              "title": "25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
             }
           },
           {
@@ -343,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIMM/Perplexity-Labs-UseCases.md",
+                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +351,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Perplexity-Labs-UseCases"
+              "title": "Backlinks for 25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
             }
           },
           {
@@ -460,13 +458,13 @@
   },
   "active": "fa1ea35ef8e17bbb",
   "lastOpenFiles": [
+    "TIMM/Perplexity-Labs-UseCases.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
     "TIMM/Perplexity",
     "TIMM/TIMM-Limits.md",
-    "TIMM/Perplexity-Labs-UseCases.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "rel25/Rel25-XXXX.md",
     "rel25/tmp.md",
@@ -495,7 +493,6 @@
     "rel25",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
     "Cnt-Creation",
-    "Produkt-Idee uae",
     "hl Obsi/Att/Pasted image 20250609131440.png",
     "HTML import/Attachments/1541429471857.jpeg",
     "HTML import/Attachments/1541462023165.jpeg",
