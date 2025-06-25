@@ -25,14 +25,14 @@
             "id": "ebc403e942487edb",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.linkedin.com/posts/heiko-kleve-7a3a7235_organisation-zukunft-faeshren-activity-7283026305632129026-MmPV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABl3G4BuTZgHPazgGwtY9uvz3u661M7Wjc",
-                "title": "#organisation #zukunft #führen #zukunftsvorausschau #systemaufstellungen… | Heiko Kleve",
-                "mode": "webview"
+                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "#organisation #zukunft #führen #zukunftsvorausschau #systemaufstellungen… | Heiko Kleve"
+              "icon": "lucide-file",
+              "title": "Kleve-Vortrag"
             }
           },
           {
@@ -357,6 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +367,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Kleve-Vortrag"
             }
           },
           {
