@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/Glossar.md",
+                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossar"
+              "title": "Kleve-Vortrag"
             }
           },
           {
@@ -269,8 +269,7 @@
               "title": "rel25-XXXX"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,8 +322,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -344,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Rel25-XXXX.md",
+                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +352,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXX"
+              "title": "Backlinks for Kleve-Vortrag"
             }
           },
           {
@@ -459,8 +457,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c5eba6c59425c63f",
+  "active": "4c687a4fafbe60f5",
   "lastOpenFiles": [
+    "SHARE_git/Glossar.md",
+    "rel25/Rel25-XXXX.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "TIMM/Files",
@@ -469,7 +469,6 @@
     "TIMM/Perplexity",
     "TIMM/TIMM-Limits.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
-    "rel25/Rel25-XXXX.md",
     "rel25/tmp.md",
     "rel25/8gA-Page_rel25.md",
     "TIMM/Prompt-Bspe/MetaPrompt 8gA-Page.md",
