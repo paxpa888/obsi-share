@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ebc403e942487edb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.linkedin.com/posts/heiko-kleve-7a3a7235_organisation-zukunft-faeshren-activity-7283026305632129026-MmPV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABl3G4BuTZgHPazgGwtY9uvz3u661M7Wjc",
+                "title": "#organisation #zukunft #führen #zukunftsvorausschau #systemaufstellungen… | Heiko Kleve",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "#organisation #zukunft #führen #zukunftsvorausschau #systemaufstellungen… | Heiko Kleve"
+            }
+          },
+          {
             "id": "1c164bb6c25edd97",
             "type": "leaf",
             "state": {
@@ -269,7 +283,8 @@
               "title": "rel25-XXXX"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -342,7 +357,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +366,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kleve-Vortrag"
+              "title": "Backlinks"
             }
           },
           {
@@ -457,8 +471,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4c687a4fafbe60f5",
+  "active": "ebc403e942487edb",
   "lastOpenFiles": [
+    "Kleve-Vortrag/Kleve-Vortrag.md",
     "SHARE_git/Glossar.md",
     "rel25/Rel25-XXXX.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
@@ -472,7 +487,6 @@
     "rel25/tmp.md",
     "rel25/8gA-Page_rel25.md",
     "TIMM/Prompt-Bspe/MetaPrompt 8gA-Page.md",
-    "Kleve-Vortrag/Kleve-Vortrag.md",
     "Kleve-Vortrag",
     "SHARE_git/Aktuell-XXXXX HEUTE.md",
     "Cnt-Creation/Cnt-Tipps von Experten.md",
