@@ -245,12 +245,14 @@
             "id": "fa1ea35ef8e17bbb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf"
+                "file": "rel25/Rel25-XXXX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
+              "icon": "lucide-file",
+              "title": "Rel25-XXXX"
             }
           },
           {
@@ -300,7 +302,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scoreapp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -321,7 +323,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -341,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
+                "file": "rel25/Rel25-XXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +354,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
+              "title": "Backlinks for Rel25-XXXX"
             }
           },
           {
@@ -456,10 +459,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fa1ea35ef8e17bbb",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
-    "TIMM/Perplexity-Labs-UseCases.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
+    "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
