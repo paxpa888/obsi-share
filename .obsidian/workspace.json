@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIMM/Prompt-Bspe/CustomGPT-Ideen.md",
+                "file": "rel25/Rel25-XXXX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CustomGPT-Ideen"
+              "title": "Rel25-XXXX"
             }
           },
           {
@@ -399,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIMM/Prompt-Bspe/CustomGPT-Ideen.md",
+                "file": "rel25/Rel25-XXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,7 +409,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CustomGPT-Ideen"
+              "title": "Backlinks for Rel25-XXXX"
             }
           },
           {
@@ -516,8 +516,8 @@
   },
   "active": "592b770aaa80a150",
   "lastOpenFiles": [
-    "rel25/Rel25-XXXX.md",
     "TIMM/Prompt-Bspe/CustomGPT-Ideen.md",
+    "rel25/Rel25-XXXX.md",
     "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
