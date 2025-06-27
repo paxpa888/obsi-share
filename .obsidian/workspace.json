@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "592b770aaa80a150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIMM/Prompt-Bspe/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "1c164bb6c25edd97",
             "type": "leaf",
             "state": {
@@ -312,7 +326,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -385,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Rel25-XXXX.md",
+                "file": "TIMM/Prompt-Bspe/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -395,7 +409,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXX"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -500,11 +514,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "14b7a45167c486bc",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
+    "rel25/Rel25-XXXX.md",
+    "TIMM/Prompt-Bspe/Untitled.md",
     "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
-    "rel25/Rel25-XXXX.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "rel25/8gA-Page_rel25.md",
     "SHARE_git/Glossar.md",
@@ -533,7 +548,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/Obsi-Timm-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/MetaCard.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
-    "SHARE_git/CCC-Kern-4-TIMM/FixMix.md",
     "Zertifizierung Bafa",
     "rel25",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
