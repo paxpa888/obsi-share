@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "14b7a45167c486bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.3"
+            }
+          },
+          {
             "id": "1c164bb6c25edd97",
             "type": "leaf",
             "state": {
@@ -298,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -371,7 +383,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Rel25-XXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +392,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXX"
+              "title": "Backlinks"
             }
           },
           {
@@ -486,7 +497,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "30cbc3631256fee6",
+  "active": "14b7a45167c486bc",
   "lastOpenFiles": [
     "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
