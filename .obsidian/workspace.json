@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
+                "file": "rel25/Rel25-XXXX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perplexity-Prompt für Rel25"
+              "title": "Rel25-XXXX"
             }
           },
           {
@@ -371,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
+                "file": "rel25/Rel25-XXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +381,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Perplexity-Prompt für Rel25"
+              "title": "Backlinks for Rel25-XXXX"
             }
           },
           {
@@ -488,8 +488,8 @@
   },
   "active": "30cbc3631256fee6",
   "lastOpenFiles": [
-    "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
+    "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "rel25/Rel25-XXXX.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "rel25/8gA-Page_rel25.md",
