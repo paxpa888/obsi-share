@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "b09f81679cad183b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.4"
+            }
+          },
+          {
             "id": "1c164bb6c25edd97",
             "type": "leaf",
             "state": {
@@ -326,7 +338,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -399,7 +411,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,7 +420,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Perplexity-Prompt für Rel25"
+              "title": "Backlinks"
             }
           },
           {
@@ -514,7 +525,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "592b770aaa80a150",
+  "active": "b09f81679cad183b",
   "lastOpenFiles": [
     "rel25/tmp.md",
     "rel25/Rel25-XXXXX.md",
