@@ -81,12 +81,14 @@
             "id": "b09f81679cad183b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.4"
+                "file": "rel25/Rel25-XXXXX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.4"
+              "icon": "lucide-file",
+              "title": "Rel25-XXXXX"
             }
           },
           {
@@ -411,6 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rel25/Rel25-XXXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +423,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Rel25-XXXXX"
             }
           },
           {
