@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rel25/Untitled.md",
+                "file": "rel25/Stilinfo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Stilinfo"
             }
           },
           {
@@ -441,7 +441,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Untitled.md",
+                "file": "rel25/Stilinfo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,7 +451,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Stilinfo"
             }
           },
           {
@@ -559,7 +559,7 @@
   "active": "5616154fd554941a",
   "lastOpenFiles": [
     "rel25/Angebote-CHP.md",
-    "rel25/Untitled.md",
+    "rel25/Stilinfo.md",
     "rel25/8gA-Page_rel25.md",
     "rel25/Rel25-XXXXX.md",
     "rel25/tmp.md",
