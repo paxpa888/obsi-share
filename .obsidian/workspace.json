@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Produkt-Idee uae/CHP Einstiegsangebote.md",
+                "file": "rel25/Rel25-XXXXX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHP Einstiegsangebote"
+              "title": "Rel25-XXXXX"
             }
           },
           {
@@ -469,7 +469,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Produkt-Idee uae/CHP Einstiegsangebote.md",
+                "file": "rel25/Rel25-XXXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -479,7 +479,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CHP Einstiegsangebote"
+              "title": "Backlinks for Rel25-XXXXX"
             }
           },
           {
@@ -586,8 +586,8 @@
   },
   "active": "0b3228a322c82f37",
   "lastOpenFiles": [
-    "rel25/Rel25-XXXXX.md",
     "Produkt-Idee uae/CHP Einstiegsangebote.md",
+    "rel25/Rel25-XXXXX.md",
     "rel25/8gA-Page_rel25.md",
     "rel25/tmp1.md",
     "rel25/Stilinfo.md",
