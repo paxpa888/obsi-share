@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
+                "file": "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perplexity-Prompt für Rel25"
+              "title": "Perplexity-Labs-UseCases"
             }
           },
           {
@@ -469,7 +469,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
+                "file": "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -479,7 +479,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Perplexity-Prompt für Rel25"
+              "title": "Backlinks for Perplexity-Labs-UseCases"
             }
           },
           {
@@ -586,6 +586,7 @@
   },
   "active": "0b3228a322c82f37",
   "lastOpenFiles": [
+    "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "rel25/Rel25-XXXXX.md",
@@ -597,7 +598,6 @@
     "rel25/tmp.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "TIMM/Prompt-Bspe/CustomGPT-Ideen.md",
-    "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "SHARE_git/Glossar.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
