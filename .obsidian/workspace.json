@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rel25/Rel25-XXXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rel25-XXXXX"
+              "title": "TechStack"
             }
           },
           {
@@ -428,7 +428,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scoreapp",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -449,7 +449,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -469,7 +470,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Rel25-XXXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -479,7 +480,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXXX"
+              "title": "Backlinks for TechStack"
             }
           },
           {
@@ -586,8 +587,8 @@
   },
   "active": "0b3228a322c82f37",
   "lastOpenFiles": [
-    "Produkt-Idee uae/CHP Einstiegsangebote.md",
     "rel25/Rel25-XXXXX.md",
+    "Produkt-Idee uae/CHP Einstiegsangebote.md",
     "rel25/8gA-Page_rel25.md",
     "rel25/tmp1.md",
     "rel25/Stilinfo.md",
