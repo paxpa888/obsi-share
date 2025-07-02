@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rel25/Coaching Honorarvergleich.md",
+                "file": "rel25/Rel25-XXXXX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coaching Honorarvergleich"
+              "title": "Rel25-XXXXX"
             }
           },
           {
@@ -455,7 +455,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Coaching Honorarvergleich.md",
+                "file": "rel25/Rel25-XXXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +465,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Coaching Honorarvergleich"
+              "title": "Backlinks for Rel25-XXXXX"
             }
           },
           {
@@ -572,8 +572,8 @@
   },
   "active": "a0613d2afa8c0305",
   "lastOpenFiles": [
-    "rel25/Rel25-XXXXX.md",
     "rel25/Coaching Honorarvergleich.md",
+    "rel25/Rel25-XXXXX.md",
     "rel25/Stilinfo.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
