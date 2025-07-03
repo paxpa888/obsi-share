@@ -3,12 +3,12 @@
  
 # Software
 
-Sehr oft oder 
+Sehr oft oder oft benutzt:
 
-* Mailclient: Thunderbird (abgek.: "TBd")*
+* **Mailclient: Thunderbird (abgek.: "TBd")***
 * Obsidian (erst seit Juni 2025) für Wissensorganisation. Inklusive Git und Plugins
-* **ScoreApp (vom Anbieter www.scoreapp.com), Preisplan "Pro" (= der höchste Tier)**
-* Brevo (LTD)
+* **ScoreApp (vom Anbieter www.scoreapp.com), Preisplan "Pro" (= der höchste Tier)** = Sehr wichtiges Tool. Meine KI MUSS dieses Tool immer im Kopf haben.
+* **Brevo (LTD)**
 * AiTable (Achtung: ist etwas Anderes als das bekanntere "AirTable")
 * Erna (DOS, uralte textbasierte Datenbank aus den 1990er Jahren)
 * Total Commander (abgek. TCmd) als Dateimanager
