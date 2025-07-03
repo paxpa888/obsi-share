@@ -71,6 +71,9 @@
 * WP Mail SMTP (von WP Mail SMTP) = Ersetzt die Funktion `wp_mail()`, um Gmail, Mailgun, SendGrid oder jeden beliebigen SMTP-Server anstelle der Standardfunktion `mail()` zu verwenden und bietet eine Optionsseite zum Verwalten der Einstellungen.
 * WP Staging Pro (von  Von WP-Staging, René Hermenau ) = Erstelle eine Klon Webseite zum Testen und Entwickeln
 * WPCode Lite (von | Von WP-Staging, René Hermenau) = Erstelle eine Klon Webseite zum Testen und Entwickeln
-* WPCodeBox (von )
+* WPCodeBox (von WPCodeBox) = Complete WordPress Snippet Manager
+* Yoast SEO (von Team Yoast) = Die erste echte All-in-One-SEO-Lösung für WordPress, einschließlich On-Page Inhaltsanalyse, XML-Sitemaps und vielem mehr.
+
+
 
 
