@@ -26,8 +26,9 @@ Sehr oft oder oft benutzt:
 * 
 # für Linkedin
 
-* getsales 
-* heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox * leaddelta
+* * leaddelta*
+* **getsales** 
+* heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox 
 ### Software (KI)
 
 * ChatGPT Plus
