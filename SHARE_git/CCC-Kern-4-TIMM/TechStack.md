@@ -1,11 +1,13 @@
 ####  **Digitale Infrastruktur**
 
  
-## Software
+# Software
+
+Sehr oft oder 
 
 * Mailclient: Thunderbird (abgek.: "TBd")*
 * Obsidian (erst seit Juni 2025) für Wissensorganisation. Inklusive Git und Plugins
-* ScoreApp (vom Anbieter www.scoreapp.com), Preisplan "Pro" (= der höchste Tier)
+* **ScoreApp (vom Anbieter www.scoreapp.com), Preisplan "Pro" (= der höchste Tier)**
 * Brevo (LTD)
 * AiTable (Achtung: ist etwas Anderes als das bekanntere "AirTable")
 * Erna (DOS, uralte textbasierte Datenbank aus den 1990er Jahren)
