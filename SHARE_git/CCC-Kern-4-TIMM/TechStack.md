@@ -26,7 +26,8 @@ Sehr oft oder oft benutzt:
 * 
 # für Linkedin
 
-* * leaddelta*
+* **Leaddelta** - bish
+)
 * **getsales** 
 * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox 
 ### Software (KI)
