@@ -50,5 +50,7 @@
 * LoginPress (von LoginPress) = LoginPress ist das beste `wp-login` Login Page Customizer Plugin von [WPBrigade,](https://wpbrigade.com/?utm_source=loginpress-lite) mit dem Sie das Layout der Login-, Register- und Passwortformulare komplett ändern können. 
   UND dazu LoginPress Pro = This plugin adds premium features in your LoginPress plugin.
 * Maintenance (von WebFaktory Ltd) = Put your site in maintenance mode, away from the public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible to logged in users.
-* Members (von )
+* Members (von MemberPress) = Ein Benutzer- und Rollenmanagement-Plugin, welches dir volle Kontrolle über die Berechtigungen deiner Website bietet. Dieses Plugin ermöglicht es dir, Rollen und deren Berechtigungen zu bearbeiten, vorhandene Rollen zu duplizieren, jedem Benutzer eine oder mehrere Rollen zuzuweisen oder Beitragsinhalte zu blockieren. Es ist sogar möglich, die eigene Website komplett privat zu gestalten.
+* OMGF (von Daan von Daan.dev) = Increase GDPR/DSGVO compliance and leverage browser cache by automatically self-hosting Google Fonts.
+* Publitio (von )
 
