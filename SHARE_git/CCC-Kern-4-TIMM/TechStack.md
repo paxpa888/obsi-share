@@ -26,9 +26,11 @@ Sehr oft oder oft benutzt:
 * 
 # für Linkedin
 
-* **Leaddelta** - bish
-)
-* **getsales** 
+* **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
+
+* **getsales** - für Linkedin Automation. Bbisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
+
+* 
 * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox 
 ### Software (KI)
 
