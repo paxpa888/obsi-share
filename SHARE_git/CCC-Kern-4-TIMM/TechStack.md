@@ -69,6 +69,8 @@
 * Weglot Translate (von Weglot Translate Team) = Übersetze deine Website innerhalb Minuten in mehrere Sprachen. Ohne Programmierung. Vollständig SEO-kompatibel.
 * Wordpress Importer (von wordpressdotorg) = Importiere Beiträge, Seiten, Kommentare, benutzerdefinierte Felder, Kategorien, Schlagwörter und mehr aus einer WordPress-Exportdatei.
 * WP Mail SMTP (von WP Mail SMTP) = Ersetzt die Funktion `wp_mail()`, um Gmail, Mailgun, SendGrid oder jeden beliebigen SMTP-Server anstelle der Standardfunktion `mail()` zu verwenden und bietet eine Optionsseite zum Verwalten der Einstellungen.
-* WP Staging Pro (von  Von WP-Staging, René Hermenau ) = 
+* WP Staging Pro (von  Von WP-Staging, René Hermenau ) = Erstelle eine Klon Webseite zum Testen und Entwickeln
+* WPCode Lite (von | Von WP-Staging, René Hermenau) = Erstelle eine Klon Webseite zum Testen und Entwickeln
+* WPCodeBox (von )
 
 
