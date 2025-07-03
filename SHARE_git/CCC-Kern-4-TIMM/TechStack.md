@@ -52,5 +52,7 @@
 * Maintenance (von WebFaktory Ltd) = Put your site in maintenance mode, away from the public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible to logged in users.
 * Members (von MemberPress) = Ein Benutzer- und Rollenmanagement-Plugin, welches dir volle Kontrolle über die Berechtigungen deiner Website bietet. Dieses Plugin ermöglicht es dir, Rollen und deren Berechtigungen zu bearbeiten, vorhandene Rollen zu duplizieren, jedem Benutzer eine oder mehrere Rollen zuzuweisen oder Beitragsinhalte zu blockieren. Es ist sogar möglich, die eigene Website komplett privat zu gestalten.
 * OMGF (von Daan von Daan.dev) = Increase GDPR/DSGVO compliance and leverage browser cache by automatically self-hosting Google Fonts.
-* Publitio (von )
+* Publitio (von Publitio) = Simple Image & Video Asset Management in the cloud.
+  UND dazu: Publitio Offloading = This WordPress plugin offloads your media library to Publitio
+* 
 
