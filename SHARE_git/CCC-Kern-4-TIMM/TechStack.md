@@ -39,5 +39,6 @@
 * BetterLinksPro
 * Borlabs Cookie - Cookie Opt-in
 * (Child Theme Configurator)
-* Custom Fonts
+* Custom Fonts (Upload custom fonts or host Google fonts locally to enhance performance, privacy, and get full site editing support for improved typography! Von Brainstorm Force
+* Enable Media Replace 
 
