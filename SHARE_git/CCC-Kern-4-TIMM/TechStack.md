@@ -54,5 +54,5 @@
 * OMGF (von Daan von Daan.dev) = Increase GDPR/DSGVO compliance and leverage browser cache by automatically self-hosting Google Fonts.
 * Publitio (von Publitio) = Simple Image & Video Asset Management in the cloud.
   UND dazu: Publitio Offloading = This WordPress plugin offloads your media library to Publitio
-* 
+* R3DF - Dashboard Language Switcher (von R3DF) = 
 
