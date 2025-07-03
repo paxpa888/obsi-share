@@ -64,6 +64,8 @@
 * Thrive Themes (von Thrive Themes), die gesamte Suite
 * Tutor LMS Pro (von Themeum) = Power up Tutor LMS plugins by Tutor Pro
 * UpdraftPlus – Sichern/Wiederherstellen (von Team Updraft, DavidAnderson) = Sichern und Wiederherstellen: Mache lokale Sicherungen oder speichere bei Amazon S3, Dropbox, Google Drive, Rackspace oder via (S)FTP, WebDAV und E-Mail; und das über automatische Zeitpläne.
-* User Switching (von )
+* User Switching (von John Blackbourn) = Direkter Wechsel zwischen Benutzerkonten in WordPress
+* User Switching in Admin Bar (von wpexpertisio) = Originally developed by [Mark Wilkinson](https://markwilkinson.me/), this plugin builds upon the [User Switching](https://wordpress.org/plugins/user-switching/) plugin by John Blackbourn and adds a dropdown list of users in the WordPress admin bar with a link to switch to that user, then providing a switch back link in the admin bar as well.
+* Weglot Translate (von )
 
 
