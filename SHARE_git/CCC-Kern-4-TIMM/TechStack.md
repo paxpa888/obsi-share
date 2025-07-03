@@ -56,6 +56,8 @@
   UND dazu: Publitio Offloading = This WordPress plugin offloads your media library to Publitio
 * R3DF - Dashboard Language Switcher (von R3DF) = Set the admin language based on user choice
 * Really Simple Security (von Really simple security) = Verbessere die Sicherheit deiner Website mit WordPress-Hardening, Zwei-Faktor-Authentifizierung (2FA), Login-Schutz, Sicherheitslückenerkennung und SSL-Zertifikatsgenerierung.
-* 
+* Search & Replace (von Inpsyde GmbH) = Suche und ersetze Daten in deiner ganzen WordPress-Instanz, sichere und importiere die Datenbank, ändere das Tabellen-Präfix oder migriere deine Domain zu einer anderen Domain.
+* ShortPixel Adaptive Images auswählen	
+ShortPixel Adaptive Images (von Short Pixel) = 
 
 
