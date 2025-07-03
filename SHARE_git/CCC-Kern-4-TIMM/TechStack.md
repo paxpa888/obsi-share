@@ -41,11 +41,11 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 * Perplexity Plus
 * SuperMachine (LTD) = für Bildgenerierung
 * Napkin = für Schaubilder-Generierung
-* "Ideogram ai" = für Bi
+* "Ideogram ai" = für Bildbearbeitung
 
 
 # Plugins für WordPress
- WoP
+ WoP (WoP = mein persönlicher Term für Wordpress)
 
 * Analytify Pro (+ -Dashboard + .. Widget + -E-Mail Benachrichtigungen
 * BetterLinksPro. = Ultimate plugin to create, shorten, track and manage any URL. Gather analytics reports and run successfully marketing campaigns easily. + Get access to Individual Analytics, Role Management, Google Analytics Integration & many more amazing features to track & run successful marketing campaigns. (von WPDeveloper)
