@@ -44,5 +44,7 @@
 * Enable Media Replace (von ShortPixel)
 * eRecht24 Rechtstexte für WordPress. (Dieses Plugin ermöglicht die einfache und rechtssichere Integration von Impressum und Datenschutzerklärung, welche über eRecht24 erzeugt wurden.)
 * GetGenie AI (von GetGenieai) = GetGenie AI is the most intuitive A.I Content Wordpress Plugin that can help you save time and write smarter.
-* HappyFiles Pro (von Codeer) = 
+* HappyFiles Pro (von Codeer) = Organize your WordPress data (files, post types, plugins).
+* Insights from Google PageSpeed (von Matt Keys) = Get insights from the Google Pagespeed API right in your WordPress dashboard
+* 
 
