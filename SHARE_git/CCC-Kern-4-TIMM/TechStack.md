@@ -37,6 +37,7 @@
 
 * Analytify Pro (+ -Dashboard + .. Widget + -E-Mail Benachrichtigungen
 * BetterLinksPro. = Ultimate plugin to create, shorten, track and manage any URL. Gather analytics reports and run successfully marketing campaigns easily. + Get access to Individual Analytics, Role Management, Google Analytics Integration & many more amazing features to track & run successful marketing campaigns. (von WPDeveloper)
+* Fluent Forms + Pro Add-on Paket (Contact Form von Fluent Forms ist das fortgeschrittene Kontaktformular-Plugin mit Unterstützung von Drag-and-drop und Mehrspaltigkeit im Formular-Builder) 
 * Borlabs Cookie - Cookie Opt-in
 * (Child Theme Configurator)
 * Custom Fonts (Upload custom fonts or host Google fonts locally to enhance performance, privacy, and get full site editing support for improved typography! Von Brainstorm Force
