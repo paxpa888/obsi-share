@@ -57,7 +57,9 @@
 * R3DF - Dashboard Language Switcher (von R3DF) = Set the admin language based on user choice
 * Really Simple Security (von Really simple security) = Verbessere die Sicherheit deiner Website mit WordPress-Hardening, Zwei-Faktor-Authentifizierung (2FA), Login-Schutz, Sicherheitslückenerkennung und SSL-Zertifikatsgenerierung.
 * Search & Replace (von Inpsyde GmbH) = Suche und ersetze Daten in deiner ganzen WordPress-Instanz, sichere und importiere die Datenbank, ändere das Tabellen-Präfix oder migriere deine Domain zu einer anderen Domain.
-* ShortPixel Adaptive Images auswählen	
-ShortPixel Adaptive Images (von Short Pixel) = 
+* ShortPixel Adaptive Images (von Short Pixel) = Display properly sized, smart cropped and optimized images on your website. Images are processed on the fly and served from our CDN.
+  UND dazu:
+  ShortPixel Image Optimizer = ShortPixel optimiert Bilder automatisch und achtet dabei auf den Erhalt der Qualität deiner Bilder. Sieh dir deine Seite [Einstellungen > ShortPixel](https://c-c-c.de/wp-admin/options-general.php?page=wp-shortpixel-settings) an und erfahre, wie du mit dem Optimieren deiner Bilder-Bibliothek beginnen und das Laden deiner Website schneller machen kannst.
+* Solid Security Pro (von SolidWP, ehem)
 
 
