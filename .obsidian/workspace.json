@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rel25/Rel25-XXXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rel25-XXXXX"
+              "title": "TechStack"
             }
           },
           {
@@ -414,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stack",
+                "query": "techst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -435,7 +435,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -455,7 +456,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Rel25-XXXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +466,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXXX"
+              "title": "Backlinks for TechStack"
             }
           },
           {
@@ -572,8 +573,8 @@
   },
   "active": "a0613d2afa8c0305",
   "lastOpenFiles": [
-    "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "rel25/Rel25-XXXXX.md",
+    "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "rel25/Coaching Honorarvergleich.md",
     "rel25/Stilinfo.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
