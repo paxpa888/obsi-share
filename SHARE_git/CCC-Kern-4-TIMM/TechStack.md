@@ -35,7 +35,9 @@
 # Plugins für WordPress
  WoP
 
-* Analytify Dashboard + .. Widget + -E-Mail Benachrichtigungen
-* 
-* 
+* Analytify Pro (+ -Dashboard + .. Widget + -E-Mail Benachrichtigungen
+* BetterLinksPro
+* Borlabs Cookie - Cookie Opt-in
+* (Child Theme Configurator)
+* Custom Fonts
 
