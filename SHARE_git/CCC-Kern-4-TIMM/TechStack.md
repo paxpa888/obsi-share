@@ -33,7 +33,9 @@ Sehr oft oder oft benutzt:
 * 
 * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox 
 
-## Software für KI-Nutzung  (KI)
+# Software für KI-Nutzung (KI)
+
+Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "aiki" (= zusammengesetzt aus engl. "ai" und dt. "ki")
 
 * ChatGPT Plus
 * Perplexity Plus
