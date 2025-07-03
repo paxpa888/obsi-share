@@ -67,6 +67,7 @@
 * User Switching (von John Blackbourn) = Direkter Wechsel zwischen Benutzerkonten in WordPress
 * User Switching in Admin Bar (von wpexpertisio) = Originally developed by [Mark Wilkinson](https://markwilkinson.me/), this plugin builds upon the [User Switching](https://wordpress.org/plugins/user-switching/) plugin by John Blackbourn and adds a dropdown list of users in the WordPress admin bar with a link to switch to that user, then providing a switch back link in the admin bar as well.
 * Weglot Translate (von Weglot Translate Team) = Übersetze deine Website innerhalb Minuten in mehrere Sprachen. Ohne Programmierung. Vollständig SEO-kompatibel.
+* Wordpress Importer (von wordpressdotorg) = Importiere Beiträge, Seiten, Kommentare, benutzerdefinierte Felder, Kategorien, Schlagwörter und mehr aus einer WordPress-Exportdatei.
 * 
 
 
