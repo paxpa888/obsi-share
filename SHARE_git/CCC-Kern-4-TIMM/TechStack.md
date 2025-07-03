@@ -61,6 +61,7 @@
   UND dazu:
   ShortPixel Image Optimizer = ShortPixel optimiert Bilder automatisch und achtet dabei auf den Erhalt der Qualität deiner Bilder. Sieh dir deine Seite [Einstellungen > ShortPixel](https://c-c-c.de/wp-admin/options-general.php?page=wp-shortpixel-settings) an und erfahre, wie du mit dem Optimieren deiner Bilder-Bibliothek beginnen und das Laden deiner Website schneller machen kannst.
 * Solid Security Pro (von SolidWP, ehemals iThemes) = Shield your site from cyberattacks and prevent security vulnerabilities. The only security plugin you need for a solid foundation.
-* 
+* Thrive Themes (von Thrive Themes), die gesamte Suite
+* Tutor LMS Pro (von Themeum) = 
 
 
