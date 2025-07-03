@@ -48,5 +48,7 @@
 * Insights from Google PageSpeed (von Matt Keys) = Get insights from the Google Pagespeed API right in your WordPress dashboard
 * Local Google Fonts (von EverPress) = Hoste die von dir benutzten Google Fonts auf deinem Server und mach deine Website DSGVO-konform.
 * LoginPress (von LoginPress) = LoginPress ist das beste `wp-login` Login Page Customizer Plugin von [WPBrigade,](https://wpbrigade.com/?utm_source=loginpress-lite) mit dem Sie das Layout der Login-, Register- und Passwortformulare komplett ändern können. 
-  UND dazu LoginPreiss
+  UND dazu LoginPress Pro = This plugin adds premium features in your LoginPress plugin.
+* Maintenance (von WebFaktory Ltd) = Put your site in maintenance mode, away from the public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible to logged in users.
+* Members (von )
 
