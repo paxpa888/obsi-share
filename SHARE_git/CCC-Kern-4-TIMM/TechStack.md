@@ -39,7 +39,9 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 
 * ChatGPT Plus
 * Perplexity Plus
-* SuperMachine (LTD)
+* SuperMachine (LTD) = für Bildgenerierung
+* Napkin = für Schaubilder-Generierung
+* "Ideogram ai" = für Bi
 
 
 # Plugins für WordPress
