@@ -11,6 +11,7 @@ Sehr oft oder oft benutzt:
 * Obsidian (erst seit Juni 2025) für Wissensorganisation. Inklusive Git und Plugins
 * **Brevo (LTD)** = für meine Newsletter-Mailings.
 * AiTable (Achtung: ist etwas Anderes als das bekanntere "AirTable")
+* **Canva Pro. Meine KI muss wissen, dass ich die PRO Version habe.**
 * Erna (DOS, uralte textbasierte Datenbank aus den 1990er Jahren)
 * Total Commander (abgek. TCmd) als Dateimanager
 * Typora (für Markdown, seit Juni 2025 aber lieber Obsidian)
@@ -19,14 +20,14 @@ Sehr oft oder oft benutzt:
 * WordPress für die eigene Website
 	* Unter WS-Kürzel "Rel25" arbeite ich an einem kompletten Redesign, umgesetzt mit Thrive Theme Builder (Shapeshift Theme)
 	*
-* Canva Pro
-* "Kofax Power PDF Advanced" Version 5.1.*
+* "Kofax Power PDF Advanced" Version 5.1.* (Meine KI muss wissen, dass ich die "Advanced"-Version habe)
 *  Foxit (Browser), free version
 * Browser-Addon "Printfriendly"
 * 
 # für Linkedin
 
-* getsales * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox * leaddelta
+* getsales 
+* heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox * leaddelta
 ### Software (KI)
 
 * ChatGPT Plus
