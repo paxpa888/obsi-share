@@ -1,7 +1,7 @@
 ####  **Digitale Infrastruktur**
 
  
-# Software
+# Software: Besonders wichtig
 
 Sehr oft oder oft benutzt:
 
@@ -24,15 +24,16 @@ Sehr oft oder oft benutzt:
 *  Foxit (Browser), free version
 * Browser-Addon "Printfriendly"
 * 
-# für Linkedin
+# Software für Linkedin
 
 * **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
 
-* **getsales** - für Linkedin Automation. Bbisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
+* **getsales** - für Linkedin Automation. Bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
 
 * 
 * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox 
-### Software (KI)
+
+## Software für KI-Nutzung  (KI)
 
 * ChatGPT Plus
 * Perplexity Plus
