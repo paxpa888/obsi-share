@@ -43,5 +43,6 @@
 * Custom Fonts (Upload custom fonts or host Google fonts locally to enhance performance, privacy, and get full site editing support for improved typography! Von Brainstorm Force
 * Enable Media Replace (von ShortPixel)
 * eRecht24 Rechtstexte für WordPress. (Dieses Plugin ermöglicht die einfache und rechtssichere Integration von Impressum und Datenschutzerklärung, welche über eRecht24 erzeugt wurden.)
-* GetGenie AI (von GetGenieai) = 
+* GetGenie AI (von GetGenieai) = GetGenie AI is the most intuitive A.I Content Wordpress Plugin that can help you save time and write smarter.
+* HappyFiles Pro (von Codeer) = 
 
