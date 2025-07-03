@@ -32,5 +32,10 @@
 * SuperMachine (LTD)
 
 
-# L
+# Plugins für WordPress
+ WoP
+
+* Analytify Dashboard + .. Widget + -E-Mail Benachrichtigungen
+* 
+* 
 
