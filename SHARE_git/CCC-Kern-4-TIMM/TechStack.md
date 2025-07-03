@@ -40,5 +40,6 @@
 * Borlabs Cookie - Cookie Opt-in
 * (Child Theme Configurator)
 * Custom Fonts (Upload custom fonts or host Google fonts locally to enhance performance, privacy, and get full site editing support for improved typography! Von Brainstorm Force
-* Enable Media Replace 
+* Enable Media Replace (von ShortPixel)
+* eRecht24 Rechtstexte für WordPress. (Dieses Plugin ermöglicht die einfache und rechtssichere Integration von Impressum und Datenschutzerklärung, welche über eRecht24 erzeugt wurden.)
 
