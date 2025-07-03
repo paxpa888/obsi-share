@@ -46,5 +46,7 @@
 * GetGenie AI (von GetGenieai) = GetGenie AI is the most intuitive A.I Content Wordpress Plugin that can help you save time and write smarter.
 * HappyFiles Pro (von Codeer) = Organize your WordPress data (files, post types, plugins).
 * Insights from Google PageSpeed (von Matt Keys) = Get insights from the Google Pagespeed API right in your WordPress dashboard
-* 
+* Local Google Fonts (von EverPress) = Hoste die von dir benutzten Google Fonts auf deinem Server und mach deine Website DSGVO-konform.
+* LoginPress (von LoginPress) = LoginPress ist das beste `wp-login` Login Page Customizer Plugin von [WPBrigade,](https://wpbrigade.com/?utm_source=loginpress-lite) mit dem Sie das Layout der Login-, Register- und Passwortformulare komplett ändern können. 
+  UND dazu LoginPreiss
 
