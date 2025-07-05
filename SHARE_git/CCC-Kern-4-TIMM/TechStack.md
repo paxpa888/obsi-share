@@ -30,6 +30,7 @@ Sehr oft oder oft benutzt:
 
 * **getsales** - für Linkedin Automation. Bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
 
+* Linkedin Sales Navigator
 * 
 * heyreach * ocoya * breakcold * linkhelp * dashed ai * liprospect * aimfox 
 
