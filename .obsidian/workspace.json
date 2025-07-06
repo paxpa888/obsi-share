@@ -199,8 +199,7 @@
               "title": "TIMM-Limits"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
+                "file": "rel25/Rel25-XXXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TechStack"
+              "title": "Backlinks for Rel25-XXXXX"
             }
           },
           {
@@ -389,15 +388,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "592b770aaa80a150",
+  "active": "30cbc3631256fee6",
   "lastOpenFiles": [
+    "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "rel25/Rel25-XXXXX.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/Att",
-    "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "rel25/Angebote-CHP.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
     "rel25/Coaching Honorarvergleich.md",
