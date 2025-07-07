@@ -88,5 +88,10 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 * Yoast SEO (von Team Yoast) = Die erste echte All-in-One-SEO-Lösung für WordPress, einschließlich On-Page Inhaltsanalyse, XML-Sitemaps und vielem mehr.
 
 
+* # Appsumo-Käufe
+Gesamtliste
+
+* # Zahlungsabwicklung
+* *
 
 
