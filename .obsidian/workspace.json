@@ -199,8 +199,7 @@
               "title": "TIMM-Limits"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/ICP-Definition.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ICP-Definition"
+              "title": "Backlinks for TechStack"
             }
           },
           {
@@ -389,13 +388,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "384776353ed365c2",
+  "active": "30cbc3631256fee6",
   "lastOpenFiles": [
+    "SHARE_git/ICP-Definition.md",
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/AkutProblem_ Unter HeroSection.md",
     "SHARE_git/Aktuell-XXXXX HEUTE.md",
     "SHARE_git/ICP-Definition_Stand-25619c.md",
-    "SHARE_git/ICP-Definition.md",
     "SHARE_git/Glossar_Stand-25619.md",
     "SHARE_git/ICP-Definition_Stand-25619b.md",
     "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
