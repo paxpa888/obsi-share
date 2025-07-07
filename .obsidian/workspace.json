@@ -199,8 +199,7 @@
               "title": "TIMM-Limits"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rel25/Rel25-XXXXX.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +282,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rel25-XXXXX"
+              "title": "Backlinks for TechStack"
             }
           },
           {
@@ -388,8 +387,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "30cbc3631256fee6",
   "lastOpenFiles": [
+    "rel25/Rel25-XXXXX.md",
     "SHARE_git/Glossar.md",
     "SHARE_git/ICP-Definition.md",
     "SHARE_git/lp_rel25.md",
@@ -397,7 +397,6 @@
     "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
-    "rel25/Rel25-XXXXX.md",
     "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
