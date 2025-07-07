@@ -89,9 +89,10 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 
 
 * # Appsumo-Käufe
-Gesamtliste
+* XXX Gesamtliste
 
 * # Zahlungsabwicklung
-* "Thrivecart Learn Pro", auch als LMS geeignet (Learning )
+* "Thrivecart Learn Pro", auch als LMS geeignet (Learning Management System), habs als LTD
+* 
 
 
