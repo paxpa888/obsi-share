@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/ICP-Definition_Stand-25619b.md",
+                "file": "SHARE_git/ICP-Definition_Stand-25619c.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICP-Definition_Stand-25619b"
+              "title": "ICP-Definition_Stand-25619c"
             }
           },
           {
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/ICP-Definition_Stand-25619b.md",
+                "file": "SHARE_git/ICP-Definition_Stand-25619c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ICP-Definition_Stand-25619b"
+              "title": "Backlinks for ICP-Definition_Stand-25619c"
             }
           },
           {
@@ -391,6 +391,8 @@
   "active": "8f1a53e27037da2e",
   "lastOpenFiles": [
     "SHARE_git/ICP-Definition.md",
+    "SHARE_git/Glossar_Stand-25619.md",
+    "SHARE_git/ICP-Definition_Stand-25619b.md",
     "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
@@ -421,9 +423,7 @@
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
     "TIMM/Perplexity",
     "TIMM/TIMM-Limits.md",
-    "TIMM/Prompt-Bspe/MetaPrompt 8gA-Page.md",
     "Kleve-Vortrag",
-    "SHARE_git/Aktuell-XXXXX HEUTE.md",
     "Zertifizierung Bafa",
     "rel25",
     "Cnt-Creation/Cnt_AiKi-Hilfen",
