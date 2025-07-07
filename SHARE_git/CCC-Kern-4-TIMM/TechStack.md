@@ -89,6 +89,7 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 
 
 * # Appsumo-Käufe
+* TaskMagic
 * XXX Gesamtliste
 
 * # Zahlungsabwicklung
