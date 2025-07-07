@@ -273,6 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for WS-Profil"
             }
           },
           {
@@ -387,10 +388,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "8f1a53e27037da2e",
   "lastOpenFiles": [
-    "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
     "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
+    "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
     "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "Produkt-Idee uae/CHP Einstiegsangebote.md",
     "rel25/Rel25-XXXXX.md",

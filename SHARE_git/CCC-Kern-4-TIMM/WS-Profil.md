@@ -12,7 +12,7 @@ Renommierter Seminartrainer, Coach, (studierter) Mediator, Vortragsredner (Speak
 
 * **das ist gut für die FIRMA (mehr Profit) und gut für die Menschen (mehr Wohlergehen;** gemäß längster diesbzgl. jemals durchgeführter Langzeitstudie der Harvard Universität ("Harvard Study of Adult Development") leben Menschen mit guten menschlichen Beziehungen 8 Jahre länger (und besser)*
 * Für die Firmen: Weniger Reibung, mehr Produktivität
-- Stärkung der **Beziehungsebene** und er "Chemie-Kompetenz" (#ChemieKompetenz) als Schlüssel zu Produktivität und Führungserfolg
+- Stärkung der **Beziehungsebene** und der "Chemie-Kompetenz" (#ChemieKompetenz) als Schlüssel zu Produktivität und Führungserfolg
    
 #### 2. **Headline im Linkedin-Profil
 
