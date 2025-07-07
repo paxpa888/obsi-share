@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
+                "file": "SHARE_git/ICP-Definition_Stand-25619b.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WS-Profil"
+              "title": "ICP-Definition_Stand-25619b"
             }
           },
           {
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
+                "file": "SHARE_git/ICP-Definition_Stand-25619b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WS-Profil"
+              "title": "Backlinks for ICP-Definition_Stand-25619b"
             }
           },
           {
@@ -390,14 +390,14 @@
   },
   "active": "8f1a53e27037da2e",
   "lastOpenFiles": [
-    "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
-    "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
+    "SHARE_git/ICP-Definition.md",
     "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
+    "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
+    "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
     "Produkt-Idee uae/CHP Einstiegsangebote.md",
     "rel25/Rel25-XXXXX.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "SHARE_git/Glossar.md",
-    "SHARE_git/ICP-Definition.md",
     "SHARE_git/lp_rel25.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
     "SHARE_git/Zertifizierung Bafa wl-Liste.md",
