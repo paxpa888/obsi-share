@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
+                "file": "SHARE_git/ICP-Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for error_TIMM-GitHub-Integration"
+              "title": "Backlinks for ICP-Definition"
             }
           },
           {
@@ -389,8 +389,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8f1a53e27037da2e",
+  "active": "384776353ed365c2",
   "lastOpenFiles": [
+    "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/AkutProblem_ Unter HeroSection.md",
     "SHARE_git/Aktuell-XXXXX HEUTE.md",
     "SHARE_git/ICP-Definition_Stand-25619c.md",
@@ -418,7 +419,6 @@
     "rel25/Stilinfo.md",
     "rel25/8gA-Page_rel25.md",
     "rel25/tmp1.md",
-    "rel25/tmp.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
