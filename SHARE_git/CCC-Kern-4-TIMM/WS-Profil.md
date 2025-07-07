@@ -53,6 +53,7 @@ Genaueres siehe Notiz: [[8 grüne Ampeln-System]]  (Wichtig!)
 
 * Linkedin (intensiv)*
 * Weitere systematische Kunden-Outreach mit eigenem Newsletter (ganz grobe Zahl: 20x im Jahr)
+* Youtube
 * Twitter (X), aber fast gar nicht gepflegt
 
 
