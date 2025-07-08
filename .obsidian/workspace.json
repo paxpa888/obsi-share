@@ -25,12 +25,14 @@
             "id": "410f4bafb0a165ed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf"
+                "file": "TIMM/Prompt-Bspe/Prompt-für-LIVE-Url-Befehle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
+              "icon": "lucide-file",
+              "title": "Prompt-für-LIVE-Url-Befehle"
             }
           },
           {
@@ -265,8 +267,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -286,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
+                "file": "TIMM/Prompt-Bspe/Prompt-für-LIVE-Url-Befehle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +297,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
+              "title": "Backlinks for Prompt-für-LIVE-Url-Befehle"
             }
           },
           {
@@ -401,9 +402,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c5eba6c59425c63f",
+  "active": "410f4bafb0a165ed",
   "lastOpenFiles": [
-    "TIMM/Prompt-Bspe/Prompt-für-LIVE-Url-Befehl.md",
+    "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
+    "TIMM/Prompt-Bspe/Prompt-für-LIVE-Url-Befehle.md",
     "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
     "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
@@ -430,8 +432,6 @@
     "rel25/Att",
     "rel25/Angebote-CHP.md",
     "rel25/Coaching Honorarvergleich.md",
-    "rel25/Stilinfo.md",
-    "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
