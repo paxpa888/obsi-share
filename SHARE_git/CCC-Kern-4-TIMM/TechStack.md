@@ -29,6 +29,7 @@ Sehr oft oder oft benutzt:
 * **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
 
 * **getsales** - für Linkedin Automation. Bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
+* AuthoredUP
 
 * direkt von Linkedin: Sales Navigator (meine Abkürzung: "SNav")
 * 
