@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
+                "file": "rel25/Rel25-XXXXX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TechStack"
+              "title": "Rel25-XXXXX"
             }
           },
           {
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
+                "file": "rel25/Rel25-XXXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TechStack"
+              "title": "Backlinks for Rel25-XXXXX"
             }
           },
           {
@@ -403,11 +403,14 @@
   },
   "active": "30cbc3631256fee6",
   "lastOpenFiles": [
+    "SHARE_git/rel25-XXXX.md",
+    "SHARE_git/lp_rel25.md",
+    "SHARE_git/testglossar.md",
+    "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "TIMM/Prompt-Bspe/Prompt-für-LIVE-Url-Befehle.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
     "SHARE_git/CCC-Kern-4-TIMM/z_chatgpt-index.md",
-    "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "SHARE_git/ICP-Definition.md",
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/AkutProblem_ Unter HeroSection.md",
@@ -420,7 +423,6 @@
     "Produkt-Idee uae/CHP Einstiegsangebote.md",
     "rel25/Rel25-XXXXX.md",
     "SHARE_git/Glossar.md",
-    "SHARE_git/lp_rel25.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
     "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
@@ -430,7 +432,6 @@
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/Att",
     "rel25/Angebote-CHP.md",
-    "rel25/Coaching Honorarvergleich.md",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
