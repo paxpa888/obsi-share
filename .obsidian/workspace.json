@@ -245,7 +245,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "analysiert",
+                "query": "verbrannt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,7 +266,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -401,7 +402,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "30cbc3631256fee6",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "SHARE_git/rel25-XXXX.md",
     "SHARE_git/lp_rel25.md",
