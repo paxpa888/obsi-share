@@ -98,5 +98,6 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 * # Zahlungsabwicklung
 * "Thrivecart Learn Pro", auch als LMS geeignet (Learning Management System), habs als LTD
 * 
+* 
 
 
