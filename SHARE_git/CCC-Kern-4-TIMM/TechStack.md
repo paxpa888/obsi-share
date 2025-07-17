@@ -42,6 +42,12 @@ Sehr oft oder oft benutzt:
 
 Kriterien: Speed, Analytics, evtl. DSGVO (aber eher sekundär)
 
+# Software für Google Ads 
+
+* Adsby (LTD, Tier-1)
+* Adsbot (LTD, Tier-2)
+* *
+
 # Software für Linkedin
 
 * **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
