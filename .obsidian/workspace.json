@@ -274,7 +274,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "techstack",
+                "query": "tag:#8gA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -431,7 +431,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e7b246fd7cdcb047",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "TIMM/Prompt-Bspe/RubenHassid-25716.md",
     "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
