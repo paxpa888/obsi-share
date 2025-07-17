@@ -32,7 +32,7 @@ Sehr oft oder oft benutzt:
 * eigener Youtube-Account 
 * Publitio (LTD)
 * Adilo (LTD, Tier4)
-* *Wavevideo (LTD, )
+* *Wavevideo (LTD, 2 Stacks, ? "Business Plan")
 * Vadoo-TV (LTD)
 * 
 # Software für Linkedin
