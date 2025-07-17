@@ -31,8 +31,8 @@ Sehr oft oder oft benutzt:
 
 * eigener Youtube-Account 
 * Publitio (LTD)
-* Adilo (LTD)
-* *
+* Adilo (LTD, Tier4)
+* *Wavevideo (LTD, )
 # Software für Linkedin
 
 * **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
