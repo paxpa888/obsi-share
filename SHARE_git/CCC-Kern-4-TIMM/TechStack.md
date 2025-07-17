@@ -40,7 +40,7 @@ Sehr oft oder oft benutzt:
 * Vidpulse (LTD); bin nicht sicher, ob es auch Hosting kann
 * Mein Webhoster: Hostinger
 
-Kriterien: Speed, Analytics, evtl. DSGVO
+Kriterien: Speed, Analytics, evtl. DSGVO (aber eher sekundär)
 
 # Software für Linkedin
 
