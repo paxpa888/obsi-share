@@ -39,6 +39,9 @@ Sehr oft oder oft benutzt:
 * Swarmify (LTD) 
 * Vidpulse (LTD); bin nicht sicher, ob es auch Hosting kann
 * Mein Webhoster: Hostinger
+
+Kriterien: Speed, Analytics, evtl. DSGVO
+
 # Software für Linkedin
 
 * **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
