@@ -24,6 +24,7 @@ Sehr oft oder oft benutzt:
 *  Foxit (Browser), free version
 * Browser-Addon "Printfriendly"
 * 
+# Mix #8gA 
 # Software für Linkedin
 
 * **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
@@ -97,7 +98,8 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 
 * # Zahlungsabwicklung
 * "Thrivecart Learn Pro", auch als LMS geeignet (Learning Management System), habs als LTD
-* 
+* Stripe-Account
+* Paypal-Account
 * 
 
 
