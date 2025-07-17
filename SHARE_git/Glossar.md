@@ -26,6 +26,7 @@ Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 * lp = laufendes Projekt (statt einfach nur "Projekt" zu sagen)
 * FK = Führungskraft
 * pic = mein Sammelbegriff für all dieses: Image, Bild, Grafik, und Ähnliches.
+* goad (oder GoAd) für "Google Ads"
 * 
 
 
