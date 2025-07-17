@@ -35,6 +35,8 @@ Sehr oft oder oft benutzt:
 * *Wavevideo (LTD, 2 Stacks, ? "Business Plan")
 * Vadoo-TV (LTD)
 * dubb (LTD)
+* Alugha (LTD, 4 stacks
+* Swarmify (LTD) 
 # Software für Linkedin
 
 * **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
