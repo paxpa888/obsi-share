@@ -29,7 +29,9 @@ Sehr oft oder oft benutzt:
 * Camtasia
 # Video-Hosting 
 
-* 
+* eigener Youtube-Account 
+* Publitio (LTD)
+* Adilo (LTD)
 * *
 # Software für Linkedin
 
