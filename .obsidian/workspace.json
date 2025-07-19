@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "2c962a5e11e5eaf9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.5"
+            }
+          },
+          {
             "id": "410f4bafb0a165ed",
             "type": "leaf",
             "state": {
@@ -242,7 +254,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -316,7 +328,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/Glossar_Stand-25619.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +337,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Glossar_Stand-25619"
+              "title": "Backlinks"
             }
           },
           {
@@ -431,7 +442,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e7b246fd7cdcb047",
+  "active": "2c962a5e11e5eaf9",
   "lastOpenFiles": [
     "SHARE_git/Glossar.md",
     "SHARE_git/Glossar_Stand-25619.md",
