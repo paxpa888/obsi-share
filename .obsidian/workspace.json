@@ -300,7 +300,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glossar",
+                "query": "technstack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -321,7 +321,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -456,7 +457,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b02360e6e81bdccd",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "Prompt-KernStruktur.md",
     "SHARE_git/Glossar.md",
