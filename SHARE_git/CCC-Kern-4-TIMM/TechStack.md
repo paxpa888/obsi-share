@@ -26,12 +26,12 @@ Sehr oft oder oft benutzt:
 * 
 # Mix 
 
-* Camtasia
+* Camtasia für Video-Editing
 # Video-Hosting 
 
 * eigener Youtube-Account 
-* Publitio (LTD); scheint professionell
-* Adilo (LTD, Tier4)
+* Publitio (LTD); scheint professionell - habe ich schon benutzt.
+* Adilo (LTD, Tier4) - scheint auch gut zu sein. Da es wohl bzgl. Analytics besser als Publitio ist, will ich es ab Juli 2025 häufiger benutzen.
 * *Wavevideo (LTD, 2 Stacks, ? "Business Plan")
 * Vadoo-TV (LTD)
 * dubb (LTD)
