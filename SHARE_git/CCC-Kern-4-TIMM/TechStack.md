@@ -73,7 +73,8 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 # Plugins für WordPress
  WoP (WoP = mein persönlicher Term für Wordpress)
 
-Ich habe als SAAS die komplette Suite von Thrive Themes (also Thrive Architect, Th)
+* Ich habe als SAAS die **komplette Suite von Thrive Themes** (also Thrive Architect, Thrive Leads, usw.)
+
 
 * Analytify Pro (+ -Dashboard + .. Widget + -E-Mail Benachrichtigungen
 * BetterLinksPro. = Ultimate plugin to create, shorten, track and manage any URL. Gather analytics reports and run successfully marketing campaigns easily. + Get access to Individual Analytics, Role Management, Google Analytics Integration & many more amazing features to track & run successful marketing campaigns. (von WPDeveloper)
