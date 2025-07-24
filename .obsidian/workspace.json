@@ -79,12 +79,14 @@
             "id": "778886e8a5e90d4c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.6"
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.6"
+              "icon": "lucide-file",
+              "title": "TechStack"
             }
           },
           {
@@ -354,6 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,7 +366,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TechStack"
             }
           },
           {

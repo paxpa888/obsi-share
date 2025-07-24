@@ -76,7 +76,7 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 * Ich habe als SAAS die **komplette Suite von Thrive Themes** (also Thrive Architect, Thrive Leads, usw.)
 
 
-* Analytify Pro (+ -Dashboard + .. Widget + -E-Mail Benachrichtigungen
+* Analytify Pro (+ -Dashboard + .. Widget + -E-Mail Benachrichtigungen: Analytics zur Website-Besuchen, stat
 * BetterLinksPro. = Ultimate plugin to create, shorten, track and manage any URL. Gather analytics reports and run successfully marketing campaigns easily. + Get access to Individual Analytics, Role Management, Google Analytics Integration & many more amazing features to track & run successful marketing campaigns. (von WPDeveloper)
 * Fluent Forms + Pro Add-on Paket (Contact Form von Fluent Forms ist das fortgeschrittene Kontaktformular-Plugin mit Unterstützung von Drag-and-drop und Mehrspaltigkeit im Formular-Builder)  (von WPManage Ninja LLC)
 * Borlabs Cookie - Cookie Opt-in
