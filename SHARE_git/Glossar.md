@@ -1,4 +1,4 @@
-Diese Liste ist für ChatGPT.
+Diese Liste ist für ChatGPT bzw. sonstige KI-Systeme.
 Hier sollst Du meine Abkürzungen immer im Kopf haben und verstehen.
 
 * obsi = Obsidian

@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "778886e8a5e90d4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.6"
+            }
+          },
+          {
             "id": "410f4bafb0a165ed",
             "type": "leaf",
             "state": {
@@ -268,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -342,7 +354,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +363,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TechStack"
+              "title": "Backlinks"
             }
           },
           {
@@ -457,7 +468,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b02360e6e81bdccd",
+  "active": "778886e8a5e90d4c",
   "lastOpenFiles": [
     "Prompt-KernStruktur.md",
     "SHARE_git/Glossar.md",
