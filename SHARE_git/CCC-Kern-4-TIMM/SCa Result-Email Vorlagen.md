@@ -1,6 +1,7 @@
 30.07.2025
 
 # Mail-Template mit Leadmagnet
+Stand 30.07.2025
 
 Betreff: Dank fürs Mitmachen. "{scorecard_name}".
 
@@ -30,3 +31,6 @@ CCC Creative Communication Consult
 
 Siemensstr. 96, 70469 Stuttgart  
 [https://c-c-c.de](https://c-c-c.de)
+
+---
+
