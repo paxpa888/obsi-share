@@ -1,6 +1,6 @@
 ####  **Digitale Infrastruktur**
 
- 
+
 # Software: Besonders wichtig
 
 Sehr oft oder oft benutzt:
@@ -73,13 +73,25 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 # Plugins für WordPress
  WoP (WoP = mein persönlicher Term für Wordpress)
 
-* Ich habe als SAAS die **komplette Suite von Thrive Themes** (also Thrive Architect, Thrive Leads, usw.)
+"CHP" ist meine Abkürzung für meine CCC-Homepage, unter URL https://c-c-c.de   
+
+* Ich habe als SAAS die **komplette Suite von Thrive Themes**. Obwohl "Themes" danach klingt, als sei das nur ein Wordpress Theme, ist das eine komplette Pagebuilder-SUITE.  (z.B. Thrive Architect, Thrive Leads, usw.). Ist auf CHP installiert.
+  * Dort gibt es auch ein Modul "ThriveThemes Analytics & Scripts", mit dem man Code-Snippets im Header, im Body, und nach dem Body einer Webseite einsetzen kann.
 
 
-* Analytify Pro (+ -Dashboard + .. Widget + -E-Mail Benachrichtigungen: Analytics zur Website-Besuchen, stat
+
+* Analytify Pro (+ -Dashboard + .. Widget + -E-Mail Benachrichtigungen: Analytics zur Website-Besuchen, stat. Ist auf CHP installiert.
+* "email encoder" von ironikus. Verschleiert Mailadressen (siehe https://wordpress.org/plugins/email-encoder-bundle). Hab ich für CHP installiert am 26.07.2025.
+
+* Fluent Forms + Pro Add-on Paket (Contact Form von Fluent Forms ist das fortgeschrittene Kontaktformular-Plugin mit Unterstützung von Drag-and-drop und Mehrspaltigkeit im Formular-Builder)  (von WPManage Ninja LLC). LTD.
+  Installiert auf CHP am 26.07.2025: Help: Zuerst muss Gratisversion installiert werden, dann die Pro Version.
+* FluentSMTP. 27.07.2025 auf CHP installiert, damit ich zB verschiedene LandingPage-Formulare mit unterschiedlichen Absender-Mailadressen (ead's) versenden kann. Scheint dafür besser als "WP Mail SMTP Pro" zu sein.
+
+
+
+
 * BetterLinksPro. = Ultimate plugin to create, shorten, track and manage any URL. Gather analytics reports and run successfully marketing campaigns easily. + Get access to Individual Analytics, Role Management, Google Analytics Integration & many more amazing features to track & run successful marketing campaigns. (von WPDeveloper)
-* Fluent Forms + Pro Add-on Paket (Contact Form von Fluent Forms ist das fortgeschrittene Kontaktformular-Plugin mit Unterstützung von Drag-and-drop und Mehrspaltigkeit im Formular-Builder)  (von WPManage Ninja LLC)
-* Borlabs Cookie - Cookie Opt-in
+* Borlabs Cookie - Cookie Opt-in. Ist auf CHP installiert.
 * (Child Theme Configurator)
 * Custom Fonts (Upload custom fonts or host Google fonts locally to enhance performance, privacy, and get full site editing support for improved typography! Von Brainstorm Force
 * Enable Media Replace (von ShortPixel)
@@ -109,16 +121,19 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 * Weglot Translate (von Weglot Translate Team) = Übersetze deine Website innerhalb Minuten in mehrere Sprachen. Ohne Programmierung. Vollständig SEO-kompatibel.
 * Wordpress Importer (von wordpressdotorg) = Importiere Beiträge, Seiten, Kommentare, benutzerdefinierte Felder, Kategorien, Schlagwörter und mehr aus einer WordPress-Exportdatei.
 * WP Mail SMTP (von WP Mail SMTP) = Ersetzt die Funktion `wp_mail()`, um Gmail, Mailgun, SendGrid oder jeden beliebigen SMTP-Server anstelle der Standardfunktion `mail()` zu verwenden und bietet eine Optionsseite zum Verwalten der Einstellungen.
+  * Hatte seit 26.07.2025 auch WP Mail SMTP. Aber wieder deinstalliert, weil ich es durch "FluentSMTP" ersetzt habe. Bei Bedarf kann ich aber "WP Mail SMTP Pro" wieder nutzen.
 * WP Staging Pro (von  Von WP-Staging, René Hermenau ) = Erstelle eine Klon Webseite zum Testen und Entwickeln
 * WPCode Lite (von | Von WP-Staging, René Hermenau) = Erstelle eine Klon Webseite zum Testen und Entwickeln
 * WPCodeBox (von WPCodeBox) = Complete WordPress Snippet Manager
 * Yoast SEO (von Team Yoast) = Die erste echte All-in-One-SEO-Lösung für WordPress, einschließlich On-Page Inhaltsanalyse, XML-Sitemaps und vielem mehr.
-	* dazu: Yoast SEO PREMIUM
+  * dazu: Yoast SEO PREMIUM
 
 
 * # Appsumo-Käufe
 * TaskMagic
 * * Bettermode (früher "Tribe")*
+* Aidaform, LTD von Appsumo, 2 Stacks, gekauft Feb.2020. SAAS.
+
 * XXX Gesamtliste
 
 * # Zahlungsabwicklung
@@ -126,5 +141,4 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 * Stripe-Account
 * Paypal-Account
 * 
-
 
