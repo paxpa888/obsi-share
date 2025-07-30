@@ -90,6 +90,20 @@
             }
           },
           {
+            "id": "119a228bfdda1315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "410f4bafb0a165ed",
             "type": "leaf",
             "state": {
@@ -282,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -335,8 +349,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -356,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
+                "file": "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +379,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TechStack"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -471,13 +484,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "778886e8a5e90d4c",
+  "active": "119a228bfdda1315",
   "lastOpenFiles": [
+    "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
+    "SHARE_git/CCC-Kern-4-TIMM/Untitled.md",
+    "SCa-Knowhow usw",
     "Prompt-KernStruktur.md",
     "SHARE_git/Glossar.md",
     "SHARE_git/Glossar_Stand-25619.md",
     "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
-    "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "TIMM/Prompt-Bspe/RubenHassid-25716.md",
     "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
@@ -499,7 +514,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
     "Produkt-Idee uae/CHP Einstiegsangebote.md",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
-    "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/Att",
     "TIMM/Files",
@@ -509,7 +523,6 @@
     "Kleve-Vortrag",
     "Zertifizierung Bafa",
     "rel25",
-    "Cnt-Creation/Cnt_AiKi-Hilfen",
     "hl Obsi/Att/Pasted image 20250609131440.png",
     "HTML import/Attachments/1541429471857.jpeg",
     "HTML import/Attachments/1541462023165.jpeg",
