@@ -86,6 +86,8 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 * SuperMachine (LTD) = für Bildgenerierung
 * Napkin = für Schaubilder-Generierung
 * "Ideogram ai" = für Bildbearbeitung
+* Pickaxe (LTD von Appsumo, Tier-2)
+* 
 
 
 # Plugins für WordPress
