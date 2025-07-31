@@ -57,7 +57,9 @@ Ich bin mit all diesen Apps nicht sehr vertraut, ich finde sie durchaus schwer i
 * activepieces (beruht auf open source, habe als appsumo LTD, Tier-3)
 * taskmagic (Als LTD bei Appsumo, Thier 4)
 * Boostspace (LTD Tier-3 bei Appsumo)
-* Procesio ()
+* Procesio (LTD Tier-4 bei Appsumo, "Business Plan")
+* Cheat-Layer (LTD von Appsumo)
+* Albato (LTD von Appsumo
 
 # Software für Linkedin
 
