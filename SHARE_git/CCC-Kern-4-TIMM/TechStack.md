@@ -50,9 +50,11 @@ Kriterien: Speed, Analytics, evtl. DSGVO (aber eher sekundär)
 
 # Automatisierung
 
+Ich bin mit all diesen Apps nicht sehr vertraut, ich finde sie durchaus schwer in der Bedienung.
+
 * pabbly (LTD)
-* make (ex integromat). Da habe ich einen Gratis-Account.
-* activepieces (beruht auf open source, habe als appsumo LTD)
+* make (ex integromat). Da habe ich einen Gratis-Account. 
+* activepieces (beruht auf open source, habe als appsumo LTD, Tier-3)
 * taskmagic (Als LTD bei Appsumo, Thier 4)
 
 # Software für Linkedin
