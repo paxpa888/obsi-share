@@ -48,6 +48,9 @@ Kriterien: Speed, Analytics, evtl. DSGVO (aber eher sekundär)
 * Adsbot (LTD, Tier-2)
 * *
 
+# Automatisierung
+
+
 # Software für Linkedin
 
 * **Leaddelta** - bisher fast gar nicht benutzt. Aber meine KI sollte wissen, dass ich diese App habe, und mich zur Nutzung ermutigen, wenn die Use Cases dazu passen.
