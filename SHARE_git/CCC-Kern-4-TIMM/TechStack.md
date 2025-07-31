@@ -56,6 +56,8 @@ Ich bin mit all diesen Apps nicht sehr vertraut, ich finde sie durchaus schwer i
 * make (ex integromat). Da habe ich einen Gratis-Account. 
 * activepieces (beruht auf open source, habe als appsumo LTD, Tier-3)
 * taskmagic (Als LTD bei Appsumo, Thier 4)
+* Boostspace (LTD Tier-3 bei Appsumo)
+* Procesio ()
 
 # Software für Linkedin
 
