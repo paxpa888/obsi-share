@@ -328,7 +328,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "techstack",
+                "query": "tag:#Meta-Prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -349,7 +349,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
