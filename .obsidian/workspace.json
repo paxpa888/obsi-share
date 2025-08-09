@@ -349,8 +349,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -485,7 +484,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "119a228bfdda1315",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "SHARE_git/CCC-Kern-4-TIMM/SCa Result-Email Vorlagen.md",
