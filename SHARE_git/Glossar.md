@@ -23,6 +23,11 @@ Damit sollst Du meine Abkürzungen immer im Kopf haben und verstehen, so dass ic
 - pic = mein Sammelbegriff für Bild, image, Grafik
 - rel25 = "Relaunch 25" = der grundlegende Relaunch meiner Firmenwebsite
 - SCa (oder sca) = ScoreCard. Bezieht sich auf die ScoreApp von URL scoreapp.com. WS hat den SAAS "Pro Plan" (=der höchste Tier)
+  - "Sca-Handbuch" = die Datei "24506_HANDBUCH-VOLLSTAENDIG_Scorecard_Marketing_by_Daniel_Priestley_2nd_edition_SCa.pdf". Sie enthält Technik und Tipps zur Verwendung der Scorecard-Methode.
+- sst = Stoppschild-Technik (= eine von mir entwickelte Kommunikations-Technik)
+  - "lp-sst" = "laufendes Projekt 'Stoppschild-Technik'". Damit habe ich begonnen am 5.August 2025.
+  - "sst-dil" = sst-Dienstleistung, also quasi der Produktname dieses neuen Formats, das ich online "liefern" will, in einer Art von Online-Coaching.
+  - 
 - TBd = Thunderbird (email Client)
 - TBS = Textbaustein
 - TCmd = Total Commander (App)
@@ -35,3 +40,4 @@ Damit sollst Du meine Abkürzungen immer im Kopf haben und verstehen, so dass ic
 - win10 = Windows Version 10
 - wl = URL (kam "historisch" als Abkürzung für "Web-Location")
 - WS = Werner Schienle (= ich selber)
+- "Zipe" (oder auch "ZiPe") = "Zielperson" = Adressat z.B. einer Kampagne. 

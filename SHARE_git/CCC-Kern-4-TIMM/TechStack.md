@@ -83,6 +83,9 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 
 * ChatGPT Plus
 * Perplexity Plus
+* Claude ai Pro
+* Kimi.com (chinesische KI Plattform, gratis!)
+* Afforai (LTD Tier-3)
 * SuperMachine (LTD) = für Bildgenerierung
 * Napkin = für Schaubilder-Generierung
 * "Ideogram ai" = für Bildbearbeitung
@@ -150,15 +153,29 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 
 
 * # Appsumo-Käufe
+
 * TaskMagic
+
 * * Bettermode (früher "Tribe")*
+
 * Aidaform, LTD von Appsumo, 2 Stacks, gekauft Feb.2020. SAAS.
 
 * XXX Gesamtliste
 
 * # Zahlungsabwicklung
+
 * "Thrivecart Learn Pro", auch als LMS geeignet (Learning Management System), habs als LTD
+
 * Stripe-Account
+
 * Paypal-Account
+
+
+
+# Social Media Accounts
+
+* Linkedin, inklusive "Sales Navigator" in der sogenannten "Core"-Variante.
+* KEIN Instagram
+* KEIN Facebook
 * 
 
