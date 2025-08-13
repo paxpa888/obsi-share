@@ -294,9 +294,21 @@
               "icon": "lucide-file",
               "title": "TIMM-Limits"
             }
+          },
+          {
+            "id": "d9637ee725d91baa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.7"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -484,7 +496,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "d9637ee725d91baa",
   "lastOpenFiles": [
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "SHARE_git/CCC-Kern-4-TIMM/SCa Result-Email Vorlagen.md",
