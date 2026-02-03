@@ -26,7 +26,18 @@ Sehr oft oder oft benutzt:
 * 
 # Mix 
 
-* Camtasia für Video-Editing
+* Camtasia für Video-Editing, SAAS
+* Filmora Version 15, SAAS
+* Backup-Software: Macrium Reflect, SAAS, Version X, SAAS
+* Snagit (von Techsmith), SAAS
+* SeaTable (ähnlich wie Airtable, aber nicht damit zu verwechseln), SAAS
+
+
+
+# Todo-Apps, "Projektmanagement"
+
+* **Todoist** als SAAS, als "Business Plan" für 3 User (Ich habe das Abo seit mindestens 2018, vermutlich sogar schon viel früher. Es kostet mich für 3 User insgesamt im Jahr unter 90 Euro, weil ich die früheren günstigeren Preise habe. Allerdings hatte ich die App früher für Mitarbeiter angeschafft. Die sind nicht mehr bei mir. Ich selber kenne die App Stand heute (3.Januar 2026) so gut wie nicht. Möchte aber wegen des "grandfather"-Tarifs sie bisher nicht kündigen.)
+
 # Video-Hosting 
 
 * eigener Youtube-Account 
@@ -85,7 +96,7 @@ Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "ai
 * Perplexity Plus
 * Claude ai Pro
 * Kimi.com (chinesische KI Plattform, gratis!)
-* Afforai (LTD Tier-3)
+* Logically (hieß früher "Afforai") (LTD Tier-3)
 * SuperMachine (LTD) = für Bildgenerierung
 * Napkin = für Schaubilder-Generierung
 * "Ideogram ai" = für Bildbearbeitung

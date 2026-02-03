@@ -322,9 +322,21 @@
               "icon": "lucide-file",
               "title": "Ruben Hasid_ Mehrstufen-Prompts"
             }
+          },
+          {
+            "id": "20719f4bd71b54e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.1"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -397,7 +409,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +418,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ruben Hasid_ Mehrstufen-Prompts"
+              "title": "Backlinks"
             }
           },
           {
@@ -500,6 +511,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -512,7 +524,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cd5cd9a3068a60e5",
+  "active": "20719f4bd71b54e9",
   "lastOpenFiles": [
     "TIMM/Ruben Hassid aiki builts sw.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
