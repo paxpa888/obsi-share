@@ -318,8 +318,19 @@
               "icon": "lucide-bookmark",
               "title": "Lesezeichen"
             }
+          },
+          {
+            "id": "27eebd2b1f67da23",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -462,7 +473,8 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "active": "20719f4bd71b54e9",
