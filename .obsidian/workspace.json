@@ -259,12 +259,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflexionen/Faustregel Establishment.md",
+                "file": "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faustregel Establishment"
+              "title": "Cnt-Ideen"
             }
           }
         ],
@@ -352,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reflexionen/Faustregel Establishment.md",
+                "file": "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -362,7 +362,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Faustregel Establishment"
+              "title": "Backlinks for Cnt-Ideen"
             }
           },
           {
@@ -480,8 +480,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "20719f4bd71b54e9",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
+    "Reflexionen/Faustregel Establishment.md",
     "SHARE_git/Glossar.md",
     "SHARE_git/CCC-Kern-4-TIMM/ICP-Weiteres.md",
     "z_chatgpt-index.md",
@@ -509,7 +510,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/AkutProblem_ Unter HeroSection.md",
     "SHARE_git/Aktuell-XXXXX HEUTE.md",
-    "SHARE_git/ICP-Definition_Stand-25619c.md",
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/Att",
     "TIMM/Files",
