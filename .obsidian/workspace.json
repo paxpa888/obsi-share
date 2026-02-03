@@ -257,12 +257,14 @@
             "id": "20719f4bd71b54e9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.1"
+                "file": "z_chatgpt-index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.1"
+              "icon": "lucide-file",
+              "title": "z_chatgpt-index"
             }
           }
         ],
@@ -350,6 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "z_chatgpt-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +362,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for z_chatgpt-index"
             }
           },
           {
@@ -477,8 +480,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "27eebd2b1f67da23",
+  "active": "20719f4bd71b54e9",
   "lastOpenFiles": [
+    "Cnt_ AiKi-HilfeTipps.md",
+    "AiKi-Agents bauen.md",
     "TIMM/Ruben Hassid aiki builts sw.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
@@ -505,8 +510,6 @@
     "SHARE_git/ICP-Definition_Stand-25619c.md",
     "SHARE_git/ICP-Definition_Stand-25619b.md",
     "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
-    "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
-    "Produkt-Idee uae/CHP Einstiegsangebote.md",
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/Att",
     "TIMM/Files",
