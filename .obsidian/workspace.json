@@ -334,7 +334,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 522.5
+    "width": 841.5110359191895
   },
   "right": {
     "id": "913499b4e4e7ba3e",
@@ -477,7 +477,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "20719f4bd71b54e9",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
     "TIMM/Ruben Hassid aiki builts sw.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
