@@ -18,7 +18,7 @@
     }
   ],
   "file-explorer:new-file": [],
-  "file-explorer:new-file-in-current-tab": [
+  "notebook-navigator:new-note": [
     {
       "modifiers": [
         "Mod"
