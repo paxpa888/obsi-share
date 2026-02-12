@@ -23,7 +23,7 @@ Sehr oft oder oft benutzt:
 * "Kofax Power PDF Advanced" Version 5.1.* (Meine KI muss wissen, dass ich die "Advanced"-Version habe)
 *  Foxit (Browser), free version
 * Browser-Addon "Printfriendly"
-* 
+* StrongVPN (von Strong Technology LLC)
 # Mix 
 
 * Camtasia für Video-Editing, SAAS
@@ -92,9 +92,10 @@ Ich bin mit all diesen Apps nicht sehr vertraut, ich finde sie durchaus schwer i
 
 Bitte merke Dir meinen persönlichen Term für KI (Künstliche Intelligenz): "aiki" (= zusammengesetzt aus engl. "ai" und dt. "ki")
 
-* ChatGPT Plus
-* Perplexity Plus
-* Claude ai Pro
+* ChatGPT Plus (angemeldet in Deutschland)
+* Perplexity Plus (angemeldet in Deutschland)
+* "Google AI Pro (2TB)" (das ist wohl (fast?) identisch mit "google one ai premium", da bin ich aber nicht ganz sicher)
+* Claude ai Pro (angemeldet in Deutschland)
 * Kimi.com (chinesische KI Plattform, gratis!)
 * Logically (hieß früher "Afforai") (LTD Tier-3)
 * SuperMachine (LTD) = für Bildgenerierung

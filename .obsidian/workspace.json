@@ -266,9 +266,21 @@
               "icon": "lucide-file",
               "title": "Kleve-Vortrag"
             }
+          },
+          {
+            "id": "9f4e392baab140b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -480,7 +492,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "20719f4bd71b54e9",
+  "active": "9f4e392baab140b5",
   "lastOpenFiles": [
     "Kleve-Vortrag/test kleve.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
