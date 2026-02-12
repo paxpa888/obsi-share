@@ -271,12 +271,14 @@
             "id": "9f4e392baab140b5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Cnt-Ideen"
             }
           }
         ],

@@ -22,3 +22,15 @@ favicon: ""
 aspectRatio: "125"
 ```
 
+
+
+12Feb26:
+```embed
+title: "&quot;Chef, ich habe Sche*ße gebaut. Der Kunde könnte stinksauer sein.&quot;  So eine Nachricht hat mir letzte Woche eine Mitarbeiterin geschickt.  Früher hätte ich gedacht: &quot;Ey.. immer muss ich die Scherben… | Nils Grammerstorf | 129 Kommentare"
+image: "https://media.licdn.com/dms/image/v2/D4D10AQGqXtCDOeRlkg/image-shrink_1280/B4DZxLt8LRIUAc-/0/1770796860563?e=2147483647&v=beta&t=xq_Nj0k67jeQbW3vSMBesCkcz4waCZZHBLJa8yQE-FM"
+description: "\"Chef, ich habe Sche*ße gebaut. Der Kunde könnte stinksauer sein.\"  So eine Nachricht hat mir letzte Woche eine Mitarbeiterin geschickt.  Früher hätte ich gedacht: \"Ey.. immer muss ich die Scherben aufsammeln.\"  Heute weiß ich: Das ist Gold wert.  Denn in den meisten Unternehmen passiert das Gegenteil: Der Fehler wird von Mitarbeitern vertuscht. Es werden Ausreden erfunden. Oder man schweigt, bis alles eskaliert.  Aber nein. Sie hat direkt geschrieben: \"Mein Fehler. Ich kümmere mich.\"  Meine Antwort? \"Danke, dass du es direkt sagst. Lass uns das gemeinsam lösen. Wie kann ich helfen?\"  Ich kann Verständnis dafür aufbringen, dass Fehler passieren. Was ich nicht kann: Mit Leuten arbeiten, die mir nicht die Wahrheit sagen.  Welche Erfahrungen hast du gemacht?  ♻️ Teile es gerne in deinem Netzwerk, wenn du der gleichen Meinung bist.| 129 Kommentare auf LinkedIn"
+url: "https://www.linkedin.com/posts/nilsgrammerstorf_chef-ich-habe-sche%C3%9Fe-gebaut-der-kunde-activity-7427260441191575552-OMeK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABl3G4BuTZgHPazgGwtY9uvz3u661M7Wjc"
+favicon: ""
+aspectRatio: "100"
+```
+
