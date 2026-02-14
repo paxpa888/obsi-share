@@ -279,10 +279,32 @@
               },
               "icon": "lucide-file",
               "title": "hl ObSi allgemein Test"
-            }
+            },
+            "group": "ab017165dfab6805"
           }
         ],
         "currentTab": 18
+      },
+      {
+        "id": "aac2e06c97d571da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0afe603d0c4c348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hl Obsi/hl ObSi allgemein Test.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "hl ObSi allgemein Test"
+            },
+            "group": "ab017165dfab6805"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -494,7 +516,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "9f4e392baab140b5",
+  "active": "a0afe603d0c4c348",
   "lastOpenFiles": [
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "TIMM/Prompt-Bspe/Headshot Prompt.md",
