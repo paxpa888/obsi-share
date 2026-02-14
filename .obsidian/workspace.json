@@ -27,7 +27,7 @@
               "state": {
                 "file": "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Test wg. Geolocation Plugin 'Map View'"
