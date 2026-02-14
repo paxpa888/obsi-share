@@ -534,11 +534,14 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian42-brat:BRAT": false,
+      "outliner-md:New outliner file": false
     }
   },
-  "active": "a0afe603d0c4c348",
+  "active": "9f4e392baab140b5",
   "lastOpenFiles": [
+    "hl Obsi/hl ObSi allgemein Test.md",
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "TIMM/Prompt-Bspe/Headshot Prompt.md",
     "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
@@ -566,7 +569,6 @@
     "SHARE_git/testglossar.md",
     "TIMM/Prompt-Bspe/Prompt-für-LIVE-Url-Befehle.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
-    "SHARE_git/CCC-Kern-4-TIMM/Produktideen.md",
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/Att",
     "TIMM/Files",
