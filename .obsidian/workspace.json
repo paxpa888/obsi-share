@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
+                "file": "rel25/Rel25-XXXXX.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cnt-Prompt Lkd ib-emg"
+              "title": "Rel25-XXXXX"
             }
           }
         ]
@@ -251,6 +251,7 @@
   },
   "active": "1aa44ddfd8efe3f0",
   "lastOpenFiles": [
+    "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "hl Obsi/hl ObSi allgemein Test.md",
@@ -276,7 +277,6 @@
     "Kleve-Vortrag/test kleve.md",
     "SHARE_git/CCC-Kern-4-TIMM/TechStack.md",
     "SHARE_git/CCC-Kern-4-TIMM/WS-Profil.md",
-    "Prompt-KernStruktur.md",
     "SCa-Knowhow usw",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "rel25/Att/Pasted image 20250705142608.png",
