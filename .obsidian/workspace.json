@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfa3190dcaeabd09",
-            "type": "leaf",
-            "state": {
-              "type": "lineage",
-              "state": {
-                "file": "hl Obsi/Test-26214 wg neuer Plugins Lineage.md"
-              },
-              "icon": "lineage-cards",
-              "title": "Test-26214 wg neuer Plugins Lineage"
-            }
-          },
-          {
             "id": "1aa44ddfd8efe3f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
+                "file": "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kleve-Vortrag"
+              "title": "Cnt-Prompt Lkd ib-emg"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,16 +249,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c5eba6c59425c63f",
+  "active": "1aa44ddfd8efe3f0",
   "lastOpenFiles": [
+    "Kleve-Vortrag/Kleve-Vortrag.md",
+    "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "hl Obsi/hl ObSi allgemein Test.md",
     "hl Obsi/2026-02-14.md",
     "Location added on 2026-02-14T22-57.md",
     "Location added on 2026-02-14T23-00.md",
     "Unbenannt.md",
-    "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
-    "Kleve-Vortrag/Kleve-Vortrag.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "TIMM/TIMM-Limits.md",
     "rel25/8gA-Page_rel25.md",
