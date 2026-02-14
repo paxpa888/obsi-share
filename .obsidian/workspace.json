@@ -547,6 +547,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "lineage:Toggle Lineage view": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -563,7 +564,7 @@
       "outliner-md:New outliner file": false
     }
   },
-  "active": "90ce1303e70dd442",
+  "active": "e4f9c0b7b6095cea",
   "lastOpenFiles": [
     "hl Obsi/hl ObSi allgemein Test.md",
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
