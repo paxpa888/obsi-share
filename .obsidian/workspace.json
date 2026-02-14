@@ -126,7 +126,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -287,7 +288,7 @@
       "outliner-md:New outliner file": false
     }
   },
-  "active": "8327e56d58d658f2",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
