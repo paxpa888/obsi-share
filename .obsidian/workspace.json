@@ -527,9 +527,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "90ce1303e70dd442",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -553,7 +563,7 @@
       "outliner-md:New outliner file": false
     }
   },
-  "active": "8327e56d58d658f2",
+  "active": "90ce1303e70dd442",
   "lastOpenFiles": [
     "hl Obsi/hl ObSi allgemein Test.md",
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
