@@ -32,23 +32,9 @@
               "icon": "lucide-file",
               "title": "Unbenannt"
             }
-          },
-          {
-            "id": "4a56e1f2594f50f8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.openstreetmap.org/node/5747511537#map=16/48.81492/9.16881",
-                "title": "Knoten: ‪SportCodex.de‬ (‪5747511537‬) | OpenStreetMap",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Knoten: ‪SportCodex.de‬ (‪5747511537‬) | OpenStreetMap"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,7 +259,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "4a56e1f2594f50f8",
+  "active": "1aa44ddfd8efe3f0",
   "lastOpenFiles": [
     "hl Obsi/Unbenannt.md",
     "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
