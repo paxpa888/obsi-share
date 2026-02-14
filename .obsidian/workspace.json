@@ -23,30 +23,14 @@
             "id": "1aa44ddfd8efe3f0",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 6,
-                "mapCenter": {
-                  "lat": 48.80686346108519,
-                  "lng": 7.800292968750001
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "followMyLocation": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off",
-                "editMode": false
+                "file": "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Test wg. Geolocation Plugin 'Map View'"
             }
           }
         ],
