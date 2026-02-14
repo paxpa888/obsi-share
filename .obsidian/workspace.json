@@ -539,7 +539,46 @@
       "outliner-md:New outliner file": false
     }
   },
-  "active": "9f4e392baab140b5",
+  "floating": {
+    "id": "34196e500146f9a9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1580fb91431ac3b1",
+        "type": "window",
+        "children": [
+          {
+            "id": "4ddae45ae688a1cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d2cb7a8e08605b92",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://docs.outliner.md/en-US/editor/embedded-block-editing",
+                    "title": "Block editing",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Block editing"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 279,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "d2cb7a8e08605b92",
   "lastOpenFiles": [
     "hl Obsi/hl ObSi allgemein Test.md",
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
