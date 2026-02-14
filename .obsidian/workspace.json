@@ -27,14 +27,26 @@
             "state": {
               "type": "lineage",
               "state": {
-                "file": "hl Obsi/Test-26214 wg neuer Plugins.md"
+                "file": "hl Obsi/Test-26214 wg neuer Plugins Lineage.md"
               },
               "icon": "lineage-cards",
-              "title": "Test-26214 wg neuer Plugins"
+              "title": "Test-26214 wg neuer Plugins Lineage"
+            }
+          },
+          {
+            "id": "cfa3190dcaeabd09",
+            "type": "leaf",
+            "state": {
+              "type": "lineage",
+              "state": {
+                "file": "hl Obsi/Test-26214 wg neuer Plugins Lineage.md"
+              },
+              "icon": "lineage-cards",
+              "title": "Test-26214 wg neuer Plugins Lineage"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,10 +270,10 @@
       "outliner-md:New outliner file": false
     }
   },
-  "active": "ae0cb20c1192bbdd",
+  "active": "cfa3190dcaeabd09",
   "lastOpenFiles": [
     "hl Obsi/hl ObSi allgemein Test.md",
-    "hl Obsi/Test-26214 wg neuer Plugins.md",
+    "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "TIMM/TIMM-Limits.md",
