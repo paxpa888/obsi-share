@@ -1,2 +1,2 @@
 [[Hotkeys Obsidian]]
-[[hl ObSi allgemein]]
+[[hl ObSi allgemein Test]]
