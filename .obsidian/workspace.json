@@ -8,213 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7b246fd7cdcb047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/Glossar_Stand-25619.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossar_Stand-25619"
-            }
-          },
-          {
-            "id": "e30f4dc366ab6650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "lp_Sca_Its-the-brain-stupid"
-            }
-          },
-          {
-            "id": "1648722123a9c9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/lp_rel25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lp_rel25"
-            }
-          },
-          {
-            "id": "384776353ed365c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/ICP-Definition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ICP-Definition"
-            }
-          },
-          {
-            "id": "8f1a53e27037da2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "error_TIMM-GitHub-Integration"
-            }
-          },
-          {
-            "id": "3a270ad5a30583a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/ICP-Definition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ICP-Definition"
-            }
-          },
-          {
-            "id": "3641f8f788ed0540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/AkutProblem_ Unter HeroSection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AkutProblem_ Unter HeroSection"
-            }
-          },
-          {
-            "id": "d9816ece31625151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "obsi-TiMM-Integration2"
-            }
-          },
-          {
-            "id": "6a56ca8bb186db91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rel25/8gA-Page_rel25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8gA-Page_rel25"
-            }
-          },
-          {
-            "id": "f23743324b766672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIMM/TIMM-Limits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIMM-Limits"
-            }
-          },
-          {
-            "id": "d9637ee725d91baa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruben Hasid_ Mehrstufen-Prompts"
-            }
-          },
-          {
-            "id": "cd5cd9a3068a60e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruben Hasid_ Mehrstufen-Prompts"
-            }
-          },
-          {
-            "id": "20719f4bd71b54e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kleve-Vortrag"
-            }
-          },
-          {
-            "id": "9f4e392baab140b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hl Obsi/hl ObSi allgemein Test.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "hl ObSi allgemein Test"
-            },
-            "group": "ab017165dfab6805"
-          },
-          {
             "id": "8327e56d58d658f2",
             "type": "leaf",
             "state": {
@@ -228,8 +21,7 @@
               "title": "hl ObSi allgemein Test"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "aac2e06c97d571da",
@@ -496,13 +288,22 @@
       "outliner-md:New outliner file": false
     }
   },
-  "active": "e30f4dc366ab6650",
+  "active": "8327e56d58d658f2",
   "lastOpenFiles": [
+    "Kleve-Vortrag/Kleve-Vortrag.md",
+    "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
+    "TIMM/TIMM-Limits.md",
+    "rel25/8gA-Page_rel25.md",
+    "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
+    "SHARE_git/AkutProblem_ Unter HeroSection.md",
+    "SHARE_git/ICP-Definition.md",
+    "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
+    "SHARE_git/lp_rel25.md",
+    "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
     "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
     "TIMM/Prompt-Bspe/Prompt-für-LIVE-Url-Befehle.md",
     "hl Obsi/hl ObSi allgemein Test.md",
-    "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "TIMM/Prompt-Bspe/Headshot Prompt.md",
     "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
     "Kleve-Vortrag/test kleve.md",
@@ -515,16 +316,7 @@
     "z_chatgpt-index.md",
     "Cnt_ AiKi-HilfeTipps.md",
     "AiKi-Agents bauen.md",
-    "TIMM/Ruben Hassid aiki builts sw.md",
-    "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
-    "SHARE_git/CCC-Kern-4-TIMM/SCa Result-Email Vorlagen.md",
     "SCa-Knowhow usw",
-    "SHARE_git/Glossar_Stand-25619.md",
-    "SHARE_git/CCC-Kern-4-TIMM/obsi-TiMM-Integration2.md",
-    "TIMM/Prompt-Bspe/RubenHassid-25716.md",
-    "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
-    "rel25/Rel25-XXXXX.md",
-    "SHARE_git/rel25-XXXX.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/Att",
