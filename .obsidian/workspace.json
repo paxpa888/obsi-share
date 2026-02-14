@@ -286,12 +286,14 @@
             "id": "8327e56d58d658f2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.1"
+                "file": "hl Obsi/hl ObSi allgemein Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.12.1"
+              "icon": "lucide-file",
+              "title": "hl ObSi allgemein Test"
             }
           }
         ],
