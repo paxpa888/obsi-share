@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test ",
+                "query": "test oder kleve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,7 +262,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1aa44ddfd8efe3f0",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "hl Obsi/hl ObSi allgemein Test.md",
     "hl Obsi/2026-02-14.md",
