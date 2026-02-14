@@ -11,13 +11,11 @@
             "id": "8327e56d58d658f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "lineage",
               "state": {
-                "file": "hl Obsi/hl ObSi allgemein Test.md",
-                "mode": "source",
-                "source": false
+                "file": "hl Obsi/hl ObSi allgemein Test.md"
               },
-              "icon": "lucide-file",
+              "icon": "lineage-cards",
               "title": "hl ObSi allgemein Test"
             }
           }
