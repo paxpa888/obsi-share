@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl Obsi/hl ObSi allgemein Test.md",
+                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hl ObSi allgemein Test"
+              "title": "Kleve-Vortrag"
             }
           }
         ],
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test oder kleve",
+                "query": "kleve OR ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
