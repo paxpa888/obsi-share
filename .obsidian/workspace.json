@@ -275,7 +275,7 @@
               "state": {
                 "file": "hl Obsi/hl ObSi allgemein Test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "hl ObSi allgemein Test"
