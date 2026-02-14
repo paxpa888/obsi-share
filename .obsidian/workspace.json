@@ -23,14 +23,30 @@
             "id": "1aa44ddfd8efe3f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "map",
               "state": {
-                "file": "Location added on 2026-02-14T22-57.md",
-                "mode": "source",
-                "source": false
+                "name": "Default",
+                "mapZoom": 1,
+                "mapCenter": {
+                  "lat": 40.44694705960048,
+                  "lng": -180.70312500000003
+                },
+                "query": "",
+                "queryError": false,
+                "chosenMapSource": 0,
+                "forceHistorySave": false,
+                "followActiveNote": false,
+                "followMyLocation": false,
+                "embeddedHeight": 300,
+                "autoFit": false,
+                "lock": false,
+                "showLinks": false,
+                "linkColor": "red",
+                "markerLabels": "off",
+                "editMode": false
               },
-              "icon": "lucide-file",
-              "title": "Location added on 2026-02-14T22-57"
+              "icon": "map-pin",
+              "title": "Interactive Map View"
             }
           }
         ],
@@ -261,8 +277,8 @@
   },
   "active": "1aa44ddfd8efe3f0",
   "lastOpenFiles": [
-    "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "Location added on 2026-02-14T22-57.md",
+    "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "hl Obsi/Unbenannt.md",
     "hl Obsi/hl ObSi allgemein Test.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
