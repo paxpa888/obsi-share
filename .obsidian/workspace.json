@@ -11,11 +11,13 @@
             "id": "8327e56d58d658f2",
             "type": "leaf",
             "state": {
-              "type": "lineage",
+              "type": "markdown",
               "state": {
-                "file": "hl Obsi/hl ObSi allgemein Test.md"
+                "file": "hl Obsi/hl ObSi allgemein Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lineage-cards",
+              "icon": "lucide-file",
               "title": "hl ObSi allgemein Test"
             }
           }
@@ -84,7 +86,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -124,8 +126,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
