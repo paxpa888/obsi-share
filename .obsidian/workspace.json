@@ -39,28 +39,18 @@
             "id": "72f574f813368c13",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf"
+                "file": "hl Obsi/hl ObSi allgemein Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
-            }
-          },
-          {
-            "id": "a713a1024678061d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "hl Obsi/Att/Test wg. Image Paste__att-1.png"
-              },
-              "icon": "lucide-image",
-              "title": "Test wg. Image Paste__att-1"
+              "icon": "lucide-file",
+              "title": "hl ObSi allgemein Test"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,8 +278,11 @@
       "workspaces:Workspace-Layouts verwalten": false
     }
   },
-  "active": "a713a1024678061d",
+  "active": "72f574f813368c13",
   "lastOpenFiles": [
+    "hl Obsi/Git Versionen-Check.md",
+    "hl Obsi/Button Git-Save.md",
+    "hl Obsi/Att/Test wg. Image Paste__att-1.png",
     "hl Obsi/Att/Test wg. Image Paste__att__sf-wg-Opa.png",
     "hl Obsi/Att/Test wg. Image Paste__att Opa.png",
     "hl Obsi/Att/Test wg. Image Paste__att.png",
@@ -318,8 +311,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "hl Obsi/Test wg. Image Paste.md",
-    "hl Obsi/Git Versionen-Check.md",
-    "hl Obsi/Att/Test wg. Image Paste__att-1.png",
     "hl Obsi/Test wg. Image Paste__att Opa.md",
     "hl Obsi/Hotkeys Obsidian.md",
     "hl Obsi/ObSi_ Ytb-Video embed.md",
