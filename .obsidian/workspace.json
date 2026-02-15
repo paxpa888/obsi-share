@@ -39,12 +39,14 @@
             "id": "72f574f813368c13",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf"
+                "file": "TIMM/Prompt-Bspe/CustomGPT-Ideen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
+              "icon": "lucide-file",
+              "title": "CustomGPT-Ideen"
             }
           }
         ],
@@ -278,8 +280,12 @@
   },
   "active": "72f574f813368c13",
   "lastOpenFiles": [
-    "SHARE_git/Aktuell-XXXXX HEUTE.md",
+    "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
+    "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
+    "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
+    "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
+    "SHARE_git/Aktuell-XXXXX HEUTE.md",
     "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "SHARE_git/testglossar.md",
     "SHARE_git/rel25-XXXX.md",
@@ -302,17 +308,13 @@
     "rel25_old/Stilinfo.md",
     "rel25_old/Rel25-XXXXX.md",
     "rel25_old/Coaching Honorarvergleich.md",
-    "rel25_old/Angebote-CHP.md",
-    "rel25_old/8gA-Page_rel25.md",
     "rel25_old/Att/Pasted image 20250705142608.png",
-    "Reflexionen/Faustregel Establishment.md",
     "hl Obsi/Att/Test wg. Image Paste__att-1.png",
     "hl Obsi/Att/Test wg. Image Paste__att__sf-wg-Opa.png",
     "hl Obsi/Att/Test wg. Image Paste__att Opa.png",
     "hl Obsi/Att/Test wg. Image Paste__att.png",
     "hl Obsi/Att/Pasted image 20260215011401.png",
     "hl Obsi/Att/Pasted image 20250609131440.png",
-    "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att/Pics-Promt-Kunst__att__RubenHassid-Bsp_BildImBild_mockupAehnlich_26215.png",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att/Create a Magazine__att__aiki-Design-26215_RubenHassid-Bsp.png",
