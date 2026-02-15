@@ -1,5 +1,6 @@
 XXXXX
 #XXXXX #HEUTE
+It's the Brain, Stupid
 
 
 CHP
@@ -16,7 +17,6 @@ Bedeutung der #Beziehungsebene - das geht aber noch viel tiefer. Frage "wer hat 
 
 Kenntnis unserer Denk- und Wahrnehmungsmechanismen
 
-It's the Brain, Stupid
 
 Die 8 Ampeln sind kein Theoriemodell – sie sind ein Trainingspfad
 
