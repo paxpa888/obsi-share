@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-KnowHow/Prompt-Bspe/Unbenannt.md",
+                "file": "AiKi-KnowHow_262nn/aiki-Experten/DanPriestley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
+              "title": "DanPriestley"
+            }
+          },
+          {
+            "id": "ba1ae053f9e189c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AiKi-KnowHow_262nn/aiki-Experten/DanPriestley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DanPriestley"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -292,10 +306,10 @@
       "workspaces:Workspace-Layouts verwalten": false
     }
   },
-  "active": "1b63b4980e0c13ca",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
     "aiki-KnowHow/Prompt-Bspe/RubenHassid.md",
-    "aiki-KnowHow/Prompt-Bspe/Unbenannt.md",
+    "AiKi-KnowHow_262nn/aiki-Experten/DanPriestley.md",
     "aiki-KnowHow/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
     "AiKi-KnowHow_262nn/aiki-Experten",
     "Cont-FUN/MindDose/Teil_06-15.md",
