@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Produkt-Idee uae/CHP Einstiegsangebote.md",
+                "file": "rel25_old/tmp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHP Einstiegsangebote"
+              "title": "tmp"
             }
           }
         ],
@@ -278,8 +278,16 @@
       "workspaces:Workspace-Layouts verwalten": false
     }
   },
-  "active": "72f574f813368c13",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
+    "rel25_old/Stilinfo.md",
+    "rel25_old/Rel25-XXXXX.md",
+    "rel25_old/Coaching Honorarvergleich.md",
+    "rel25_old/Angebote-CHP.md",
+    "rel25_old/8gA-Page_rel25.md",
+    "rel25_old/Att/Pasted image 20250705142608.png",
+    "Reflexionen/Faustregel Establishment.md",
+    "Produkt-Idee uae/CHP Einstiegsangebote.md",
     "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
     "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
@@ -308,20 +316,12 @@
     "AiKi-KnowHow_262nn/Design_with-aiki/Pics-Promt-Kunst.md",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att/Pics-Promt-Kunst__att__RubenHassid-Bsp_BildImBild_mockupAehnlich_26215.png",
-    "TIMM/Prompt-Bspe/RubenHassid-25716.md",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att/Create a Magazine__att__aiki-Design-26215_RubenHassid-Bsp.png",
     "Att",
     "AiKi-KnowHow_262nn/Design_with-aiki",
     "AiKi-KnowHow_262nn",
-    "SHARE_git/AkutProblem_ Unter HeroSection.md",
-    "SHARE_git/Aktuell-XXXXX HEUTE.md",
-    "SHARE_git/CCC-Kern-4-TIMM/Testimonials.md",
-    "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
-    "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
-    "hl Obsi/Test wg. Image Paste__att Opa.md",
-    "rel25/Att/Pasted image 20250705142608.png",
     "SCa-Knowhow usw",
-    "rel25/Att",
+    "rel25_old/Att",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
