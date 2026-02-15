@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Manfred",
+                "query": "_meta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
