@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "AiKi-Agents bauen"
             }
+          },
+          {
+            "id": "9ecb3b25e127787a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create a Magazine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create a Magazine"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +263,10 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "9ecb3b25e127787a",
   "lastOpenFiles": [
+    "AiKi-Agents bauen.md",
+    "Create a Magazine.md",
     "AiKi-KnowHow_262nn/Design_with-aiki",
     "AiKi-KnowHow_262nn",
     "SHARE_git/AkutProblem_ Unter HeroSection.md",
@@ -281,7 +298,6 @@
     "hl Obsi/2026-02-14.md",
     "Location added on 2026-02-14T22-57.md",
     "Location added on 2026-02-14T23-00.md",
-    "Unbenannt.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "TIMM/TIMM-Limits.md",
     "SCa-Knowhow usw",
@@ -292,7 +308,6 @@
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
     "TIMM/Perplexity",
     "Kleve-Vortrag",
-    "Zertifizierung Bafa",
     "HTML import/Attachments/1541429471857.jpeg",
     "HTML import/Attachments/1541462023165.jpeg",
     "test/Attachments/1533245462738.png"
