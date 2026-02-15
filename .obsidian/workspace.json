@@ -39,14 +39,12 @@
             "id": "72f574f813368c13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SHARE_git/rel25-XXXX.md",
-                "mode": "source",
-                "source": false
+                "file": "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf"
               },
-              "icon": "lucide-file",
-              "title": "rel25-XXXX"
+              "icon": "lucide-file-text",
+              "title": "25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus"
             }
           }
         ],
@@ -280,6 +278,11 @@
   },
   "active": "72f574f813368c13",
   "lastOpenFiles": [
+    "SHARE_git/Aktuell-XXXXX HEUTE.md",
+    "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
+    "SHARE_git/Zertifizierung Bafa wl-Liste.md",
+    "SHARE_git/testglossar.md",
+    "SHARE_git/rel25-XXXX.md",
     "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
     "SHARE_git/ICP-Definition_Stand-25619c.md",
     "SHARE_git/lp_rel25.md",
@@ -288,7 +291,6 @@
     "SHARE_git/AkutProblem_ Unter HeroSection.md",
     "SHARE_git/ChatGPT vs Perplexity DeepResearch.md",
     "SHARE_git/ChatGPT 3o = 4o.md",
-    "SHARE_git/Aktuell-XXXXX HEUTE.md",
     "SHARE_git/_MetaInfo/_MetaCard.md",
     "SHARE_git/_MetaInfo",
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
@@ -304,10 +306,6 @@
     "rel25_old/8gA-Page_rel25.md",
     "rel25_old/Att/Pasted image 20250705142608.png",
     "Reflexionen/Faustregel Establishment.md",
-    "Produkt-Idee uae/CHP Einstiegsangebote.md",
-    "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
-    "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
-    "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
     "hl Obsi/Att/Test wg. Image Paste__att-1.png",
     "hl Obsi/Att/Test wg. Image Paste__att__sf-wg-Opa.png",
     "hl Obsi/Att/Test wg. Image Paste__att Opa.png",
