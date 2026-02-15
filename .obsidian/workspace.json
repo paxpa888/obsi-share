@@ -245,7 +245,6 @@
       "outliner-md:New outliner file": false,
       "obsidian-map-view:Open map view": false,
       "omnisearch:Omnisearch": false,
-      "janitor:Janitor: scan vault": false,
       "file-cleaner-redux:Clean files": false
     }
   },
