@@ -51,14 +51,12 @@
             "id": "a713a1024678061d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "z_chatgpt-index.md",
-                "mode": "source",
-                "source": false
+                "file": "hl Obsi/Att/Test wg. Image Paste__att-1.png"
               },
-              "icon": "lucide-file",
-              "title": "z_chatgpt-index"
+              "icon": "lucide-image",
+              "title": "Test wg. Image Paste__att-1"
             }
           }
         ],
@@ -286,16 +284,22 @@
       "outliner-md:New outliner file": false,
       "obsidian-map-view:Open map view": false,
       "omnisearch:Omnisearch": false,
-      "file-cleaner-redux:Clean files": false
+      "file-cleaner-redux:Clean files": false,
+      "workspaces:Workspace-Layouts verwalten": false
     }
   },
   "active": "a713a1024678061d",
   "lastOpenFiles": [
+    "hl Obsi/Att/Test wg. Image Paste__att__sf-wg-Opa.png",
+    "hl Obsi/Att/Test wg. Image Paste__att Opa.png",
+    "hl Obsi/Att/Test wg. Image Paste__att.png",
+    "hl Obsi/Att/Pasted image 20260215011401.png",
+    "hl Obsi/Att/Pasted image 20250609131440.png",
+    "z_chatgpt-index.md",
     "Cnt_ AiKi-HilfeTipps.md",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "AiKi-Agents bauen.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
-    "z_chatgpt-index.md",
     "Location added on 2026-02-14T23-00.md",
     "Prompt-KernStruktur.md",
     "testglossar.md",
@@ -317,15 +321,10 @@
     "hl Obsi/Git Versionen-Check.md",
     "hl Obsi/Att/Test wg. Image Paste__att-1.png",
     "hl Obsi/Test wg. Image Paste__att Opa.md",
-    "hl Obsi/Att/Test wg. Image Paste__att Opa.png",
     "hl Obsi/Hotkeys Obsidian.md",
     "hl Obsi/ObSi_ Ytb-Video embed.md",
     "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
     "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
-    "hl Obsi/Att/Pasted image 20250609131440.png",
-    "hl Obsi/Att/Pasted image 20260215011401.png",
-    "hl Obsi/Att/Test wg. Image Paste__att.png",
-    "hl Obsi/Att/Test wg. Image Paste__att__sf-wg-Opa.png",
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/tmp1.md",
     "hl Obsi/hl ObSi allgemein Test.md",
