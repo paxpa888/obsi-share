@@ -23,9 +23,6 @@ Die 8 Ampeln sind kein Theoriemodell – sie sind ein Trainingspfad
 **Kooperation braucht kein Kuschel-Coaching.**  
 Sie braucht Struktur, Tiefe – und das richtige Werkzeug. Genau das leisten die 8 grünen Ampeln.
 
-**Die 8 Ampeln sind wie ein Körperscan – aber für Zusammenarbeit.**  
-Sie zeigen, wo es klemmt – und wie man es wieder fließen lässt.
-
 **Die 8 grünen Ampeln sind wie ein Kompass für Beziehungsintelligenz.**  
 Sie helfen, sich in heiklen Situationen besser zu orientieren – ganz ohne Druck oder Theorieballast.
 
