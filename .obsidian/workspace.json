@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_chatgpt-index.md",
+                "file": "AiKi-Agents bauen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "z_chatgpt-index"
+              "title": "AiKi-Agents bauen"
+            }
+          },
+          {
+            "id": "72f574f813368c13",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.linkedin.com/posts/zainkahn_everyone-is-talking-about-ai-agents-but-activity-7340709839637000193-J5f3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABl3G4BuTZgHPazgGwtY9uvz3u661M7Wjc",
+                "title": "How to build and govern AI agents with Boomi | Zain Kahn hat zu dem Thema Beiträge veröffentlicht | LinkedIn",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "How to build and govern AI agents with Boomi | Zain Kahn hat zu dem Thema Beiträge veröffentlicht | LinkedIn"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,13 +277,16 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "9ecb3b25e127787a",
+  "active": "72f574f813368c13",
   "lastOpenFiles": [
+    "AiKi-Agents bauen.md",
     "Cnt_ AiKi-HilfeTipps.md",
+    "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
+    "z_chatgpt-index.md",
+    "Location added on 2026-02-14T23-00.md",
     "Prompt-KernStruktur.md",
     "testglossar.md",
     "Location added on 2026-02-14T22-57.md",
-    "AiKi-Agents bauen.md",
     "AiKi-KnowHow_262nn/Design_with-aiki/Pics-Promt-Kunst.md",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att/Pics-Promt-Kunst__att__RubenHassid-Bsp_BildImBild_mockupAehnlich_26215.png",
@@ -301,9 +318,6 @@
     "hl Obsi/hl ObSi allgemein Test.md",
     "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
     "rel25/Rel25-XXXXX.md",
-    "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
-    "Kleve-Vortrag/Kleve-Vortrag.md",
-    "hl Obsi/2026-02-14.md",
     "SCa-Knowhow usw",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "rel25/Att",
