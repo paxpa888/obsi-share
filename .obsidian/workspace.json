@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Design_with-aiki/Pics-Promt-Kunst.md",
+                "file": "z_chatgpt-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pics-Promt-Kunst"
+              "title": "z_chatgpt-index"
             }
           }
         ],
@@ -263,15 +263,19 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "9ecb3b25e127787a",
   "lastOpenFiles": [
+    "Cnt_ AiKi-HilfeTipps.md",
+    "Prompt-KernStruktur.md",
+    "testglossar.md",
+    "Location added on 2026-02-14T22-57.md",
+    "AiKi-Agents bauen.md",
+    "AiKi-KnowHow_262nn/Design_with-aiki/Pics-Promt-Kunst.md",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att/Pics-Promt-Kunst__att__RubenHassid-Bsp_BildImBild_mockupAehnlich_26215.png",
     "TIMM/Prompt-Bspe/RubenHassid-25716.md",
-    "AiKi-KnowHow_262nn/Design_with-aiki/Pics-Promt-Kunst.md",
     "AiKi-KnowHow_262nn/Design_with-aiki/Att/Create a Magazine__att__aiki-Design-26215_RubenHassid-Bsp.png",
     "Att",
-    "AiKi-Agents bauen.md",
     "AiKi-KnowHow_262nn/Design_with-aiki",
     "AiKi-KnowHow_262nn",
     "SHARE_git/AkutProblem_ Unter HeroSection.md",
@@ -295,21 +299,17 @@
     "rel25/Att/Pasted image 20250705142608.png",
     "rel25/tmp1.md",
     "hl Obsi/hl ObSi allgemein Test.md",
-    "Prompt-KernStruktur.md",
     "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
     "rel25/Rel25-XXXXX.md",
     "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
     "Kleve-Vortrag/Kleve-Vortrag.md",
     "hl Obsi/2026-02-14.md",
-    "Location added on 2026-02-14T22-57.md",
-    "Location added on 2026-02-14T23-00.md",
     "SCa-Knowhow usw",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "rel25/Att",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
-    "TIMM/Perplexity",
     "HTML import/Attachments/1541429471857.jpeg"
   ]
 }
