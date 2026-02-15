@@ -11,14 +11,12 @@
             "id": "1aa44ddfd8efe3f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
-                "mode": "source",
-                "source": false
+                "file": "rel25/Att/Pasted image 20250705142608.png"
               },
-              "icon": "lucide-file",
-              "title": "Test wg. Geolocation Plugin 'Map View'"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250705142608"
             }
           }
         ]
@@ -245,11 +243,15 @@
       "outliner-md:New outliner file": false,
       "obsidian-map-view:Open map view": false,
       "omnisearch:Omnisearch": false,
-      "janitor:Janitor: scan vault": false
+      "janitor:Janitor: scan vault": false,
+      "file-cleaner-redux:Clean files": false
     }
   },
   "active": "1aa44ddfd8efe3f0",
   "lastOpenFiles": [
+    "rel25/tmp1.md",
+    "rel25/Att/Pasted image 20250705142608.png",
+    "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
     "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "hl Obsi/hl ObSi allgemein Test.md",
     "hl Obsi/Att/Pasted image 20260215011401.png",
@@ -262,7 +264,6 @@
     "Location added on 2026-02-14T22-57.md",
     "Location added on 2026-02-14T23-00.md",
     "Unbenannt.md",
-    "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "TIMM/TIMM-Limits.md",
     "rel25/8gA-Page_rel25.md",
@@ -278,7 +279,6 @@
     "TIMM/Prompt-Bspe/Headshot Prompt.md",
     "SCa-Knowhow usw",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
-    "rel25/Att/Pasted image 20250705142608.png",
     "rel25/Att",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
