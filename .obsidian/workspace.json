@@ -29,7 +29,7 @@
               "state": {
                 "file": "Create a Magazine.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Create a Magazine"
@@ -265,6 +265,8 @@
   },
   "active": "9ecb3b25e127787a",
   "lastOpenFiles": [
+    "Att/Pasted image 20260215143121.png",
+    "Att",
     "AiKi-Agents bauen.md",
     "Create a Magazine.md",
     "AiKi-KnowHow_262nn/Design_with-aiki",
@@ -299,7 +301,6 @@
     "Location added on 2026-02-14T22-57.md",
     "Location added on 2026-02-14T23-00.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
-    "TIMM/TIMM-Limits.md",
     "SCa-Knowhow usw",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "rel25/Att",
@@ -307,7 +308,6 @@
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf.opdownload",
     "TIMM/Perplexity",
-    "Kleve-Vortrag",
     "HTML import/Attachments/1541429471857.jpeg",
     "HTML import/Attachments/1541462023165.jpeg",
     "test/Attachments/1533245462738.png"
