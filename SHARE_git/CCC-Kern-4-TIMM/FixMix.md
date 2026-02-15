@@ -1,7 +1,4 @@
 
-XXXXX für Caulea akq:
-Der nach IQ intelligenteste Kunde meiner 8 grünen Ampeln (und laut Spiegel und Bild intelligenteste Mensch insgesamt in Deutschland)... 
-
 
 
 
