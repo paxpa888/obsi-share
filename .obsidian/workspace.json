@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
+                "file": "TIMM/Prompt-Bspe/Headshot Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruben Hasid_ Mehrstufen-Prompts"
+              "title": "Headshot Prompt"
             }
           }
         ],
@@ -266,9 +266,10 @@
   },
   "active": "9ecb3b25e127787a",
   "lastOpenFiles": [
-    "TIMM/Prompt-Bspe/Headshot Prompt.md",
     "TIMM/Prompt-Bspe/CustomGPT-Ideen_zB-Verhandlg.md",
     "TIMM/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
+    "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
+    "TIMM/Prompt-Bspe/Headshot Prompt.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
     "TIMM/Perplexity/Perplexity-Prompt für Rel25.md",
     "TIMM/Perplexity/Perplexity-Labs-UseCases.md",
@@ -293,7 +294,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/error_TIMM-GitHub-Integration.md",
     "SHARE_git/CCC-Kern-4-TIMM/8 grüne Ampeln-System.md",
     "rel25_old/tmp.md",
-    "rel25_old/Stilinfo.md",
     "rel25_old/Att/Pasted image 20250705142608.png",
     "hl Obsi/Att/Test wg. Image Paste__att-1.png",
     "hl Obsi/Att/Test wg. Image Paste__att__sf-wg-Opa.png",
