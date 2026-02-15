@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AiKi-Agents bauen.md",
+                "file": "SHARE_git/AkutProblem_ Unter HeroSection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AiKi-Agents bauen"
+              "title": "AkutProblem_ Unter HeroSection"
             }
           },
           {
@@ -27,30 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AiKi-Agents bauen.md",
+                "file": "Cnt_ AiKi-HilfeTipps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AiKi-Agents bauen"
+              "title": "Cnt_ AiKi-HilfeTipps"
             }
           },
           {
             "id": "72f574f813368c13",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cnt_ AiKi-HilfeTipps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cnt_ AiKi-HilfeTipps"
+            }
+          },
+          {
+            "id": "a713a1024678061d",
+            "type": "leaf",
+            "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.linkedin.com/posts/zainkahn_everyone-is-talking-about-ai-agents-but-activity-7340709839637000193-J5f3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABl3G4BuTZgHPazgGwtY9uvz3u661M7Wjc",
-                "title": "How to build and govern AI agents with Boomi | Zain Kahn hat zu dem Thema Beiträge veröffentlicht | LinkedIn",
+                "url": "https://www.linkedin.com/posts/donnellychris_if-youre-not-using-ai-on-linkedin-youre-activity-7340708962515800064-4fm4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABl3G4BuTZgHPazgGwtY9uvz3u661M7Wjc",
+                "title": "How to use AI on LinkedIn | Chris Donnelly hat zu dem Thema Beiträge veröffentlicht | LinkedIn",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "How to build and govern AI agents with Boomi | Zain Kahn hat zu dem Thema Beiträge veröffentlicht | LinkedIn"
+              "title": "How to use AI on LinkedIn | Chris Donnelly hat zu dem Thema Beiträge veröffentlicht | LinkedIn"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,10 +291,11 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "72f574f813368c13",
+  "active": "a713a1024678061d",
   "lastOpenFiles": [
-    "AiKi-Agents bauen.md",
     "Cnt_ AiKi-HilfeTipps.md",
+    "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
+    "AiKi-Agents bauen.md",
     "TIMM/Ruben Hasid_ Mehrstufen-Prompts.md",
     "z_chatgpt-index.md",
     "Location added on 2026-02-14T23-00.md",
@@ -317,9 +332,7 @@
     "rel25/tmp1.md",
     "hl Obsi/hl ObSi allgemein Test.md",
     "SHARE_git/rel25 für TIMM lieber jpg oder URL.md",
-    "rel25/Rel25-XXXXX.md",
     "SCa-Knowhow usw",
-    "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "rel25/Att",
     "TIMM/Files",
     "TIMM/Perplexity/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
