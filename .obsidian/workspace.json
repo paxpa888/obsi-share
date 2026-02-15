@@ -11,12 +11,14 @@
             "id": "1aa44ddfd8efe3f0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "rel25/Att/Pasted image 20250705142608.png"
+                "file": "hl Obsi/Test wg. Image Paste.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250705142608"
+              "icon": "lucide-file",
+              "title": "Test wg. Image Paste"
             }
           }
         ]
@@ -249,10 +251,13 @@
   },
   "active": "1aa44ddfd8efe3f0",
   "lastOpenFiles": [
-    "rel25/tmp1.md",
-    "rel25/Att/Pasted image 20250705142608.png",
+    "hl Obsi/Att/Pasted image 20260215015753.png",
     "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
+    "hl Obsi/Test wg. Image Paste.md",
     "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
+    "hl Obsi/Att/Pasted image 20250609131440.png",
+    "rel25/Att/Pasted image 20250705142608.png",
+    "rel25/tmp1.md",
     "hl Obsi/hl ObSi allgemein Test.md",
     "hl Obsi/Att/Pasted image 20260215011401.png",
     "Prompt-KernStruktur.md",
@@ -275,8 +280,6 @@
     "SHARE_git/CCC-Kern-4-TIMM/lp_Sca_Its-the-brain-stupid.md",
     "SHARE_git/Zertifizierung Bafa wl-Liste.md",
     "SHARE_git/Zertifizierung Bafa_ TiMM-Tipps.md",
-    "TIMM/Prompt-Bspe/Prompt-für-LIVE-Url-Befehle.md",
-    "TIMM/Prompt-Bspe/Headshot Prompt.md",
     "SCa-Knowhow usw",
     "TIMM/Files/25625_Perplexity-Labs-fuer-Rel25_SCa-ContGenerierg_Vergl-Perpl-vs-Labs-Modus.pdf",
     "rel25/Att",
@@ -287,7 +290,6 @@
     "Kleve-Vortrag",
     "Zertifizierung Bafa",
     "rel25",
-    "hl Obsi/Att/Pasted image 20250609131440.png",
     "HTML import/Attachments/1541429471857.jpeg",
     "HTML import/Attachments/1541462023165.jpeg",
     "test/Attachments/1533245462738.png",
