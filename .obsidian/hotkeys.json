@@ -41,13 +41,5 @@
       ],
       "key": "ArrowUp"
     }
-  ],
-  "obsidian-prozen:zenmode": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Z"
-    }
   ]
 }
