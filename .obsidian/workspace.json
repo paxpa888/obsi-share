@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hl Obsi/Test wg. Image Paste.md",
+                "file": "hl Obsi/Test wg. Image Paste__att Opa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test wg. Image Paste"
+              "title": "Test wg. Image Paste__att Opa"
             }
           }
         ]
@@ -250,11 +250,12 @@
   },
   "active": "1aa44ddfd8efe3f0",
   "lastOpenFiles": [
+    "hl Obsi/Test wg. Image Paste.md",
+    "hl Obsi/Test wg. Image Paste__att Opa.md",
     "hl Obsi/Att/Test wg. Image Paste__att Opa.png",
     "hl Obsi/Hotkeys Obsidian.md",
     "hl Obsi/ObSi_ Ytb-Video embed.md",
     "hl Obsi/Test wg. Geolocation Plugin 'Map View'.md",
-    "hl Obsi/Test wg. Image Paste.md",
     "hl Obsi/Test-26214 wg neuer Plugins Lineage.md",
     "hl Obsi/Att/Pasted image 20250609131440.png",
     "hl Obsi/Att/Pasted image 20260215011401.png",
@@ -294,7 +295,6 @@
     "HTML import/Attachments/1541429471857.jpeg",
     "HTML import/Attachments/1541462023165.jpeg",
     "test/Attachments/1533245462738.png",
-    "test/Attachments/1533127393491.jpeg",
-    "test/Attachments/1533125290025.png"
+    "test/Attachments/1533127393491.jpeg"
   ]
 }
