@@ -67,13 +67,14 @@
             "id": "b27ea126e5557392",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "AiKi-KnowHow_262nn/TestTable.base",
-                "viewName": "Testview"
+                "file": "hl Obsi/hl ObSi allgemein Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "TestTable"
+              "icon": "lucide-file",
+              "title": "hl ObSi allgemein Test"
             }
           }
         ],
@@ -306,8 +307,9 @@
   },
   "active": "b27ea126e5557392",
   "lastOpenFiles": [
-    "AiKi-KnowHow_262nn/Unbenannt.md",
+    "hl Obsi/Unbenannt.base",
     "AiKi-KnowHow_262nn/TestTable.base",
+    "AiKi-KnowHow_262nn/Unbenannt.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/TestTable2.base",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
     "TestTable.base",
