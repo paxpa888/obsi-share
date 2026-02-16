@@ -67,13 +67,14 @@
             "id": "b27ea126e5557392",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Unbenannt.base",
-                "viewName": "Tabelle"
+                "file": "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "RubenHassid"
             }
           }
         ],
@@ -306,9 +307,10 @@
   },
   "active": "b27ea126e5557392",
   "lastOpenFiles": [
+    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/TestTable.base",
+    "TestTable.base",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Unbenannt.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
-    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Unbenannt.base",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att__Ruben Hassid Prompt für WS-Voice.png",
     "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von ChatGPT_gering-actionable-aber-gute-Bspe.md",
     "Cnt-Creation/CntCr-WS-Voice/Don't-Liste KI-Sprache Cai__GibAiki__USE!.md",
@@ -340,7 +342,6 @@
     "Cont-FUN/MindDose/26215_25-cnt-Stuecke-aus-Ytb-Channel.md",
     "Cont-FUN/MindDose/26215_100-MindDose-Serie_BISHER-SUMMIERT_Teil1.md",
     "Cont-FUN/MindDose/Teil_26-35.md",
-    "Cont-FUN/MindDose/Teil_16-25.md",
     "Cont-FUN/MindDose/26215_100-MindDose-Serie_Teil1.zip",
     "Cont-FUN/MindDose/Unconfirmed 328051.crdownload",
     "Cont-FUN/MindDose/Att/Pasted image 20260215164534.png",
