@@ -67,14 +67,13 @@
             "id": "b27ea126e5557392",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
-                "mode": "source",
-                "source": false
+                "file": "AiKi-KnowHow_262nn/TestTable.base",
+                "viewName": "Tabelle"
               },
-              "icon": "lucide-file",
-              "title": "RubenHassid"
+              "icon": "lucide-table",
+              "title": "TestTable"
             }
           }
         ],
@@ -305,12 +304,13 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "b27ea126e5557392",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
-    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/TestTable.base",
+    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/TestTable2.base",
+    "AiKi-KnowHow_262nn/TestTable.base",
+    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
     "TestTable.base",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Unbenannt.md",
-    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att__Ruben Hassid Prompt für WS-Voice.png",
     "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von ChatGPT_gering-actionable-aber-gute-Bspe.md",
     "Cnt-Creation/CntCr-WS-Voice/Don't-Liste KI-Sprache Cai__GibAiki__USE!.md",
@@ -343,11 +343,9 @@
     "Cont-FUN/MindDose/26215_100-MindDose-Serie_BISHER-SUMMIERT_Teil1.md",
     "Cont-FUN/MindDose/Teil_26-35.md",
     "Cont-FUN/MindDose/26215_100-MindDose-Serie_Teil1.zip",
-    "Cont-FUN/MindDose/Unconfirmed 328051.crdownload",
     "Cont-FUN/MindDose/Att/Pasted image 20260215164534.png",
     "Cont-FUN/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "Cont-FUN/MindDose/Att/Pasted image 20260215164539.png",
-    "Cont-FUN/MindDose/Att",
     "Cont-FUN/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "Cont-FUN/Att/Pasted image 20260215164539.png",
     "Cont-FUN/Att/Pasted image 20260215164534.png",
