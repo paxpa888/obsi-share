@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rubenhassid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,8 +197,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -362,7 +361,7 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "1dfdce876665cd20",
+  "active": "44c75d6aab52c37a",
   "lastOpenFiles": [
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att__Ruben Hassid Prompt für WS-Voice.png",
     "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Gemini.md",
