@@ -70,9 +70,9 @@
               "type": "bases",
               "state": {
                 "file": "AiKi-KnowHow_262nn/TestTable.base",
-                "viewName": "Tabelle"
+                "viewName": "Testview"
               },
-              "icon": "lucide-table",
+              "icon": "map-pin",
               "title": "TestTable"
             }
           }
@@ -304,7 +304,7 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "b27ea126e5557392",
   "lastOpenFiles": [
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/TestTable2.base",
     "AiKi-KnowHow_262nn/TestTable.base",
