@@ -98,8 +98,8 @@
               "type": "markdown",
               "state": {
                 "file": "Cnt-Creation/CntCr-WS-Voice/Don't-Liste KI-Sprache Cai.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Don't-Liste KI-Sprache Cai"
