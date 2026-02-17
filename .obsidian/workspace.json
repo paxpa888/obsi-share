@@ -118,23 +118,9 @@
               "icon": "lucide-file",
               "title": "2026-W8"
             }
-          },
-          {
-            "id": "cda7ad2c23cd0e31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal-WS/2026/Unbenannt 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unbenannt 4"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal-WS/2026/Unbenannt 4.md",
+                "file": "Journal-WS/2026/2026-W8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Unbenannt 4"
+              "title": "Rückverweise auf 2026-W8"
             }
           },
           {
@@ -279,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal-WS/2026/Unbenannt 4.md",
+                "file": "Journal-WS/2026/2026-W8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Unbenannt 4"
+              "title": "Gliederung von 2026-W8"
             }
           },
           {
@@ -294,7 +280,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Journal-WS/2026/Unbenannt 4.md"
+                "file": "Journal-WS/2026/2026-W8.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -374,10 +360,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cda7ad2c23cd0e31",
+  "active": "915262a1b2373564",
   "lastOpenFiles": [
-    "Journal-WS/2026/2026-W8.md",
+    "Journal-WS/2026/Unbenannt.base",
     "Journal-WS/2026/Unbenannt 4.md",
+    "Journal-WS/2026/2026-W8.md",
     "Unbenannt",
     "Journal-WS/2026/test.md",
     "Journal-WS/2026/Unbenannt.md",
@@ -408,11 +395,9 @@
     "hl Obsi/test2.md",
     "hl Obsi/Unbenannt.md",
     "hl Obsi/Unbenannt.base",
-    "hl Obsi/Unbenannt 1.base",
     "hl Obsi/hl ObSi allgemein Test.md",
     "AiKi-KnowHow_262nn/Unbenannt.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
-    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Unbenannt.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att__Ruben Hassid Prompt für WS-Voice.png",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att_RubenHassidPrompt_26216.png",
     "Cont-FUN/MindDose/Att/Pasted image 20260215164534.png",
