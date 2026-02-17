@@ -293,13 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Willkommen.md",
+                "file": "Journal-WS/2026/Unbenannt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Willkommen"
+              "title": "Gliederung von Unbenannt"
             }
           },
           {
@@ -356,7 +356,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -385,7 +386,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64e7c135c9fb6ccd",
+  "active": "84a564982a8e1496",
   "lastOpenFiles": [
     "Journal-WS/2026/test.md",
     "Journal-WS/2026/Unbenannt.md",
