@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Obsi-HELP/Obsi - mermaid.md",
+                "file": "Test/Inbox.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Obsi - mermaid"
+              "title": "Inbox"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Obsi-HELP/Obsi - mermaid.md",
+                "file": "Test/Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Obsi - mermaid"
+              "title": "Rückverweise auf Inbox"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Obsi-HELP/Obsi - mermaid.md",
+                "file": "Test/Inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Obsi - mermaid"
+              "title": "Gliederung von Inbox"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Z_Obsi-HELP/Obsi - mermaid.md"
+                "file": "Test/Inbox.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -363,8 +363,9 @@
   },
   "active": "915262a1b2373564",
   "lastOpenFiles": [
-    "Z_Obsi-HELP/Obsi - Callouts.md",
     "Z_Obsi-HELP/Obsi - mermaid.md",
+    "Test/Inbox.md",
+    "Z_Obsi-HELP/Obsi - Callouts.md",
     "Z_Obsi-HELP/Ohne Titel.canvas",
     "Test/Unbenannt 3.md",
     "Test/Unbenannt 2.md",
@@ -392,7 +393,6 @@
     "Journal-WS/2026/2026-04.md",
     "Journal-WS/2026/2026-02-19.md",
     "Journal-WS/2026/2026-02-12.md",
-    "Journal-WS/2026/2026-02-04.md",
     "Journal-WS/2026",
     "Journal-WS",
     "Z_Setup/Templates",
