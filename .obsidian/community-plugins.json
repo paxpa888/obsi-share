@@ -19,5 +19,6 @@
   "consistent-attachments-and-links",
   "templater-obsidian",
   "journals",
-  "fold-properties-by-default"
+  "fold-properties-by-default",
+  "inline-admonitions"
 ]
