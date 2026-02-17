@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Inbox Test.md",
+                "file": "AiKi-KnowHow_262nn/Ohne Titel.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inbox Test"
+              "title": "Ohne Titel"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Inbox Test.md",
+                "file": "AiKi-KnowHow_262nn/Ohne Titel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Inbox Test"
+              "title": "Rückverweise auf Ohne Titel"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Inbox Test.md",
+                "file": "AiKi-KnowHow_262nn/Ohne Titel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Inbox Test"
+              "title": "Gliederung von Ohne Titel"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Test/Inbox Test.md"
+                "file": "AiKi-KnowHow_262nn/Ohne Titel.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -364,6 +364,7 @@
   "active": "915262a1b2373564",
   "lastOpenFiles": [
     "Test/Inbox Test.md",
+    "AiKi-KnowHow_262nn/Ohne Titel.md",
     "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
     "Z_Obsi-HELP/Obsi - mermaid.md",
     "Z_Obsi-HELP/Obsi - Callouts.md",
@@ -392,7 +393,6 @@
     "Journal-WS/2026/2026-02.md",
     "Journal-WS/2026/2026-Q2.md",
     "Journal-WS/2026/2026-04.md",
-    "Journal-WS/2026/2026-02-19.md",
     "Journal-WS/2026",
     "Journal-WS",
     "Z_Setup/Templates",
