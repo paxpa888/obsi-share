@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cont-FUN/MindDose/Teil_01-05_NEU.md",
+                "file": "Cont-FUN/MindDose/Teil_01-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teil_01-05_NEU"
+              "title": "Teil_01-05"
             }
           }
         ],
@@ -321,8 +321,8 @@
   },
   "active": "230fadbee36f3542",
   "lastOpenFiles": [
+    "Cont-FUN/MindDose/Teil_01-05__FEHLERHAFT.md",
     "Cont-FUN/MindDose/Teil_01-05.md",
-    "Cont-FUN/MindDose/Teil_01-05_NEU.md",
     "hl Obsi/test2.md",
     "hl Obsi/Unbenannt.md",
     "hl Obsi/Unbenannt.base",
