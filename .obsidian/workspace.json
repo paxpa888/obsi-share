@@ -22,34 +22,6 @@
             }
           },
           {
-            "id": "9ecb3b25e127787a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aiki-KnowHow/Prompt-Bspe/Cnt-Prompt Lkd ib-emg.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cnt-Prompt Lkd ib-emg"
-            }
-          },
-          {
-            "id": "9bdad923dc2399a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cnt-Creation/CntCr-WS-Voice/WS-Voice für Content.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WS-Voice für Content"
-            }
-          },
-          {
             "id": "1dfdce876665cd20",
             "type": "leaf",
             "state": {
@@ -61,48 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "RubenHassid"
-            }
-          },
-          {
-            "id": "b27ea126e5557392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hl Obsi/hl ObSi allgemein Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hl ObSi allgemein Test"
-            }
-          },
-          {
-            "id": "230fadbee36f3542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Teil_01-100 MindDose als xls-Datei_XXX"
-            }
-          },
-          {
-            "id": "41f77edc903ac9be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal-WS/2026/2026-Q1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-Q1"
             }
           },
           {
@@ -118,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Tempates_HowTo"
             }
+          },
+          {
+            "id": "cfac9e469c6b6fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z_Setup/Templates/Template_minimal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template_minimal"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +127,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -362,10 +307,14 @@
   },
   "active": "915262a1b2373564",
   "lastOpenFiles": [
+    "Z_Setup/Templates/Template_minimal.md",
+    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
+    "Cnt-Creation/CntCr-WS-Voice/WS-Voice für Content.md",
+    "Z_Setup/Obsi-Help/Tempates_HowTo.md",
+    "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
     "Z_Setup/Obsi-Help/Att/Tempates_HowTo__att__Properties-nuetzliche_26217.png",
     "Z_Setup/Obsi-Help/Att",
     "Test/Ohne Titel 7.md",
-    "Z_Setup/Obsi-Help/Tempates_HowTo.md",
     "Test/Ohne Titel 6.md",
     "Test/Ohne Titel 5.md",
     "Test/Ohne Titel 4.md",
@@ -376,7 +325,6 @@
     "Test/Testing Tempates Test.md",
     "Test/Unbenannt 1.md",
     "Test/Unbenannt.md",
-    "Z_Setup/Templates/Template_minimal.md",
     "Z_Setup/Obsi-Help/Aktuelles Datum via Code einfügen.md",
     "Z_Setup/Obsi-Help",
     "Test/Ohne Titel.md",
@@ -390,8 +338,6 @@
     "Z_Obsi-HELP/Ohne Titel.canvas",
     "Test/Unbenannt 3.md",
     "Test/Unbenannt 2.md",
-    "Z_Setup/Templates/TestTemplate.md",
-    "Test/Endlich.md",
     "Journal-WS/2026/Unbenannt.base",
     "Unbenannt",
     "Test",
@@ -407,7 +353,6 @@
     "Cont-FUN/MindDose/Att/Pasted image 20260215164539.png",
     "Cont-FUN/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "Cont-FUN/Att/Pasted image 20260215164539.png",
-    "Cont-FUN/Att/Pasted image 20260215164534.png",
-    "rel25_old/Att/Pasted image 20250705142608.png"
+    "Cont-FUN/Att/Pasted image 20260215164534.png"
   ]
 }
