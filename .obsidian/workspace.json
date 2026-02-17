@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Ohne Titel.md",
+                "file": "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Ohne Titel"
+              "title": "Prompting-Guide_Cai"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Ohne Titel.md",
+                "file": "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Ohne Titel"
+              "title": "Rückverweise auf Prompting-Guide_Cai"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Ohne Titel.md",
+                "file": "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Ohne Titel"
+              "title": "Gliederung von Prompting-Guide_Cai"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Ohne Titel.md"
+                "file": "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -364,7 +364,7 @@
   "active": "915262a1b2373564",
   "lastOpenFiles": [
     "Test/Inbox Test.md",
-    "AiKi-KnowHow_262nn/Ohne Titel.md",
+    "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
     "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
     "Z_Obsi-HELP/Obsi - mermaid.md",
     "Z_Obsi-HELP/Obsi - Callouts.md",
