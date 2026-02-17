@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Setup/Obsi-Help/Aktuelles Datum via Code einfügen.md",
+                "file": "Test/Ohne Titel 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aktuelles Datum via Code einfügen"
+              "title": "Ohne Titel 8"
             }
           }
         ],
@@ -306,6 +306,8 @@
   },
   "active": "cfac9e469c6b6fe0",
   "lastOpenFiles": [
+    "Z_Setup/Obsi-Help/Aktuelles Datum via Code einfügen.md",
+    "Test/Ohne Titel 8.md",
     "Z_Setup/Obsi-Help/Att/Aktuelles Datum via Code einfügen__att__hl-Obsi_DateEinfuegen-Template_26217.png",
     "Z_Setup/Obsi-Help/Tempates_HowTo.md",
     "Z_Setup/Templates/Template_minimal.md",
@@ -326,7 +328,6 @@
     "Test/Testing Tempates Test.md",
     "Test/Unbenannt 1.md",
     "Test/Unbenannt.md",
-    "Z_Setup/Obsi-Help/Aktuelles Datum via Code einfügen.md",
     "Z_Setup/Obsi-Help",
     "Test/Ohne Titel.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
@@ -351,7 +352,6 @@
     "Cont-FUN/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "Cont-FUN/MindDose/Att/Pasted image 20260215164539.png",
     "Cont-FUN/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
-    "Cont-FUN/Att/Pasted image 20260215164539.png",
-    "Cont-FUN/Att/Pasted image 20260215164534.png"
+    "Cont-FUN/Att/Pasted image 20260215164539.png"
   ]
 }
