@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Setup/Templates/Template_minimal.md",
+                "file": "Test/Ohne Titel 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template_minimal"
+              "title": "Ohne Titel 2"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Setup/Templates/Template_minimal.md",
+                "file": "Test/Ohne Titel 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Template_minimal"
+              "title": "Rückverweise auf Ohne Titel 2"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Setup/Templates/Template_minimal.md",
+                "file": "Test/Ohne Titel 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Template_minimal"
+              "title": "Gliederung von Ohne Titel 2"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Z_Setup/Templates/Template_minimal.md"
+                "file": "Test/Ohne Titel 2.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -363,11 +363,12 @@
   },
   "active": "915262a1b2373564",
   "lastOpenFiles": [
+    "Z_Setup/Templates/Template_minimal.md",
+    "Test/Ohne Titel 2.md",
     "Z_Setup/Obsi-Help/Aktuelles Datum via Code einfügen.md",
     "Test/Ohne Titel 1.md",
     "Z_Setup/Obsi-Help",
     "Test/Ohne Titel.md",
-    "Z_Setup/Templates/Template_minimal.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
     "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch",
@@ -394,7 +395,6 @@
     "Journal-WS/2026/Unbenannt 3.md",
     "Test",
     "Journal-WS/2026/2026.md",
-    "Journal-WS/2026/2026-Q1.md",
     "Journal-WS/2026",
     "Journal-WS",
     "Z_Setup/Templates",
