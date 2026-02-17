@@ -289,6 +289,16 @@
               "icon": "lines-of-text",
               "title": "Quiet Outline"
             }
+          },
+          {
+            "id": "f97cd3af0780e93e",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 8
