@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
+                "file": "Test/Ohne Titel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude-spezifisches-KnowHow"
+              "title": "Ohne Titel"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
+                "file": "Test/Ohne Titel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Claude-spezifisches-KnowHow"
+              "title": "Rückverweise auf Ohne Titel"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
+                "file": "Test/Ohne Titel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Claude-spezifisches-KnowHow"
+              "title": "Gliederung von Ohne Titel"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md"
+                "file": "Test/Ohne Titel.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -363,8 +363,9 @@
   },
   "active": "915262a1b2373564",
   "lastOpenFiles": [
-    "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
+    "Test/Ohne Titel.md",
+    "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch",
     "Test/Inbox Test.md",
     "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
@@ -393,7 +394,6 @@
     "Journal-WS/2026/2026-Q1.md",
     "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
     "Journal-WS/2026/2026-02.md",
-    "Journal-WS/2026/2026-Q2.md",
     "Journal-WS/2026",
     "Journal-WS",
     "Z_Setup/Templates",
