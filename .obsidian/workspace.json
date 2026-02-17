@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Unbenannt.md",
+                "file": "Test/Testing Tempates Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
+              "title": "Testing Tempates Test"
             }
           }
         ],
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Unbenannt.md",
+                "file": "Test/Testing Tempates Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Unbenannt"
+              "title": "Rückverweise auf Testing Tempates Test"
             }
           },
           {
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Unbenannt.md",
+                "file": "Test/Testing Tempates Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Unbenannt"
+              "title": "Gliederung von Testing Tempates Test"
             }
           },
           {
@@ -280,7 +280,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Test/Unbenannt.md"
+                "file": "Test/Testing Tempates Test.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -363,7 +363,7 @@
   "active": "915262a1b2373564",
   "lastOpenFiles": [
     "Test/Endlich.md",
-    "Test/Unbenannt.md",
+    "Test/Testing Tempates Test.md",
     "Templates/TestTemplate.md",
     "Journal-WS/2026/2026-W8.md",
     "Journal-WS/2026/Unbenannt.base",
