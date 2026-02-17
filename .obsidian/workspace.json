@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Unbenannt 3.md",
+                "file": "Z_Obsi-HELP/Ohne Titel.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Unbenannt 3"
+              "title": "Ohne Titel"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Unbenannt 3.md",
+                "file": "Z_Obsi-HELP/Ohne Titel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Unbenannt 3"
+              "title": "Rückverweise auf Ohne Titel"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Unbenannt 3.md",
+                "file": "Z_Obsi-HELP/Ohne Titel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Unbenannt 3"
+              "title": "Gliederung von Ohne Titel"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Test/Unbenannt 3.md"
+                "file": "Z_Obsi-HELP/Ohne Titel.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -363,8 +363,10 @@
   },
   "active": "915262a1b2373564",
   "lastOpenFiles": [
-    "Test/Unbenannt 2.md",
+    "Z_Obsi-HELP/Ohne Titel.canvas",
+    "Z_Obsi-HELP/Ohne Titel.md",
     "Test/Unbenannt 3.md",
+    "Test/Unbenannt 2.md",
     "Test/Unbenannt 1.md",
     "Z_Setup/Templates/StandardTestTemplate.md",
     "Test/Unbenannt.md",
@@ -390,7 +392,6 @@
     "Journal-WS/2026/2026-02-19.md",
     "Journal-WS/2026/2026-02-12.md",
     "Journal-WS/2026/2026-02-04.md",
-    "XXX-ausmisten-weil-OLD-26216___aiki-KnowHow/Prompt-Bspe/Cnt-Prompt Lkd ib-emg XXX-ausmisten-weil-OLD.md",
     "Journal-WS/2026",
     "Journal-WS",
     "Z_Setup/Templates",
@@ -398,7 +399,6 @@
     "Z_Setup/Templates",
     "Cont-FUN/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cont-FUN/MindDose/Att/MindDose_01-100.xlsx",
-    "Cont-FUN/MindDose/26215_100-MindDose-Serie_BISHER-SUMMIERT_Teil1.md",
     "hl Obsi/Unbenannt.base",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att__Ruben Hassid Prompt für WS-Voice.png",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att_RubenHassidPrompt_26216.png",
