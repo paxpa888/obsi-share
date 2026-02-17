@@ -183,7 +183,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -360,7 +361,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "915262a1b2373564",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
     "Test/Unbenannt 2.md",
     "Test/Unbenannt 3.md",
