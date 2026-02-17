@@ -109,30 +109,14 @@
             "id": "915262a1b2373564",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 1,
-                "mapCenter": {
-                  "lat": 40.44694705960048,
-                  "lng": -180.70312500000003
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "followMyLocation": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off",
-                "editMode": false
+                "file": "Journal-WS/2026/2026-W8.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "2026-W8"
             }
           }
         ],
@@ -204,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 584.5110359191895
+    "width": 733.5110359191895
   },
   "right": {
     "id": "913499b4e4e7ba3e",
@@ -220,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal-WS/2026/2026-W8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf 2026-W8"
             }
           },
           {
@@ -281,12 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Journal-WS/2026/2026-W8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von 2026-W8"
             }
           },
           {
@@ -294,7 +280,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Journal-WS/2026/2026-W8.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
             }
