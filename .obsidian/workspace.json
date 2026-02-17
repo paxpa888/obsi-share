@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Inbox.md",
+                "file": "Test/Inbox Test.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Inbox Test"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Inbox.md",
+                "file": "Test/Inbox Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Inbox"
+              "title": "Rückverweise auf Inbox Test"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Inbox.md",
+                "file": "Test/Inbox Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Inbox"
+              "title": "Gliederung von Inbox Test"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Test/Inbox.md"
+                "file": "Test/Inbox Test.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -364,7 +364,7 @@
   "active": "915262a1b2373564",
   "lastOpenFiles": [
     "Z_Obsi-HELP/Obsi - mermaid.md",
-    "Test/Inbox.md",
+    "Test/Inbox Test.md",
     "Z_Obsi-HELP/Obsi - Callouts.md",
     "Z_Obsi-HELP/Ohne Titel.canvas",
     "Test/Unbenannt 3.md",
