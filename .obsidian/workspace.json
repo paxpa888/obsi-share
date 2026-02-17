@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Obsi-HELP/Ohne Titel.md",
+                "file": "Z_Obsi-HELP/Obsi - Callouts.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ohne Titel"
+              "title": "Obsi - Callouts"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Obsi-HELP/Ohne Titel.md",
+                "file": "Z_Obsi-HELP/Obsi - Callouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Ohne Titel"
+              "title": "Rückverweise auf Obsi - Callouts"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Obsi-HELP/Ohne Titel.md",
+                "file": "Z_Obsi-HELP/Obsi - Callouts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Ohne Titel"
+              "title": "Gliederung von Obsi - Callouts"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Z_Obsi-HELP/Ohne Titel.md"
+                "file": "Z_Obsi-HELP/Obsi - Callouts.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -364,7 +364,7 @@
   "active": "915262a1b2373564",
   "lastOpenFiles": [
     "Z_Obsi-HELP/Ohne Titel.canvas",
-    "Z_Obsi-HELP/Ohne Titel.md",
+    "Z_Obsi-HELP/Obsi - Callouts.md",
     "Test/Unbenannt 3.md",
     "Test/Unbenannt 2.md",
     "Test/Unbenannt 1.md",
