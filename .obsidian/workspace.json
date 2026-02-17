@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Ohne Titel 8.md",
+                "file": "Test/Ohne Titel 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ohne Titel 8"
+              "title": "Ohne Titel 9"
             }
           }
         ],
@@ -306,8 +306,10 @@
   },
   "active": "cfac9e469c6b6fe0",
   "lastOpenFiles": [
-    "Z_Setup/Obsi-Help/Aktuelles Datum via Code einfügen.md",
+    "Test/ddasdf.md",
+    "Test/Ohne Titel 9.md",
     "Test/Ohne Titel 8.md",
+    "Z_Setup/Obsi-Help/Aktuelles Datum via Code einfügen.md",
     "Z_Setup/Obsi-Help/Att/Aktuelles Datum via Code einfügen__att__hl-Obsi_DateEinfuegen-Template_26217.png",
     "Z_Setup/Obsi-Help/Tempates_HowTo.md",
     "Z_Setup/Templates/Template_minimal.md",
@@ -335,8 +337,6 @@
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch",
     "Test/Inbox Test.md",
     "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
-    "Z_Obsi-HELP/Obsi - mermaid.md",
-    "Z_Obsi-HELP/Obsi - Callouts.md",
     "Z_Obsi-HELP/Ohne Titel.canvas",
     "Journal-WS/2026/Unbenannt.base",
     "Unbenannt",
