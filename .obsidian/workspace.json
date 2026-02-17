@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Testing Tempates Test.md",
+                "file": "Test/Ohne Titel 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Tempates Test"
+              "title": "Ohne Titel 1"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Testing Tempates Test.md",
+                "file": "Test/Ohne Titel 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Testing Tempates Test"
+              "title": "Rückverweise auf Ohne Titel 1"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Testing Tempates Test.md",
+                "file": "Test/Ohne Titel 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Testing Tempates Test"
+              "title": "Gliederung von Ohne Titel 1"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Test/Testing Tempates Test.md"
+                "file": "Test/Ohne Titel 1.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -361,15 +361,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27eebd2b1f67da23",
+  "active": "915262a1b2373564",
   "lastOpenFiles": [
-    "Test/Unbenannt 1.md",
     "Test/Testing Tempates Test.md",
+    "Test/Ohne Titel 1.md",
+    "Test/Unbenannt 1.md",
     "Test/Unbenannt.md",
     "Z_Setup/Templates/Template_minimal.md",
     "Test/Ohne Titel 2.md",
     "Z_Setup/Obsi-Help/Aktuelles Datum via Code einfügen.md",
-    "Test/Ohne Titel 1.md",
     "Z_Setup/Obsi-Help",
     "Test/Ohne Titel.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
