@@ -204,7 +204,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Inbox Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Inbox Test"
+              "title": "Rückverweise"
             }
           },
           {
@@ -266,13 +265,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Inbox Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Inbox Test"
+              "title": "Gliederung"
             }
           },
           {
@@ -280,9 +278,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Test/Inbox Test.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
             }
@@ -361,10 +357,49 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "915262a1b2373564",
+  "floating": {
+    "id": "f93f4048f65f912e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0188dff1af92c5db",
+        "type": "window",
+        "children": [
+          {
+            "id": "ded52ec895111b3b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8997d7b362f18644",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github-production-user-asset-6210df.s3.amazonaws.com/5295276/308590773-2a781588-cba0-4665-98c2-16d896cd2abe.webm?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260217T125306Z&X-Amz-Expires=300&X-Amz-Signature=b0925ce3e09fba90c5ce348d8f4531bf0509daa672d89511b66a6c856106d246&X-Amz-SignedHeaders=host",
+                    "title": "github-production-user-asset-6210df.s3.amazonaws.com/5295276/308590773-2a781588-cba0-4665-98c2-16d896cd2abe.webm?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260217T125306Z&X-Amz-Expires=300&X-Amz-Signature=b0925ce3e09fba90c5ce348d8f4531bf0509daa672d89511b66a6c856106d246&X-Amz-SignedHeaders=host",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "github-production-user-asset-6210df.s3.amazonaws.com/5295276/308590773-2a781588-cba0-4665-98c2-16d896cd2abe.webm?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260217T125306Z&X-Amz-Expires=300&X-Amz-Signature=b0925ce3e09fba90c5ce348d8f4531bf0509daa672d89511b66a6c856106d246&X-Amz-SignedHeaders=host"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 279,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "8997d7b362f18644",
   "lastOpenFiles": [
-    "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
     "Test/Inbox Test.md",
+    "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
     "Z_Obsi-HELP/Obsi - mermaid.md",
     "Z_Obsi-HELP/Obsi - Callouts.md",
     "Z_Obsi-HELP/Ohne Titel.canvas",
