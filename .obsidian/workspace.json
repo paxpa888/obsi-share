@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
+                "file": "Test/Inbox Test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Copywriting-Leitlinien von Claude__GibAiki__USE"
+              "title": "Inbox Test"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
+                "file": "Test/Inbox Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Copywriting-Leitlinien von Claude__GibAiki__USE"
+              "title": "Rückverweise auf Inbox Test"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
+                "file": "Test/Inbox Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Copywriting-Leitlinien von Claude__GibAiki__USE"
+              "title": "Gliederung von Inbox Test"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md"
+                "file": "Test/Inbox Test.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -363,6 +363,7 @@
   },
   "active": "915262a1b2373564",
   "lastOpenFiles": [
+    "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
     "Test/Inbox Test.md",
     "Z_Obsi-HELP/Obsi - mermaid.md",
     "Z_Obsi-HELP/Obsi - Callouts.md",
@@ -392,7 +393,6 @@
     "Journal-WS/2026/2026-Q2.md",
     "Journal-WS/2026/2026-04.md",
     "Journal-WS/2026/2026-02-19.md",
-    "Journal-WS/2026/2026-02-12.md",
     "Journal-WS/2026",
     "Journal-WS",
     "Z_Setup/Templates",
