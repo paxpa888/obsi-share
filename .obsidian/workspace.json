@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
+                "file": "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompting-Guide_Cai"
+              "title": "Claude-spezifisches-KnowHow"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
+                "file": "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Prompting-Guide_Cai"
+              "title": "Rückverweise auf Claude-spezifisches-KnowHow"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
+                "file": "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Prompting-Guide_Cai"
+              "title": "Gliederung von Claude-spezifisches-KnowHow"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md"
+                "file": "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -361,11 +361,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27eebd2b1f67da23",
+  "active": "915262a1b2373564",
   "lastOpenFiles": [
+    "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
+    "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch",
     "Test/Inbox Test.md",
-    "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
     "Cnt-Creation/CntCr-WS-Voice/Copywriting-Leitlinien von Claude__GibAiki__USE.md",
     "Z_Obsi-HELP/Obsi - mermaid.md",
     "Z_Obsi-HELP/Obsi - Callouts.md",
@@ -400,7 +401,6 @@
     "Z_Setup/Templates",
     "Cont-FUN/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cont-FUN/MindDose/Att/MindDose_01-100.xlsx",
-    "hl Obsi/Unbenannt.base",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att__Ruben Hassid Prompt für WS-Voice.png",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att_RubenHassidPrompt_26216.png",
     "Cont-FUN/MindDose/Att/Pasted image 20260215164534.png",
