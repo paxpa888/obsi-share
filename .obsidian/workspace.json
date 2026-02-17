@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Setup/Obsi-Help/Tempates_HowTo.md",
+                "file": "Z_Setup/Templates/Template_minimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Tempates_HowTo"
+              "title": "Rückverweise auf Template_minimal"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Setup/Obsi-Help/Tempates_HowTo.md",
+                "file": "Z_Setup/Templates/Template_minimal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Tempates_HowTo"
+              "title": "Gliederung von Template_minimal"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Z_Setup/Obsi-Help/Tempates_HowTo.md"
+                "file": "Z_Setup/Templates/Template_minimal.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -305,11 +305,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "915262a1b2373564",
+  "active": "cfac9e469c6b6fe0",
   "lastOpenFiles": [
-    "2026-02-17.md",
     "Z_Setup/Obsi-Help/Tempates_HowTo.md",
     "Z_Setup/Templates/Template_minimal.md",
+    "2026-02-17.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/RubenHassid.md",
     "Cnt-Creation/CntCr-WS-Voice/WS-Voice für Content.md",
     "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
