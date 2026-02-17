@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Testing Tempates Test.md",
+                "file": "Z_Setup/Templates/TestTemplate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Tempates Test"
+              "title": "TestTemplate"
             }
           }
         ],
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test/Testing Tempates Test.md",
+                "file": "Z_Setup/Templates/TestTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Testing Tempates Test"
+              "title": "Rückverweise auf TestTemplate"
             }
           },
           {
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Testing Tempates Test.md",
+                "file": "Z_Setup/Templates/TestTemplate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Testing Tempates Test"
+              "title": "Gliederung von TestTemplate"
             }
           },
           {
@@ -280,7 +280,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Test/Testing Tempates Test.md"
+                "file": "Z_Setup/Templates/TestTemplate.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -362,9 +362,9 @@
   },
   "active": "915262a1b2373564",
   "lastOpenFiles": [
-    "Test/Endlich.md",
     "Test/Testing Tempates Test.md",
-    "Templates/TestTemplate.md",
+    "Test/Endlich.md",
+    "Z_Setup/Templates/TestTemplate.md",
     "Journal-WS/2026/2026-W8.md",
     "Journal-WS/2026/Unbenannt.base",
     "Journal-WS/2026/Unbenannt 4.md",
@@ -387,9 +387,9 @@
     "XXX-ausmisten-weil-OLD-26216___aiki-KnowHow/Prompt-Bspe/Cnt-Prompt Lkd ib-emg XXX-ausmisten-weil-OLD.md",
     "Journal-WS/2026",
     "Journal-WS",
-    "Templates",
+    "Z_Setup/Templates",
     "Z_Setup",
-    "Templates",
+    "Z_Setup/Templates",
     "Cont-FUN/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cont-FUN/MindDose/Att/MindDose_01-100.xlsx",
     "Cont-FUN/MindDose/26215_100-MindDose-Serie_BISHER-SUMMIERT_Teil1.md",
