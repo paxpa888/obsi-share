@@ -20,6 +20,5 @@
   "templater-obsidian",
   "journals",
   "fold-properties-by-default",
-  "inline-admonitions",
-  "obsidian-tasks-plugin"
+  "inline-admonitions"
 ]
