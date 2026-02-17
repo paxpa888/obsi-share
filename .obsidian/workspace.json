@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Setup/Templates/StandardTestTemplate.md",
+                "file": "Z_Setup/Templates/Template_minimal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StandardTestTemplate"
+              "title": "Template_minimal"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Setup/Templates/StandardTestTemplate.md",
+                "file": "Z_Setup/Templates/Template_minimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf StandardTestTemplate"
+              "title": "Rückverweise auf Template_minimal"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Setup/Templates/StandardTestTemplate.md",
+                "file": "Z_Setup/Templates/Template_minimal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von StandardTestTemplate"
+              "title": "Gliederung von Template_minimal"
             }
           },
           {
@@ -281,7 +281,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Z_Setup/Templates/StandardTestTemplate.md"
+                "file": "Z_Setup/Templates/Template_minimal.md"
               },
               "icon": "lucide-file-signature",
               "title": "Fußnoten"
@@ -367,7 +367,7 @@
     "Test/Ohne Titel 1.md",
     "Z_Setup/Obsi-Help",
     "Test/Ohne Titel.md",
-    "Z_Setup/Templates/StandardTestTemplate.md",
+    "Z_Setup/Templates/Template_minimal.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch/Claude-spezifisches-KnowHow.md",
     "AiKi-KnowHow_262nn/Prompting-Guide_Cai.md",
     "AiKi-KnowHow_262nn/aiki_Claude-spezifisch",
