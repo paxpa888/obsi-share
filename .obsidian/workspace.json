@@ -330,10 +330,49 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "230fadbee36f3542",
+  "floating": {
+    "id": "f93f4048f65f912e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e7f38ab05783ef47",
+        "type": "window",
+        "children": [
+          {
+            "id": "1fe26bac506d6c6a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ed27d30f47bb8528",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://momentjs.com/docs/#/displaying/format/",
+                    "title": "Moment.js | Docs",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Moment.js | Docs"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 279,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "ed27d30f47bb8528",
   "lastOpenFiles": [
-    "Cont-FUN/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
+    "Cont-FUN/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cont-FUN/MindDose/Att/MindDose_01-100.xlsx",
     "Cont-FUN/MindDose/26215_100-MindDose-Serie_BISHER-SUMMIERT_Teil1.md",
     "Cont-FUN/MindDose/Teil_01-05.md",
@@ -376,7 +415,6 @@
     "Cont-FUN/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "Cont-FUN/Att/Pasted image 20260215164539.png",
     "Cont-FUN/Att/Pasted image 20260215164534.png",
-    "rel25_old/Att/Pasted image 20250705142608.png",
-    "hl Obsi/Att/Test wg. Image Paste__att-1.png"
+    "rel25_old/Att/Pasted image 20250705142608.png"
   ]
 }
