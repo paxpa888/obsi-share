@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal-WS/2026/2026-W8.md",
+                "file": "Journal-WS/2026/2026-02-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-W8"
+              "title": "2026-02-04"
             }
           },
           {
@@ -358,12 +358,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "41f77edc903ac9be",
+  "active": "f97cd3af0780e93e",
   "lastOpenFiles": [
+    "Journal-WS/2026/2026-W8.md",
+    "Journal-WS/2026/2026-02-04.md",
     "Journal-WS/2026/2026-02.md",
     "XXX-ausmisten-weil-OLD-26216___aiki-KnowHow/Prompt-Bspe/Cnt-Prompt Lkd ib-emg XXX-ausmisten-weil-OLD.md",
     "Journal-WS/2026/2026-Q1.md",
-    "Journal-WS/2026/2026-W8.md",
     "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
     "Journal-WS/2026",
     "Journal-WS",
@@ -397,7 +398,6 @@
     "Cnt-Creation/CntCr-WS-Voice/WS-Voice für Content.md",
     "Cnt-Creation/CntCr-WS-Voice/Recherche zu KI-Sprache-Indikatoren.md",
     "Cnt-Creation/CntCr-WS-Voice/Don't-Liste KI-Sprache Gemini ggi.md",
-    "Cnt-Creation/CntCr-WS-Voice/Don't-Liste KI-Sprache MITTEL, von ChatGPT.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att_RubenHassidPrompt_26216.png",
     "Cont-FUN/MindDose/Att/Pasted image 20260215164534.png",
     "Cont-FUN/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
