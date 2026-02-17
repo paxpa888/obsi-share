@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cont-FUN/MindDose/Teil_01-100 als xls-Datei.md",
+                "file": "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Teil_01-100 als xls-Datei"
+              "title": "Teil_01-100 MindDose als xls-Datei"
             }
           }
         ],
@@ -323,7 +323,7 @@
   "lastOpenFiles": [
     "Cont-FUN/MindDose/Att/MindDose_01-100.xlsx",
     "Cont-FUN/MindDose/26215_100-MindDose-Serie_BISHER-SUMMIERT_Teil1.md",
-    "Cont-FUN/MindDose/Teil_01-100 als xls-Datei.md",
+    "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei.md",
     "Cont-FUN/MindDose/Teil_01-05.md",
     "Cont-FUN/MindDose/Teil_01-05__FEHLERHAFT.md",
     "hl Obsi/test2.md",
