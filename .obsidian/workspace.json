@@ -112,7 +112,7 @@
               "type": "markdown",
               "state": {
                 "file": "Test/Inbox.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
