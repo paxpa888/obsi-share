@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kleve-Vortrag/Kleve-Vortrag.md",
+                "file": "Journal-WS/2026/Unbenannt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kleve-Vortrag"
+              "title": "Rückverweise auf Unbenannt"
             }
           },
           {
@@ -323,7 +323,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Alle Eigenschaften"
             }
           },
           {
@@ -356,12 +356,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,7 +385,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ebd55aaa3ab5492",
+  "active": "64e7c135c9fb6ccd",
   "lastOpenFiles": [
     "Journal-WS/2026/test.md",
     "Journal-WS/2026/Unbenannt.md",
