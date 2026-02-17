@@ -344,46 +344,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "f93f4048f65f912e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e7f38ab05783ef47",
-        "type": "window",
-        "children": [
-          {
-            "id": "1fe26bac506d6c6a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ed27d30f47bb8528",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://momentjs.com/docs/#/displaying/format/",
-                    "title": "Moment.js | Docs",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Moment.js | Docs"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 279,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "ed27d30f47bb8528",
+  "active": "41f77edc903ac9be",
   "lastOpenFiles": [
     "Journal-WS/2026/2026-W8.md",
     "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
