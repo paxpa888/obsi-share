@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papierkorb-auf-Probe/Teil_01-05__FEHLERHAFT.md",
+                "file": "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teil_01-05__FEHLERHAFT"
+              "title": "Teil_01-100 MindDose als xls-Datei_XXX"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,9 +262,9 @@
   },
   "active": "ee88731bf187743a",
   "lastOpenFiles": [
+    "Z_Papierkorb-auf-Probe/Teil_01-05__FEHLERHAFT.md",
     "Cont-FUN/MindDose/Teil_01-05.md",
-    "Papierkorb-auf-Probe/Teil_01-05__FEHLERHAFT.md",
-    "Papierkorb-auf-Probe",
+    "Z_Papierkorb-auf-Probe",
     "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
     "Test/Unbenannt 2.md",
     "Test/Testing Tempates Test.md",
