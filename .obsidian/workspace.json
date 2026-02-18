@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/Unbenannt 2.md",
+                "file": "Cont-FUN/MindDose/Teil_01-05__FEHLERHAFT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unbenannt 2"
+              "title": "Teil_01-05__FEHLERHAFT"
             }
           }
         ]
@@ -261,10 +261,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27eebd2b1f67da23",
+  "active": "ee88731bf187743a",
   "lastOpenFiles": [
-    "Test/Testing Tempates Test.md",
+    "Cont-FUN/MindDose/Teil_01-05.md",
+    "Cont-FUN/MindDose/Teil_01-05__FEHLERHAFT.md",
+    "Cont-FUN/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
     "Test/Unbenannt 2.md",
+    "Test/Testing Tempates Test.md",
     "Test/Unbenannt 3.md",
     "Test/Inbox Test.md",
     "Test/Ohne Titel.md",
@@ -286,9 +289,6 @@
     "Test/asdf.md",
     "Journal-WS/2026/2026-02.md",
     "Z_Setup/Templates/Untitled.md",
-    "Z_Obsi-HELP/Template auswählen.md",
-    "Z_Setup/Obsi-Help/Ohne Titel.md",
-    "Z_Setup/Templates/Template3.md",
     "Z_Setup/Obsi-Help/Att/Aktuelles Datum via Code einfügen__att__hl-Obsi_DateEinfuegen-Template_26217.png",
     "Z_Setup/Obsi-Help/Att/Tempates_HowTo__att__Properties-nuetzliche_26217.png",
     "Z_Setup/Obsi-Help/Att",
