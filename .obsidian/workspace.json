@@ -43,7 +43,7 @@
               "state": {
                 "file": "Cnt-PIPELINE/Content-Pool Dashboard FileLink.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Content-Pool Dashboard FileLink"
@@ -291,6 +291,7 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "Cnt-PIPELINE/Content-Pool Dashboard FileLink.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/MindDose_01-100.xlsx",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose_01-100.xlsx",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
@@ -298,7 +299,6 @@
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/Pasted image 20260215164539.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/Pasted image 20260215164534.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
-    "Cnt-PIPELINE/Content-Pool Dashboard FileLink.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/WS_Content-Tracking_MindDose-100.xlsx",
     "Cnt-Creation-Environment/Cnt-Voice-Lkd-WS_Cai/WS_Content-Strategie_Leitplanken__USE-aiki (1).md",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Teil_06-15.md",
@@ -323,7 +323,6 @@
     "Cnt-Creation-Environment/Cnt-Voice-Lkd-WS_Cai/Unconfirmed 874231.crdownload",
     "Z_Papierkorb-auf-Probe/WS_Testimonial-Inventar_Lkd-Empfehlungen__USE-aiki (1).md",
     "Z_Papierkorb-auf-Probe/WS_Testimonial-Inventar_Lkd-Empfehlungen__USE-aiki__OLD.md",
-    "Cnt-Creation-Environment/Cnt-Voice-Lkd-WS_Cai/Unconfirmed 194638.crdownload",
     "Z_Papierkorb-auf-Probe/WS_Content-Strategie_Leitplanken__USE-aiki__OLD.md",
     "aiki-zu-uebergeben/Bewerte-auf-10er-Skala.md",
     "USE-aiki/Bewerte-auf-10er-Skala__USE-aiki.md",
