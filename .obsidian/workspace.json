@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "WS_Comeback-Post_FINAL"
             }
+          },
+          {
+            "id": "2cf3ec552dc34caa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.2"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.12.2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,7 +287,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "175ef16e81ded396",
+  "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
     "Cnt-Creation-Environment/Cnt-JETZT/WS_Comeback-Post_Entwurf-v1.md",
     "Cnt-Creation-Environment/Cnt-JETZT/WS_Comeback-Post_FINAL.md",
