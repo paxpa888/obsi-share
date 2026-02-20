@@ -127,7 +127,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -303,7 +304,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b222c2c711a61af7",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
     "Cnt-PIPELINE/Content-Pool Dashboard FileLink.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose_01-100_VOLLER-Inhalt.xlsx",
