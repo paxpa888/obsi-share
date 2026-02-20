@@ -39,12 +39,14 @@
             "id": "2cf3ec552dc34caa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png"
+                "file": "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "screencapture-youtube-results-2026-02-17-10_24_41"
+              "icon": "lucide-file",
+              "title": "Teil_01-100 MindDose als xls-Datei_XXX"
             }
           }
         ],
@@ -289,6 +291,7 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/Pasted image 20260215164539.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/Pasted image 20260215164534.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
@@ -330,7 +333,6 @@
     "Z_Setup/Obsi-Help/Att/Aktuelles Datum via Code einfügen__att__hl-Obsi_DateEinfuegen-Template_26217.png",
     "Z_Setup/Obsi-Help/Att/Tempates_HowTo__att__Properties-nuetzliche_26217.png",
     "Z_Obsi-HELP/Ohne Titel.canvas",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att__Ruben Hassid Prompt für WS-Voice.png",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att_RubenHassidPrompt_26216.png",
     "Cont-FUN/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
