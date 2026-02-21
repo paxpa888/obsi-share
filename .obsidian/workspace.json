@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Obsi-HELP/Obsi - Callouts.md",
+                "file": "aiki-Setups/Claude-Setup/Claude-Projekte_Datei-Uebersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsi - Callouts"
+              "title": "Claude-Projekte_Datei-Uebersicht"
             }
           }
         ],
@@ -306,6 +306,9 @@
   },
   "active": "b222c2c711a61af7",
   "lastOpenFiles": [
+    "Z_Obsi-HELP/Obsi - Callouts.md",
+    "aiki-Setups/Claude-Setup/Claude-Projekte_Datei-Uebersicht.md",
+    "aiki-Setups/Claude-Setup/Unconfirmed 825782.crdownload",
     "aiki-Setups/Claude-Setup",
     "aiki-Setups",
     "Z_Obsi-HELP/Obsi - mermaid.md",
@@ -328,7 +331,6 @@
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Teil_06-15.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/ENTWÜRFE_cnt",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt",
-    "Cnt-PIPELINE/INBOX_(Cnt)",
     "Cnt-Creation-Environment/Cnt-Tipps von Experten.md",
     "Cnt-Creation-Environment/CntCr-WS-Voice/Recherche zu KI-Sprache-Indikatoren.md",
     "Cnt-Creation-Environment/CntCr-WS-Voice/Don't-Liste KI-Sprache Cai__GibAiki__USE-aiki.md",
@@ -341,11 +343,9 @@
     "Cnt-Creation-Environment/Cnt-Voice-Lkd-WS_Cai/Bewertg meiner Cnt-Voice 5v10.md",
     "Cnt-Creation-Environment/Cnt-JETZT/WS_Comeback-Post_FINAL.md",
     "Cnt-Creation-Environment/Cnt-JETZT/WS_Comeback-Post_Entwurf-v1.md",
-    "Cnt-Creation-Environment/Cnt-JETZT/Unconfirmed 440712.crdownload",
     "Z_Papierkorb-auf-Probe/WS_Testimonial-Inventar_Lkd-Empfehlungen__USE-aiki (1).md",
     "Z_Papierkorb-auf-Probe/WS_Testimonial-Inventar_Lkd-Empfehlungen__USE-aiki__OLD.md",
     "Z_Papierkorb-auf-Probe/WS_Content-Strategie_Leitplanken__USE-aiki__OLD.md",
-    "aiki-zu-uebergeben/Bewerte-auf-10er-Skala.md",
     "Z_Setup/Obsi-Help/Att/Aktuelles Datum via Code einfügen__att__hl-Obsi_DateEinfuegen-Template_26217.png",
     "Z_Setup/Obsi-Help/Att/Tempates_HowTo__att__Properties-nuetzliche_26217.png",
     "Z_Obsi-HELP/Ohne Titel.canvas",
