@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "b222c2c711a61af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki"
-            }
-          },
-          {
             "id": "202f364d6c9c7f3f",
             "type": "leaf",
             "state": {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -320,6 +306,28 @@
   },
   "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Att/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.pdf",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Recherche zu KI-Sprache-Indikatoren.md",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache MITTEL, von ChatGPT.md",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache GROSS, von ChatGPT.md",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache Gemini ggi.md",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache Cai__GibAiki__USE-aiki.md",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien von Gemini.md",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien von ChatGPT_gering-actionable-aber-gute-Bspe.md",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien (allgemein) von Claude__USE-aiki.md",
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_WS-VOICE_Lkd-Analyse-26218_CAI__USE-aiki.md",
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_LEITPLANKEN_CAI__USE-aiki (1).md",
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Tsti-Lkd-Empfehlungen__CAI_USE-aiki (4).md",
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Bewertg WS-Lkd-Cnt-Voice_26218_CAI__USE-aiki.md",
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-WORKFLOW_CAI__USE-aiki.md",
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Att",
+    "Cnt-Sys/Cnt-JETZT/WS_Comeback-Post_FINAL.md",
+    "Cnt-Sys/CntCr-GENERISCHE-Tipps",
+    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai",
+    "Cnt-Sys/Cnt-Tipps von Experten.md",
+    "Cnt-Sys/Cnt-JETZT",
+    "Cnt-Sys",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_WS-VOICE_Lkd-Analyse-26218_CAI__USE-aiki.md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_LEITPLANKEN_CAI__USE-aiki (1).md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-WORKFLOW_CAI__USE-aiki.md",
@@ -332,34 +340,12 @@
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Unconfirmed 284409.crdownload",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Att/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.pdf",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/test.md",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Att/2tmp__2.pdf",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Att",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/1.pdf",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/2tmp.pdf",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Tsti-Lkd-Empfehlungen__CAI_USE-aiki (4).md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_WS-Voice_Lkd-Analyse-26218_CAI__USE-aiki.md",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.pdf",
-    "Cnt-System/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache Cai__GibAiki__USE-aiki.md",
-    "Z_Setup/Templates/Template_minimal.md",
-    "Cnt-System/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien (allgemein) von Claude__USE-aiki.md",
-    "Cnt-System/CntCr-GENERISCHE-Tipps/Recherche zu KI-Sprache-Indikatoren.md",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Leitplanken_CAI__USE-aiki (1).md",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Bewertg WS-Lkd-Cnt-Voice_26218_CAI__USE-aiki.md",
-    "aiki-Setups/Claude-Setup/Claude-Projekte_Datei-Uebersicht.md",
-    "Z_Obsi-HELP/Obsi - Callouts.md",
-    "Z_Obsi-HELP/Obsi - mermaid.md",
-    "Z_Obsi-HELP/Template auswählen.md",
-    "Cnt-PIPELINE/INBOX_(Cnt)/ENTWUERFE_cnt/Lkd-Post_26220_Wanting-vs-Liking.md",
-    "Cnt-PIPELINE/Content-Pool Dashboard FileLink.md",
-    "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
-    "2026-02-20.md",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/Pasted image 20260215164539.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/Pasted image 20260215164534.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Teil_06-15.md",
-    "Cnt-System/Cnt-Tipps von Experten.md",
     "Z_Setup/Obsi-Help/Att/Aktuelles Datum via Code einfügen__att__hl-Obsi_DateEinfuegen-Template_26217.png",
     "Z_Setup/Obsi-Help/Att/Tempates_HowTo__att__Properties-nuetzliche_26217.png",
     "Z_Obsi-HELP/Ohne Titel.canvas",
