@@ -71,7 +71,7 @@
               "state": {
                 "file": "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki"
