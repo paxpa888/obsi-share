@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki.md",
+                "file": "AiKi-KnowHow_262nn/aiki-Prompts_allgemeine/aiki-schmeichle-nicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki"
+              "title": "aiki-schmeichle-nicht"
             }
           }
         ],
@@ -318,8 +318,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "202f364d6c9c7f3f",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
+    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_WS-VOICE_Lkd-Analyse-26218_CAI__USE-aiki.md",
+    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_LEITPLANKEN_CAI__USE-aiki (1).md",
+    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-WORKFLOW_CAI__USE-aiki.md",
     "AiKi-KnowHow_262nn/aiki-Prompts_allgemeine/aiki-schmeichle-nicht.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/lu34928441ek.tmp",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki.md",
@@ -357,8 +360,6 @@
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Teil_06-15.md",
     "Cnt-System/Cnt-Tipps von Experten.md",
-    "Cnt-System/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien von Gemini.md",
-    "Z_Papierkorb-auf-Probe/WS_Testimonial-Inventar_Lkd-Empfehlungen__USE-aiki (2).md",
     "Z_Setup/Obsi-Help/Att/Aktuelles Datum via Code einfügen__att__hl-Obsi_DateEinfuegen-Template_26217.png",
     "Z_Setup/Obsi-Help/Att/Tempates_HowTo__att__Properties-nuetzliche_26217.png",
     "Z_Obsi-HELP/Ohne Titel.canvas",
