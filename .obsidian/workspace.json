@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
+                "file": "Cnt-System/Cnt-Voice-Lkd-WS_Cai/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki"
+              "title": "test"
             }
           }
         ],
@@ -320,9 +320,10 @@
   },
   "active": "202f364d6c9c7f3f",
   "lastOpenFiles": [
+    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
+    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/test.md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/1.pdf",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/2tmp.pdf",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Tsti-Lkd-Empfehlungen__CAI_USE-aiki (4).md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_WS-Voice_Lkd-Analyse-26218_CAI__USE-aiki.md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.pdf",
@@ -347,7 +348,6 @@
     "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
     "2026-02-20.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose_01-100_VOLLER-Inhalt.xlsx",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/MindDose_01-100.xlsx",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/MindDose/Att/Pasted image 20260215164539.png",
