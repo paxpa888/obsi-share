@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
+                "file": "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki"
+              "title": "Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki"
             }
           }
         ],
@@ -320,11 +320,13 @@
   },
   "active": "202f364d6c9c7f3f",
   "lastOpenFiles": [
+    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
+    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki.md",
+    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Unconfirmed 284409.crdownload",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Att/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.pdf",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/test.md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Att/2tmp__2.pdf",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Att",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/1.pdf",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/2tmp.pdf",
     "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_INVENTAR_Tsti-Lkd-Empfehlungen__CAI_USE-aiki (4).md",
@@ -341,11 +343,9 @@
     "Z_Obsi-HELP/Obsi - Callouts.md",
     "aiki-Setups/Claude-Setup/Unconfirmed 825782.crdownload",
     "aiki-Setups/Claude-Setup",
-    "aiki-Setups",
     "Z_Obsi-HELP/Obsi - mermaid.md",
     "Z_Obsi-HELP/Template auswählen.md",
     "Cnt-PIPELINE/INBOX_(Cnt)/ENTWÜRFE_cnt/Lkd-Post_26220_Wanting-vs-Liking.md",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/WS_Content-Tracking_MindDose-100.xlsx",
     "Cnt-PIPELINE/Content-Pool Dashboard FileLink.md",
     "SHARE_git/Cnt-IdeenSammlung/Cnt-Ideen.md",
     "2026-02-20.md",
