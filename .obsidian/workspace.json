@@ -39,32 +39,14 @@
             "id": "2cf3ec552dc34caa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cnt-PIPELINE/Content-Pool Dashboard FileLink.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Content-Pool Dashboard FileLink"
-            }
-          },
-          {
-            "id": "202f364d6c9c7f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cnt-WiP/INBOX_(Cnt)/ENTWUERFE_cnt/WS_Archiv_Einstein-James-Insel_#82.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WS_Archiv_Einstein-James-Insel_#82"
+              "title": "Neuer Tab"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,54 +286,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "202f364d6c9c7f3f",
+  "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
-    "Cnt-WiP/Cnt-SSoT/lu42168ltauv.tmp",
-    "Cnt-WiP/Cnt-SSoT/Cnt-SSoT__xls-File.md",
     "Cnt-WiP/INBOX_(Cnt)/ENTWUERFE_cnt/WS_Archiv_Einstein-James-Insel_#82.md",
-    "Cnt-WiP/INBOX_(Cnt)/ENTWUERFE_cnt/Unconfirmed 693616.crdownload",
-    "Cnt-WiP/Cnt-SSoT/Cnt-SSoT__USE-aiki.xlsx",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/Pasted image 20260215164539.png",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/Pasted image 20260215164534.png",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_86-100.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_16-25.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_76-85.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_66-75.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_46-55.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_56-65.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_36-45.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_26-35.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_06-15.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_01-100 MindDose als xls-Datei_XXX.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Att",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/Teil_01-05.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/26215_25-cnt-Stuecke-aus-Ytb-Channel.md",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose/26215_100-MindDose-Serie_BISHER-SUMMIERT_Teil1.md",
+    "Cnt-INHALTE/INBOX_(Cnt)/ENTWUERFE_cnt/Lkd-Post_26220_Wanting-vs-Liking.md",
+    "Cnt-INHALTE/INBOX_(Cnt)/ENTWUERFE_cnt/WS_Archiv_Einstein-James-Insel_#82.md",
+    "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100__USE-aiki.xlsx",
+    "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki (3).xlsx",
+    "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100__USE-aiki__OLD-26221a.xlsx",
+    "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100__USE-aiki__OLD-26221.xlsx",
+    "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100__OLD.xlsx",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose_01-100_VOLLER-Inhalt__USE-aiki.xlsx",
+    "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki.xlsx",
+    "Cnt-INHALTE/Cnt-SSoT/MindDose",
+    "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__xls-File.md",
+    "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki (2).xlsx",
+    "Cnt-INHALTE/Content-Pool Dashboard FileLink.md",
+    "Cnt-WiP/Cnt-SSoT/Cnt-SSoT__xls-File.md",
     "Cnt-WiP/INBOX_(Cnt)/ENTWUERFE_cnt/Lkd-Post_26220_Wanting-vs-Liking.md",
     "Cnt-Sys/Cnt-Analytics/Cnt-Analytics_Lkd 0tmp.md",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/lu46652kfmyv.tmp",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/lu46652kfmyt.tmp",
-    "Cnt-WiP/Cnt-SSoT/Cnt-SSoT__USE-aiki (3).xlsx",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/Cnt-SSoT__USE-aiki.xlsx",
-    "Cnt-PIPELINE/INBOX_(Cnt)/Ideen-POOL_cnt/Unconfirmed 747429.crdownload",
-    "Z_Papierkorb-auf-Probe/Cnt-SSoT__USE-aiki__26221.xlsx",
-    "Z_Papierkorb-auf-Probe/Cnt-SSoT__USE-aiki (1)__26221.xlsx",
-    "Z_Papierkorb-auf-Probe/Cnt-SSoT__USE-aiki.xlsx",
     "Cnt-Sys/Cnt-Analytics/Att/Cnt-Analytics_Lkd 0tmp__att__26221.png",
     "Cnt-Sys/Cnt-Sys_INFOGRAFIK-Prompts/CntSys_Infografik-Prompts_NbkLM.md",
     "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_LEITPLANKEN_CAI__USE-aiki__2_.md",
     "Z_Papierkorb-auf-Probe/Cnt-Sys-WS_LEITPLANKEN_CAI__USE-aiki (1)__OLD.md",
     "Cnt-Sys/VVs in Schwebe (26221).md",
-    "Cnt-Sys/Projekt-Dateien-Uebersicht_v2.md",
-    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki.md",
-    "Cnt-Sys/Projekt-Dateien-Uebersicht.md",
-    "Cnt-Sys/Projekt-Files.md",
-    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki.md",
-    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Bewertg WS-Lkd-Cnt-Voice_26218_CAI__USE-aiki.md",
-    "AiKi-KnowHow_262nn/aiki-Prompts_allgemeine/aiki-schmeichle-nicht.md",
-    "Cnt-System/Cnt-Voice-Lkd-WS_Cai/Cnt-System-WS_Content-Pipeline-Workflow_CAI__USE-aiki.md",
-    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_INVENTAR_Tsti-Lkd-Empfehlungen__CAI_USE-aiki (4).md",
-    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_LEITPLANKEN_CAI__USE-aiki (1).md",
-    "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-SyS-WS_WS-VOICE_Lkd-Analyse-26218_CAI__USE-aiki.md",
-    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Recherche zu KI-Sprache-Indikatoren.md",
-    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache MITTEL, von ChatGPT.md",
-    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache GROSS, von ChatGPT.md",
-    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache Gemini ggi.md",
-    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Don't-Liste KI-Sprache Cai__GibAiki__USE-aiki.md",
-    "Cnt-Sys/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien von Gemini.md",
     "Cnt-WiP/Cnt-SSoT/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cnt-WiP/Cnt-SSoT/MindDose/Att/Pasted image 20260215164539.png",
     "Cnt-WiP/Cnt-SSoT/MindDose/Att/Pasted image 20260215164534.png",
     "Cnt-WiP/Cnt-SSoT/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "Z_Setup/Obsi-Help/Att/Aktuelles Datum via Code einfügen__att__hl-Obsi_DateEinfuegen-Template_26217.png",
-    "Z_Setup/Obsi-Help/Att/Tempates_HowTo__att__Properties-nuetzliche_26217.png",
-    "Z_Obsi-HELP/Ohne Titel.canvas",
-    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att__Ruben Hassid Prompt für WS-Voice.png",
-    "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Att/Write-in-WS-own-voice-via-Cai__att_RubenHassidPrompt_26216.png",
-    "Cont-FUN/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png"
+    "Z_Obsi-HELP/Ohne Titel.canvas"
   ]
 }
