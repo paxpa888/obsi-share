@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
+                "file": "Cnt-Sys/Projekt-Dateien-Uebersicht_v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kontext-FileSyst_USE-aiki"
+              "title": "Projekt-Dateien-Uebersicht_v2"
             }
           }
         ],
@@ -292,11 +292,11 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
     "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100i__OLD-26221a.xlsx",
     "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100__OLD-26221.xlsx",
     "aiki-Setups/CAI-Setups/Claude-Projekte_Datei-Uebersicht.md",
     "aiki-Setups/00_BASIC-files QUER USE-aiki.md",
-    "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
     "aiki-Setups/Kontext-FileSystem/Unconfirmed 121651.crdownload",
     "aiki-Setups/Kontext-FileSyst",
     "aiki-Setups/CAI-Setups",
@@ -326,7 +326,6 @@
     "Cnt-INHALTE/INBOX_(Cnt)/ENTWUERFE_cnt/WS_Archiv_Einstein-James-Insel_#82.md",
     "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100__USE-aiki.xlsx",
     "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki (3).xlsx",
-    "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100__USE-aiki__OLD-26221a.xlsx",
     "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__xls-File.md",
     "Cnt-INHALTE/Content-Pool Dashboard FileLink.md",
     "Cnt-WiP/Cnt-SSoT/Cnt-SSoT__xls-File.md",
