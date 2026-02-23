@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Setups/Kontext-FileSystem/AI-Kontext-Dateien-System.md",
+                "file": "aiki-Setups/Kontext-FileSystem/aiki-Kontext-Dateien-System USE-aiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Kontext-Dateien-System"
+              "title": "aiki-Kontext-Dateien-System USE-aiki"
             }
           }
         ],
@@ -292,11 +292,11 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "aiki-Setups/CAI-Setups/Claude-Projekte_Datei-Uebersicht.md",
+    "aiki-Setups/Kontext-FileSystem/aiki-Kontext-Dateien-System USE-aiki.md",
     "aiki-Setups/00_BASIC-files QUER USE-aiki.md",
-    "aiki-Setups/Kontext-FileSystem/AI-Kontext-Dateien-System.md",
     "aiki-Setups/Kontext-FileSystem/Unconfirmed 121651.crdownload",
     "aiki-Setups/Kontext-FileSystem",
-    "aiki-Setups/CAI-Setups/Claude-Projekte_Datei-Uebersicht.md",
     "aiki-Setups/CAI-Setups",
     "AiKi-KnowHow_262nn/aiki_GOOGLE-spezifisch/GGi und NBkLM ZUSAMMEN nutzen.md",
     "AiKi-KnowHow_262nn/aiki_GOOGLE-spezifisch",
