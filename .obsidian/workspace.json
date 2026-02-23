@@ -42,8 +42,8 @@
               "type": "markdown",
               "state": {
                 "file": "aiki-Setups/Kontext-FileSystem/AI-Kontext-Dateien-System.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "AI-Kontext-Dateien-System"
