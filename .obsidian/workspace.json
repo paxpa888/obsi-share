@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Setups/CAI-Setups/CAI-Memory-und-Instruction-System-Uebersicht.md",
+                "file": "aiki-Setups/CAI-Setups/CAI-Setup Erzeuge optimale Project Intructions.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "CAI-Memory-und-Instruction-System-Uebersicht"
+              "title": "CAI-Setup Erzeuge optimale Project Intructions"
             }
           }
         ],
@@ -278,8 +288,8 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
-    "aiki-Setups/CAI-Setups/CAI-Setup Erzeuge optimale Project Intructions.md",
     "aiki-Setups/CAI-Setups/CAI-Memory-und-Instruction-System-Uebersicht.md",
+    "aiki-Setups/CAI-Setups/CAI-Setup Erzeuge optimale Project Intructions.md",
     "aiki-Setups/CAI-Setups/aiki-Thinking-Partner-Anweisung_CAI.md",
     "aiki-Setups/CAI-Setups/Claude-Projekte_Datei-Uebersicht (23Feb26_ wohl old).md",
     "aiki-Setups/CAI-Setups/Claude-Thinking-Partner-Anweisung.md",
