@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Setups/Claude-Setup/Claude-Projekte_Datei-Uebersicht.md",
+                "file": "aiki-Setups/CAI-Setups/Claude-Projekte_Datei-Uebersicht.md",
                 "mode": "source",
                 "source": false
               },
@@ -290,8 +290,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cf3ec552dc34caa",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
+    "aiki-Setups/CAI-Setups",
     "AiKi-KnowHow_262nn/aiki_GOOGLE-spezifisch/GGi und NBkLM ZUSAMMEN nutzen.md",
     "AiKi-KnowHow_262nn/aiki_GOOGLE-spezifisch",
     "Cnt-INHALTE/Cnt-SSoT/lu5800mjumq.tmp",
@@ -332,7 +333,6 @@
     "Cnt-Sys/Cnt-Sys_INFOGRAFIK-Prompts/CntSys_Infografik-Prompts_NbkLM.md",
     "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_LEITPLANKEN_CAI__USE-aiki__2_.md",
     "Z_Papierkorb-auf-Probe/Cnt-Sys-WS_LEITPLANKEN_CAI__USE-aiki (1)__OLD.md",
-    "Cnt-Sys/VVs in Schwebe (26221).md",
     "Cnt-WiP/Cnt-SSoT/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cnt-WiP/Cnt-SSoT/MindDose/Att/Pasted image 20260215164539.png",
     "Cnt-WiP/Cnt-SSoT/MindDose/Att/Pasted image 20260215164534.png",
