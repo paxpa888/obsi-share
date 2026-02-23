@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Setups/Kontext-FileSystem/aiki-Kontext-Dateien-System USE-aiki.md",
+                "file": "aiki-Setups/00_BASIC-files QUER USE-aiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aiki-Kontext-Dateien-System USE-aiki"
+              "title": "00_BASIC-files QUER USE-aiki"
             }
           }
         ],
@@ -292,8 +292,8 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
-    "aiki-Setups/CAI-Setups/Claude-Projekte_Datei-Uebersicht.md",
     "aiki-Setups/Kontext-FileSystem/aiki-Kontext-Dateien-System USE-aiki.md",
+    "aiki-Setups/CAI-Setups/Claude-Projekte_Datei-Uebersicht.md",
     "aiki-Setups/00_BASIC-files QUER USE-aiki.md",
     "aiki-Setups/Kontext-FileSystem/Unconfirmed 121651.crdownload",
     "aiki-Setups/Kontext-FileSystem",
