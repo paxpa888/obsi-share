@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Setups/Ohne Titel.md",
+                "file": "aiki-Setups/CAI-Setups/Claude-Thinking-Partner-Anweisung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ohne Titel"
+              "title": "Claude-Thinking-Partner-Anweisung"
             }
           }
         ],
@@ -292,8 +292,9 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "aiki-Setups/Sei schonungslos_USE-aiki.md",
+    "aiki-Setups/CAI-Setups/Claude-Thinking-Partner-Anweisung.md",
     "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
-    "aiki-Setups/Ohne Titel.md",
     "aiki-Setups/CAI-Setups/Claude-Projekte_Datei-Uebersicht (23Feb26_ wohl old).md",
     "AiKi-KnowHow_262nn/aiki-Prompts_allgemeine/aiki-schmeichle-nicht.md",
     "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Kritik-Bewertg WS-Lkd-Cnt-Voice_26218_CAI__USE-aiki.md",
@@ -331,7 +332,6 @@
     "Cnt-INHALTE/Cnt-SSoT/old/Cnt-SSoT__USE-aiki (2).xlsx",
     "Cnt-INHALTE/Cnt-SSoT/old",
     "aiki-Setups/00_BASIC-files QUER USE-aiki.md",
-    "AiKi-KnowHow_262nn/aiki_GOOGLE-spezifisch/GGi und NBkLM ZUSAMMEN nutzen.md",
     "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/Pasted image 20260215164539.png",
     "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/Pasted image 20260215164534.png",
