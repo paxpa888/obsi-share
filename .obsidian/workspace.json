@@ -39,10 +39,14 @@
             "id": "2cf3ec552dc34caa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AiKi-KnowHow_262nn/aiki_GOOGLE-spezifisch/GGi und NBkLM ZUSAMMEN nutzen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "GGi und NBkLM ZUSAMMEN nutzen"
             }
           }
         ],
@@ -288,6 +292,8 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "AiKi-KnowHow_262nn/aiki_GOOGLE-spezifisch/GGi und NBkLM ZUSAMMEN nutzen.md",
+    "AiKi-KnowHow_262nn/aiki_GOOGLE-spezifisch",
     "Cnt-INHALTE/Cnt-SSoT/lu5800mjumq.tmp",
     "Cnt-WiP/INBOX_(Cnt)/ENTWUERFE_cnt/WS_Archiv_Einstein-James-Insel_#82.md",
     "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/Pasted image 20260215164539.png",
@@ -317,9 +323,7 @@
     "Cnt-INHALTE/Cnt-SSoT/WS_Content-Tracking_MindDose-100__OLD.xlsx",
     "Cnt-INHALTE/Cnt-SSoT/MindDose_01-100_VOLLER-Inhalt__USE-aiki.xlsx",
     "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki.xlsx",
-    "Cnt-INHALTE/Cnt-SSoT/MindDose",
     "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__xls-File.md",
-    "Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki (2).xlsx",
     "Cnt-INHALTE/Content-Pool Dashboard FileLink.md",
     "Cnt-WiP/Cnt-SSoT/Cnt-SSoT__xls-File.md",
     "Cnt-WiP/INBOX_(Cnt)/ENTWUERFE_cnt/Lkd-Post_26220_Wanting-vs-Liking.md",
