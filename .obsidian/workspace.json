@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
+                "file": "FixMix tmp.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kontext-FileSyst_USE-aiki"
+              "title": "FixMix tmp"
             }
           }
         ],
@@ -288,6 +288,8 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
+    "FixMix tmp.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Analytics/25708_Cnt-Analytics_ib-emg-Newsletter-stat-seit-Nov22_DUPE__USE-aiki.xlsx",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Analytics/25708_Cnt-Analytics_ib-emg-Newsletter-stat-seit-Nov22_DUPE__USE-aiki",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Analytics/25708_Cnt-Analytics_ib-emg-Newsletter-stat-seit-Nov22.xlsx",
@@ -304,7 +306,6 @@
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/lu396203cltdj.tmp",
     "Z_Papierkorb-auf-Probe/Cnt-SSoT__USE-aiki.xlsx",
     "Z_Papierkorb-auf-Probe/Cnt-SSoT__USE-aiki__26221.xlsx",
-    "Z_Papierkorb-auf-Probe/Cnt-SSoT__USE-aiki__26221__OLD-AB-26223.xlsx",
     "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki-2.md",
     "Z_Papierkorb-auf-Probe/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__OLD-ab-26223.md",
     "Cnt-Sys/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__OLD-ab-26223.md",
@@ -314,7 +315,6 @@
     "GDr-LiveSYNC/TechStack-WS_YYY__USE-aiki.md",
     "GDr-LiveSYNC/Baks/Basics-WS'-wsk_txt_BAK-26211.md",
     "GDr-LiveSYNC/Baks/Glossar_Stand-25619.md",
-    "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
     "aiki-Setups/CAI-Setups/Management von 'lebendigen' USE-aiki-Files.md",
     "aiki-Setups/CAI-Setups/CAI-Setup Erzeuge optimale Project Intructions.md",
     "aiki-Setups/CAI-Setups/CAI-Memory-und-Instruction-System-Uebersicht.md",
