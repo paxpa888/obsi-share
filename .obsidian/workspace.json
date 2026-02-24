@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Koop/CAI-Koop/Prompt-Template_CAI_Project-Files-Liste-erstellen.md",
+                "file": "KundenProjekte/3con_26224/3con_26224_Anbahng_txt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompt-Template_CAI_Project-Files-Liste-erstellen"
+              "title": "3con_26224_Anbahng_txt"
             }
           }
         ],
@@ -286,13 +286,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27eebd2b1f67da23",
+  "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "aiki-Koop/CAI-Koop/Prompt-Template_CAI_Project-Files-Liste-erstellen.md",
     "KundenProjekte/3con_26224/3con_26224_Anbahng_txt.md",
     "KundenProjekte/3con_26224",
     "KundenProjekte",
     "aiki-Setups/CAI-Setups/Management von 'lebendigen' USE-aiki-Files.md",
-    "aiki-Koop/CAI-Koop/Prompt-Template_CAI_Project-Files-Liste-erstellen.md",
     "aiki-Koop/CAI-Koop/FixMix_XXXX_CAI_todo_Aufgabenplan_Integrierte-Content-SSoT_Multi-Sheet__USE-aiki.md",
     "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
     "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
