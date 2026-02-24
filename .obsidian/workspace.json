@@ -29,7 +29,7 @@
               "state": {
                 "file": "aiki-Setups/Kontext-FileSyst/Project-Files im CAI-Project Cnt-System_262nn.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -286,7 +286,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27eebd2b1f67da23",
+  "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
     "GDr-LiveSYNC/Cnt-Sys_ib/ib-Archiv-2015-Jan2026_ib-SSoT_USE-aiki.xlsx",
     "GDr-LiveSYNC/Cnt-Sys_ib/25708_Cnt-Analytics_ib-emg-Newsletter-stat-seit-Nov22_DUPE__USE-aiki___VERALTET-wg-NEU-ib-SSoT.xlsx",
