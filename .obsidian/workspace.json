@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/cnt-id_FK-Tipps.md",
+                "file": "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cnt-id_FK-Tipps"
+              "title": "Kontext-FileSyst_USE-aiki"
             }
           }
         ],
@@ -288,10 +288,10 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/cnt-id_FK-Tipps.md",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/Att/Pasted image 20260224132931.png",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/Att",
     "0tmp.md",
-    "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/cnt-id_FK-Tipps.md",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox",
     "GDr-LiveSYNC/Cnt-Sys_ib",
     "GDr-LiveSYNC/Basics-WS__USE-aiki.pdf",
@@ -333,7 +333,6 @@
     "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/Pasted image 20260215164534.png",
     "Cnt-INHALTE/Cnt-SSoT/MindDose/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Analytics/Att/Cnt-Analytics_Lkd 0tmp__att__26221.png",
-    "Cnt-WiP/Cnt-SSoT/MindDose/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
     "Z_Obsi-HELP/Ohne Titel.canvas"
   ]
 }
