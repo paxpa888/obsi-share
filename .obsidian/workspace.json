@@ -27,9 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aiki-Koop/CAI-Koop/fixMix CAI.md",
-                "mode": "source",
-                "source": false,
+                "file": "aiki-Koop/CAI-Koop/FixMix_XXXX_CAI_todo_Aufgabenplan_Integrierte-Content-SSoT_Multi-Sheet__USE-aiki.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fixMix CAI"
+              "title": "FixMix_XXXX_CAI_todo_Aufgabenplan_Integrierte-Content-SSoT_Multi-Sheet__USE-aiki"
             }
           }
         ],
@@ -288,9 +288,9 @@
   },
   "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "aiki-Koop/CAI-Koop/fixMix CAI.md",
     "aiki-Koop/CAI-Koop/FixMix_XXXX_CAI_todo_Aufgabenplan_Integrierte-Content-SSoT_Multi-Sheet__USE-aiki.md",
     "aiki-Setups/Kontext-FileSyst/Project-Files im CAI-Project Cnt-System_262nn.md",
-    "aiki-Koop/CAI-Koop/fixMix CAI.md",
     "aiki-Koop/CAI-Koop",
     "aiki-Koop",
     "GDr-LiveSYNC/Cnt-Sys_ib/ib-Archiv-2015-Jan2026_ib-SSoT_USE-aiki.xlsx",
