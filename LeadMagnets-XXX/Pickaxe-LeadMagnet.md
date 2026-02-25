@@ -14,6 +14,14 @@ wl:
 
 von ChatGPT:
 
+1) “Konfliktfeuerwehr”-Triage als Website-Embed: Besucher → qualifizierte Anfrage + Briefing für dich
+2) 2) “8 grüne Ampeln” Mini-Selbsttest als Lead-Magnet: Score + Kurzreport als PDF
+3) 3) Standardisierte Vorabklärung für Mediation/Coaching: “Case Snapshot” statt Chaos-Mails
+4) 
+
+
+WS-
+https://chatgpt.com/g/g-p-69629aba224481919e4ba317db656dde-rq1-software-experte-fur-alles-26110-ws/c/699f624d-81c8-8393-bb96-8a7a310f541f
 
 Schlussfolgerung: Hier sind die **5 besten “Low-Hanging-Fruits” Use Cases** für dich mit Pickaxe – **nur** Use Cases, ausführlich erklärt (ohne Tabelle). Grundlage: deine Business-Basics und die dokumentierten Pickaxe-Funktionen (Forms/Chatbots, Knowledge Base, Actions, Embeds/Studios, Usage-Limits).
 
