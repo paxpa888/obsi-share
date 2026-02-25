@@ -2,6 +2,9 @@
 #LeadMagnet-id
 #XXXX 
 
+WS Frage 2026-02-26__00:34
+lassen sich diese Ideen nicht auch mit SCa ScoreApp machen?
+
 wl: 
 ![]https://www.youtube.com/watch?v=HXVfiNYLUus
 
@@ -17,7 +20,9 @@ von ChatGPT:
 1) “Konfliktfeuerwehr”-Triage als Website-Embed: Besucher → qualifizierte Anfrage + Briefing für dich
 2) 2) “8 grüne Ampeln” Mini-Selbsttest als Lead-Magnet: Score + Kurzreport als PDF
 3) 3) Standardisierte Vorabklärung für Mediation/Coaching: “Case Snapshot” statt Chaos-Mails
-4) 
+4) 4) “Content-Assist” für LinkedIn + Newsletter: dein Stil + deine Bibliothek, aber als eigenes Tool
+5) 5) “Mini-Portal” für zahlende Kunden: zwischen Terminen skalieren (ohne große Plattform-Bastelei)
+6) 
 
 
 WS-
