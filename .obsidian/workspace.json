@@ -49,12 +49,14 @@
             "id": "4824605345a6727e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "BuchProjekt_HigN/Erste-Spinnereien/HigN_01-Spinnerein.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.12.4"
+              "icon": "lucide-file",
+              "title": "HigN_01-Spinnerein"
             }
           }
         ],
@@ -300,6 +302,7 @@
   },
   "active": "4824605345a6727e",
   "lastOpenFiles": [
+    "BuchProjekt_HigN/Erste-Spinnereien/HigN_01-Spinnerein.md",
     "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
     "aiki-Koop/'Fuzzy' quick and dirty starten oder alles durchdenken_Dilemma 26226.md",
     "aiki-Koop/CAI-Koop/XXXX Liste Snippet 'cnt-zugänge' mitteilen Todo's Todos mit CAI - 25Feb26b.md",
@@ -337,7 +340,6 @@
     "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
     "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/CntSys_Project-files-Liste-CAI_v3.md",
-    "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v2.md",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/Att/Pasted image 20260224132931.png",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/MindDose_QUELL/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/MindDose_QUELL/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
