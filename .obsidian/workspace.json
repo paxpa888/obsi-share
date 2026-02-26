@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01 - mit Notizen von WS.md",
+                "file": "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HigN_Buchserie_CAI_Nr01 - mit Notizen von WS"
+              "title": "HigN_Buchserie_CAI_Nr01"
             }
           }
         ],
@@ -300,10 +300,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4824605345a6727e",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
-    "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01.md",
     "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01 - mit Notizen von WS.md",
+    "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01.md",
     "BuchProjekt_HigN/Erste-Spinnereien/HigN_01-Spinnerein.md",
     "BuchProjekt_HigN/Erste-Spinnereien 1/HigN_Buchserie_CAI_Nr01.md",
     "BuchProjekt_HigN/Erste-Spinnereien 1/HigN_01-Spinnerein.md",
