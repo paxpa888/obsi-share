@@ -44,23 +44,9 @@
               "icon": "lucide-file",
               "title": "'Fuzzy' quick and dirty starten oder alles durchdenken_Dilemma 26226"
             }
-          },
-          {
-            "id": "4824605345a6727e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HigN_Buchserie_CAI_Nr01"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,11 +286,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4824605345a6727e",
+  "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "higN_lg-Buch-Serie/Gesamtkonzept-betreffend/higN_26226-GesamtEntwurf-fuer-USE-aiki.md",
+    "higN_lg-Buch-Serie/Gesamtkonzept-betreffend/higN_Projekt-Briefing_CAI__26226-GesamtEntwurf-fuer-USE-aiki.md",
+    "higN_lg-Buch-Serie/Gesamtkonzept-betreffend",
+    "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01.md",
+    "higN_lg-Buch-Serie/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01.md",
+    "higN_lg-Buch-Serie/Erste-Spinnereien/HigN_01-Spinnerein.md",
+    "higN_lg-Buch-Serie/higN_Projekt-Briefing_CAI__26226-GesamtEntwurf-fuer-USE-aiki.md",
+    "higN_lg-Buch-Serie/Erste-Spinnereien",
+    "higN_lg-Buch-Serie",
     "BuchProjekt_HigN/higN_Projekt-Briefing_CAI__26226-GesamtEntwurf-fuer-USE-aiki.md",
     "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01 - mit Notizen von WS.md",
-    "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01.md",
     "BuchProjekt_HigN/Erste-Spinnereien/HigN_01-Spinnerein.md",
     "BuchProjekt_HigN/Erste-Spinnereien 1/HigN_Buchserie_CAI_Nr01.md",
     "BuchProjekt_HigN/Erste-Spinnereien 1/HigN_01-Spinnerein.md",
@@ -328,18 +322,10 @@
     "GDr-LiveSYNC/Cnt-Sys_ib/ib-Produktions-Verlaeufe/26225-ib-entwicklg__newsletter_entwurf_zeitbombe__V1 1.md",
     "GDr-LiveSYNC/Cnt-Sys_ib/ib-Produktions-Verlaeufe/26225-ib-entwicklg__newsletter_entwurf_zeitbombe__V1.md",
     "GDr-LiveSYNC/Cnt-Sys_ib/fixmix_XXXX-fuer-naechsten Prompt__Briefing_ib-Voice-Analyse_naechster-Chat__USE-aiki.md",
-    "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/cnt-id Geudevert Fenster werden zu Spiegeln.md",
-    "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/cnt-id_FK-Tipps.md",
-    "GDr-LiveSYNC/Cnt-Sys_ib/26225_ib-Erstellg_Historie-Log.md",
-    "aiki-Koop/Meta-Prompts/Hilf mir bei PROMPT-Formulierung.md",
     "GDr-LiveSYNC/Cnt-Sys_ib/ib-Produktions-Verlaeufe",
     "aiki-Koop/Meta-Prompts",
-    "GDr-LiveSYNC/Cnt-Sys_ib/Cnt-SyS-WS_WS-VOICE_ib-Analyse-26224_CAI__USE-aiki.md",
     "KundenProjekte/3con_26224/Att/26224_ba-e_wg-ISBW_an-Markus-Kripp_wg-3con-fiit.eml",
     "KundenProjekte/3con_26224/Att/Fw [ISBW] Feedback- und Konfliktkompetenz - Gesucht Training 858843 - Timo Maibach (Timo@timomaibach.com) - 2026-02-24 1829.eml",
-    "KundenProjekte/3con_26224/Att/26224_via-via-Timo-Maibach-via-Isbw-via-Markus-Kripp__TKK-fiit-von-3Con.pdf",
-    "KundenProjekte/3con_26224/Att",
-    "KundenProjekte/3con_26224",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/Att/Pasted image 20260224132931.png",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/MindDose_QUELL/Att/26215_25-cnt-Stuecke-aus-Ytb-Channel__att__'MindDose'-Channel_25615-wg-cnt.png",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/MindDose_QUELL/Att/screencapture-youtube-results-2026-02-17-10_24_41.png",
