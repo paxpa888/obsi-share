@@ -44,9 +44,21 @@
               "icon": "lucide-file",
               "title": "'Fuzzy' quick and dirty starten oder alles durchdenken_Dilemma 26226"
             }
+          },
+          {
+            "id": "4824605345a6727e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cf3ec552dc34caa",
+  "active": "4824605345a6727e",
   "lastOpenFiles": [
     "LeadMagnets-XXX/Pickaxe-LeadMagnet.md",
     "aiki-Koop/'Fuzzy' quick and dirty starten oder alles durchdenken_Dilemma 26226.md",
