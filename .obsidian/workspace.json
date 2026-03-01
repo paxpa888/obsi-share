@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse/WS_Lkd-Profil-Analyse_Bewertung_26301.md",
+                "file": "GDr-LiveSYNC/0tmp_Projektdateien-Aenderungen_Alt-Neu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WS_Lkd-Profil-Analyse_Bewertung_26301"
+              "title": "0tmp_Projektdateien-Aenderungen_Alt-Neu"
             }
           }
         ],
@@ -286,14 +286,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27eebd2b1f67da23",
+  "active": "2cf3ec552dc34caa",
   "lastOpenFiles": [
+    "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse/WS_Lkd-Profil-Analyse_Bewertung_26301.md",
+    "GDr-LiveSYNC/0tmp_Projektdateien-Aenderungen_Alt-Neu.md",
     "GDr-LiveSYNC/05_LaKa-Erkundg_Hebammenkunst_24512-26301-gender.docx",
     "GDr-LiveSYNC/lu50160437ajk.tmp",
     "GDr-LiveSYNC/05_LaKa-Erkundg_Hebammenkunst_24512-26301-gender.doc",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse/05_LaKa-Erkundg_Hebammenkunst_24512-26301-gender.doc",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_Lkd-Algo-Wissen/LkdAlgoWissen_aktuell__USE-aiki.md",
-    "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse/WS_Lkd-Profil-Analyse_Bewertung_26301.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse/WS_LinkedIn_Profil_Bewertung_26301.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse",
     "0tmp/0tmp Wetterabfrage wg Berlinfahrt Prompt.md",
@@ -312,7 +313,6 @@
     "higN_lp-Buch-Serie/Erste-Spinnereien_26116/HigN_01-Spinnerein.md",
     "higN_lg-Buch-Serie/higN_Projekt-Briefing_CAI__26226-GesamtEntwurf-fuer-USE-aiki.md",
     "higN_lp-Buch-Serie/Erste-Spinnereien_26116",
-    "higN_lp-Buch-Serie",
     "BuchProjekt_HigN/higN_Projekt-Briefing_CAI__26226-GesamtEntwurf-fuer-USE-aiki.md",
     "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01 - mit Notizen von WS.md",
     "BuchProjekt_HigN/Erste-Spinnereien/HigN_01-Spinnerein.md",
