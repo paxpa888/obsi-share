@@ -25,13 +25,14 @@
             "id": "044f5f7fb9446b8e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TestBase26306.base",
-                "viewName": "Tabelle"
+                "file": "Test/Inbox Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "TestBase26306"
+              "icon": "lucide-file",
+              "title": "Inbox Test"
             }
           }
         ],
@@ -98,8 +99,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -289,8 +289,8 @@
   },
   "active": "044f5f7fb9446b8e",
   "lastOpenFiles": [
-    "Liste 'unbenannt' 26306.md",
     "TestBase26306.base",
+    "Liste 'unbenannt' 26306.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Unbenannt.md",
     "Unbenannt.base",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/Roemer-1k19_Boese-schaffen_Hamartia.md",
