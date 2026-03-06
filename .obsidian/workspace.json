@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"TQ_explain\"]",
+                "query": "[\"Typ\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,7 +287,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "044f5f7fb9446b8e",
+  "active": "c5eba6c59425c63f",
   "lastOpenFiles": [
     "TestBase26306.base",
     "Unbenannt.base",
