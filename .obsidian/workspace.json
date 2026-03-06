@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Typ\"]",
+                "query": "tag:MiteinanderMagier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
