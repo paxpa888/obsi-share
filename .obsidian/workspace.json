@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Setup/Templates/Template_minimal.md",
+                "file": "Test/Inbox Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Template_minimal"
+              "title": "Rückverweise auf Inbox Test"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hl Obsi/Button Git-Save.md",
+                "file": "Test/Inbox Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Button Git-Save öffnen"
+              "title": "Ausgehende Links von Inbox Test öffnen"
             }
           },
           {
@@ -259,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -287,7 +287,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "044f5f7fb9446b8e",
+  "active": "553b2e2409619713",
   "lastOpenFiles": [
     "TestBase26306.base",
     "Liste 'unbenannt' 26306.md",
