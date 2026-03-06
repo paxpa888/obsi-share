@@ -25,13 +25,14 @@
             "id": "044f5f7fb9446b8e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TestBase26306.base",
-                "viewName": "Sicht"
+                "file": "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Unbenannt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map-pin",
-              "title": "TestBase26306"
+              "icon": "lucide-file",
+              "title": "Unbenannt"
             }
           }
         ],
