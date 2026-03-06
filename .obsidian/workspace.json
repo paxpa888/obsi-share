@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 807.5110359191895
+    "width": 807.5110359191895,
+    "collapsed": true
   },
   "right": {
     "id": "913499b4e4e7ba3e",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Sys_INFOGRAFIK-Prompts/CntSys_Infografik-Prompts_NbkLM.md",
+                "file": "TestCanvas-26306.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf CntSys_Infografik-Prompts_NbkLM"
+              "title": "Rückverweise auf TestCanvas-26306"
             }
           },
           {
@@ -138,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Sys_INFOGRAFIK-Prompts/CntSys_Infografik-Prompts_NbkLM.md",
+                "file": "TestCanvas-26306.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von CntSys_Infografik-Prompts_NbkLM öffnen"
+              "title": "Ausgehende Links von TestCanvas-26306 öffnen"
             }
           },
           {
@@ -226,14 +227,17 @@
             "id": "044f5f7fb9446b8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Sys_INFOGRAFIK-Prompts/CntSys_Infografik-Prompts_NbkLM.md",
-                "mode": "source",
-                "source": false
+                "file": "TestCanvas-26306.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "CntSys_Infografik-Prompts_NbkLM"
+              "icon": "lucide-layout-dashboard",
+              "title": "TestCanvas-26306"
             }
           },
           {
@@ -289,6 +293,9 @@
   },
   "active": "044f5f7fb9446b8e",
   "lastOpenFiles": [
+    "0tmp/0tmp Wetterabfrage wg Berlinfahrt Prompt.md",
+    "TestCanvas-26306.canvas",
+    "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Sys_INFOGRAFIK-Prompts/CntSys_Infografik-Prompts_NbkLM.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-JETZT/WS_Comeback-Post_FINAL.md",
     "Test/Inbox Test.md",
     "TestBase26306.base",
@@ -314,7 +321,6 @@
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse/05_LaKa-Erkundg_Hebammenkunst_24512-26301-gender.doc",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse/WS_LinkedIn_Profil_Bewertung_26301.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse",
-    "0tmp/0tmp Wetterabfrage wg Berlinfahrt Prompt.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_Lkd-Algo-Wissen",
     "aiki_als-HEBEL-nutzen___XXX noch 2do, zB Julian Goldie Tipps, 26227/Ggi mit NBkLM super Cnt-MASCHINE 26227.md",
     "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v2.md",
@@ -323,8 +329,6 @@
     "higN_lp-Buch-Serie/Gesamtkonzept-betreffend_26226/higN_GesamtEntwurf-begonnen-26Feb26_USE-aiki.md",
     "aiki-Koop/'Fuzzy' quick and dirty starten oder alles durchdenken_Dilemma 26226.md",
     "higN_lg-Buch-Serie/Gesamtkonzept-betreffend/higN_Projekt-Briefing_CAI__26226-GesamtEntwurf-fuer-USE-aiki.md",
-    "BuchProjekt_HigN/Erste-Spinnereien/HigN_Buchserie_CAI_Nr01.md",
-    "higN_lp-Buch-Serie/Erste-Spinnereien_26116/HigN_Buchserie_CAI_Nr01.md",
     "aiki-Koop/CAI-Koop/Att/XXXX Liste Snippet Todo's Todos mit CAI - 25Feb26__att__XXX-todo-Snippet-Branding-CCC.png",
     "GDr-LiveSYNC/Cnt-Sys_ib/ib-Produktions-Verlaeufe/Att/Pasted image 20260225172252.png",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/Att/Pasted image 20260224132931.png",
