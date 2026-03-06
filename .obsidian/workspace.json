@@ -11,14 +11,17 @@
             "id": "457ee94c79a44258",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false
+                "file": "TestCanvas-26306.canvas",
+                "viewState": {
+                  "x": -871,
+                  "y": -96.5,
+                  "zoom": -0.32211128262691274
+                }
               },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "icon": "lucide-layout-dashboard",
+              "title": "TestCanvas-26306"
             }
           }
         ]
@@ -84,7 +87,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -123,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "TestCanvas-26306.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Homepage öffnen"
+              "title": "Ausgehende Links von TestCanvas-26306 öffnen"
             }
           },
           {
@@ -152,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "TestCanvas-26306.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Homepage"
+              "title": "Gliederung von TestCanvas-26306"
             }
           },
           {
@@ -277,8 +281,8 @@
   },
   "active": "457ee94c79a44258",
   "lastOpenFiles": [
-    "Test/Inbox Test.md",
     "Homepage.md",
+    "Test/Inbox Test.md",
     "Test/Unbenannt 2.md",
     "FixMix tmp.md",
     "TestCanvas-26306.canvas",
