@@ -28,9 +28,9 @@
               "type": "bases",
               "state": {
                 "file": "TestBase26306.base",
-                "viewName": "Tabelle"
+                "viewName": "Sicht"
               },
-              "icon": "lucide-table",
+              "icon": "map-pin",
               "title": "TestBase26306"
             }
           }
@@ -287,7 +287,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5eba6c59425c63f",
+  "active": "044f5f7fb9446b8e",
   "lastOpenFiles": [
     "TestBase26306.base",
     "Unbenannt.base",
