@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Inbox Test"
             }
+          },
+          {
+            "id": "18d3f5961b130759",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://c-c-c.de/",
+                "title": "Homepage - Dein Miteinander-Magier. Denn hohe Produktivität und Wohlbefinden brauchen gute Chemie.",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Homepage - Dein Miteinander-Magier. Denn hohe Produktivität und Wohlbefinden brauchen gute Chemie."
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,12 +138,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test/Inbox Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Inbox Test öffnen"
+              "title": "Ausgehende Links"
             }
           },
           {
@@ -152,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test/Inbox Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Inbox Test"
+              "title": "Gliederung"
             }
           },
           {
@@ -247,11 +260,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 1869.6000000000001
+    "width": 780.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +288,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e064dbbbf730bb3",
+  "active": "18d3f5961b130759",
   "lastOpenFiles": [
-    "Test/Unbenannt 2.md",
     "Test/Inbox Test.md",
+    "Test/Unbenannt 2.md",
     "FixMix tmp.md",
     "TestCanvas-26306.canvas",
     "0tmp/0tmp Wetterabfrage wg Berlinfahrt Prompt.md",
