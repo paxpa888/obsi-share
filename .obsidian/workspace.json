@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TestCanvas-26306.canvas",
+                "file": "GDr-LiveSYNC/Cnt-Sys_ib/ib-Produktions-Verlaeufe/Att/Pasted image 20260225172252.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf TestCanvas-26306"
+              "title": "Rückverweise auf Pasted image 20260225172252"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestCanvas-26306.canvas",
+                "file": "GDr-LiveSYNC/Cnt-Sys_ib/ib-Produktions-Verlaeufe/Att/Pasted image 20260225172252.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von TestCanvas-26306 öffnen"
+              "title": "Ausgehende Links von Pasted image 20260225172252 öffnen"
             }
           },
           {
@@ -267,7 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 679.5
+    "width": 1869.6000000000001
   },
   "left-ribbon": {
     "hiddenItems": {
