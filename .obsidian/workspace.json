@@ -11,10 +11,14 @@
             "id": "457ee94c79a44258",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test/Inbox Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Inbox Test"
             }
           }
         ]
@@ -119,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestCanvas-26306.canvas",
+                "file": "Test/Inbox Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von TestCanvas-26306 öffnen"
+              "title": "Ausgehende Links von Inbox Test öffnen"
             }
           },
           {
@@ -148,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Setup/Templates/Template_minimal.md",
+                "file": "Test/Inbox Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Template_minimal"
+              "title": "Gliederung von Inbox Test"
             }
           },
           {
@@ -243,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -271,13 +275,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44c75d6aab52c37a",
+  "active": "3e064dbbbf730bb3",
   "lastOpenFiles": [
+    "Test/Unbenannt 2.md",
+    "Test/Inbox Test.md",
+    "FixMix tmp.md",
     "TestCanvas-26306.canvas",
     "0tmp/0tmp Wetterabfrage wg Berlinfahrt Prompt.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Sys_INFOGRAFIK-Prompts/CntSys_Infografik-Prompts_NbkLM.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-JETZT/WS_Comeback-Post_FINAL.md",
-    "Test/Inbox Test.md",
     "TestBase26306.base",
     "Liste 'unbenannt' 26306.md",
     "AiKi-KnowHow_262nn/aiki-Experten/RubenHassid-Folder/Unbenannt.md",
@@ -308,7 +314,6 @@
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/ENTWUERFE_cnt/26227 Lkd-Postg ID 9.md",
     "higN_lp-Buch-Serie/Gesamtkonzept-betreffend_26226/higN_GesamtEntwurf-begonnen-26Feb26_USE-aiki.md",
     "aiki-Koop/'Fuzzy' quick and dirty starten oder alles durchdenken_Dilemma 26226.md",
-    "higN_lg-Buch-Serie/Gesamtkonzept-betreffend/higN_Projekt-Briefing_CAI__26226-GesamtEntwurf-fuer-USE-aiki.md",
     "aiki-Koop/CAI-Koop/Att/XXXX Liste Snippet Todo's Todos mit CAI - 25Feb26__att__XXX-todo-Snippet-Branding-CCC.png",
     "GDr-LiveSYNC/Cnt-Sys_ib/ib-Produktions-Verlaeufe/Att/Pasted image 20260225172252.png",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/Att/Pasted image 20260224132931.png",
