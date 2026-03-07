@@ -15,7 +15,7 @@
               "state": {
                 "file": "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Pipeline Nachschub in Form bringen (s.Bsp MindDose).md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Pipeline Nachschub in Form bringen (s.Bsp MindDose)"
