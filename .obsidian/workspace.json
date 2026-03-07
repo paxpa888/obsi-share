@@ -11,17 +11,14 @@
             "id": "457ee94c79a44258",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "TestCanvas-26306.canvas",
-                "viewState": {
-                  "x": -871,
-                  "y": -96.5,
-                  "zoom": -0.32211128262691274
-                }
+                "file": "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "TestCanvas-26306"
+              "icon": "lucide-file",
+              "title": "CntSys_Project-files-Liste-CAI_v3"
             }
           }
         ]
@@ -127,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestCanvas-26306.canvas",
+                "file": "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von TestCanvas-26306 öffnen"
+              "title": "Ausgehende Links von CntSys_Project-files-Liste-CAI_v3 öffnen"
             }
           },
           {
@@ -156,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TestCanvas-26306.canvas",
+                "file": "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von TestCanvas-26306"
+              "title": "Gliederung von CntSys_Project-files-Liste-CAI_v3"
             }
           },
           {
@@ -281,11 +278,12 @@
   },
   "active": "457ee94c79a44258",
   "lastOpenFiles": [
+    "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v2.md",
+    "TestCanvas-26306.canvas",
     "Homepage.md",
     "Test/Inbox Test.md",
     "Test/Unbenannt 2.md",
     "FixMix tmp.md",
-    "TestCanvas-26306.canvas",
     "0tmp/0tmp Wetterabfrage wg Berlinfahrt Prompt.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Sys_INFOGRAFIK-Prompts/CntSys_Infografik-Prompts_NbkLM.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-JETZT/WS_Comeback-Post_FINAL.md",
@@ -314,10 +312,8 @@
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_Lkd-Algo-Wissen",
     "aiki_als-HEBEL-nutzen___XXX noch 2do, zB Julian Goldie Tipps, 26227/Ggi mit NBkLM super Cnt-MASCHINE 26227.md",
-    "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v2.md",
     "aiki_als-HEBEL-nutzen___XXX noch 2do, zB Julian Goldie Tipps, 26227",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/ENTWUERFE_cnt/26227 Lkd-Postg ID 9.md",
-    "higN_lp-Buch-Serie/Gesamtkonzept-betreffend_26226/higN_GesamtEntwurf-begonnen-26Feb26_USE-aiki.md",
     "aiki-Koop/CAI-Koop/Att/XXXX Liste Snippet Todo's Todos mit CAI - 25Feb26__att__XXX-todo-Snippet-Branding-CCC.png",
     "GDr-LiveSYNC/Cnt-Sys_ib/ib-Produktions-Verlaeufe/Att/Pasted image 20260225172252.png",
     "GDr-LiveSYNC/Cnt-INHALTE/INBOX_(Cnt)/Cnt-id_FixMix-Inbox/Att/Pasted image 20260224132931.png",
