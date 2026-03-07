@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Eidenschink-Goldgrube via NbkLM.md",
-                "mode": "source",
+                "file": "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/test.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eidenschink-Goldgrube via NbkLM"
+              "title": "test"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Eidenschink-Goldgrube via NbkLM.md",
+                "file": "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Eidenschink-Goldgrube via NbkLM"
+              "title": "Gliederung von test"
             }
           },
           {
@@ -278,8 +278,9 @@
   },
   "active": "457ee94c79a44258",
   "lastOpenFiles": [
-    "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Pipeline Nachschub in Form bringen (s.Bsp MindDose).md",
     "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Eidenschink-Goldgrube via NbkLM.md",
+    "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/test.md",
+    "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Pipeline Nachschub in Form bringen (s.Bsp MindDose).md",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki.gsheet",
     "aiki-Koop/aiki-minus checkt NICHT alles, obwohl sie sollte, minus.md",
     "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen",
@@ -310,7 +311,6 @@
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki__AB-26301-OLD.md",
     "GDr-LiveSYNC/files.zip",
-    "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt_WS-Profil-Lkd_Analyse/WS_Lkd-Profil-Analyse_Bewertung_26301.md",
     "GDr-LiveSYNC/05_LaKa-Erkundg_Hebammenkunst_24512-26301-gender.docx",
     "GDr-LiveSYNC/lu50160437ajk.tmp",
     "GDr-LiveSYNC/05_LaKa-Erkundg_Hebammenkunst_24512-26301-gender.doc",
