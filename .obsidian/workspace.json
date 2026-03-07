@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Eidenschink-Goldgrube via NbkLM.md",
+                "file": "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eidenschink-Goldgrube via NbkLM"
+              "title": "CntSys_Project-files-Liste-CAI_v3"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Eidenschink-Goldgrube via NbkLM.md",
+                "file": "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Eidenschink-Goldgrube via NbkLM"
+              "title": "Gliederung von CntSys_Project-files-Liste-CAI_v3"
             }
           },
           {
@@ -278,6 +278,8 @@
   },
   "active": "457ee94c79a44258",
   "lastOpenFiles": [
+    "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v2.md",
+    "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Eidenschink-Goldgrube via NbkLM.md",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/lu507081imx5j.tmp",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/lu507081imx5h.tmp",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/lu507081imx5f.tmp",
@@ -288,15 +290,12 @@
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/lu507081imx55.tmp",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/lu507081imx53.tmp",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/lu507081imx51.tmp",
-    "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/lu507081imx4z.tmp",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/Eidenschink-Goldgrube_in-NbkLM-hochgeladen__INHALTS-UEBERSICHTEN_txt.md",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/Eidenschink-Goldgrube_in-NbkLM-hochgeladen.jpg",
     "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/test.md",
-    "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Eidenschink-Goldgrube via NbkLM.md",
     "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/Cnt_Pipeline-Nachschub-in-Form-bringen/Pipeline Nachschub in Form bringen (s.Bsp MindDose).md",
     "aiki-Koop/aiki-minus checkt NICHT alles, obwohl sie sollte, minus.md",
     "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
-    "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v2.md",
     "TestCanvas-26306.canvas",
     "Homepage.md",
     "Test/Inbox Test.md",
