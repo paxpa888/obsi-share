@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki.md",
+                "file": "GDr-LiveSYNC/Cnt-Sys_Lkd/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien__allgemein__von_Claude__USE-aiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki"
+              "title": "Copywriting-Leitlinien__allgemein__von_Claude__USE-aiki"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDr-LiveSYNC/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki.md",
+                "file": "GDr-LiveSYNC/Cnt-Sys_Lkd/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien__allgemein__von_Claude__USE-aiki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki"
+              "title": "Gliederung von Copywriting-Leitlinien__allgemein__von_Claude__USE-aiki"
             }
           },
           {
@@ -278,8 +278,9 @@
   },
   "active": "457ee94c79a44258",
   "lastOpenFiles": [
-    "GDr-LiveSYNC/Cnt-Sys_Lkd/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien__allgemein__von_Claude__USE-aiki.md",
     "GDr-LiveSYNC/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki.md",
+    "GDr-LiveSYNC/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki___XXX-hochladen.md",
+    "GDr-LiveSYNC/Cnt-Sys_Lkd/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien__allgemein__von_Claude__USE-aiki.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien (generisch) von CAI__USE-aiki.md",
     "aiki-Setups/Kontext-FileSyst/Kontext-FileSyst_USE-aiki.md",
     "GDr-LiveSYNC/Copywriting-Leitlinien__allgemein__von_Claude__USE-aiki.md",
@@ -314,7 +315,6 @@
     "GDr-LiveSYNC/Cnt-Sys_PIPELINE-Pflege/GGruben-Pipeline/GGruben-Pipeline Ideen, 'Cnt-Schwungrad'.md",
     "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v3.md",
     "GDr-LiveSYNC/Cnt-Sys-CAI/CntSys_Project-files-Liste-CAI_v2.md",
-    "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/Eidenschink-Goldgrube_in-NbkLM-hochgeladen__INHALTS-UEBERSICHTEN_txt.md",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Eidenschink_QUELL/Eidenschink-Goldgrube_in-NbkLM-hochgeladen.jpg",
     "TestCanvas-26306.canvas",
     "aiki-Koop/CAI-Koop/Att/XXXX Liste Snippet Todo's Todos mit CAI - 25Feb26__att__XXX-todo-Snippet-Branding-CCC.png",
