@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDr-LiveSYNC/SSoT-Puffer_Schnippsel.md",
+                "file": "CRM/Deal_Allianz-Weske.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSoT-Puffer_Schnippsel"
+              "title": "Deal_Allianz-Weske"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDr-LiveSYNC/SSoT-Puffer_Schnippsel.md",
+                "file": "CRM/Deal_Allianz-Weske.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von SSoT-Puffer_Schnippsel"
+              "title": "Gliederung von Deal_Allianz-Weske"
             }
           },
           {
@@ -278,10 +278,10 @@
   },
   "active": "457ee94c79a44258",
   "lastOpenFiles": [
+    "GDr-LiveSYNC/SSoT-Puffer_Schnippsel.md",
     "CRM/Deal_Allianz-Weske.md",
     "CRM",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki_ERL.md",
-    "GDr-LiveSYNC/SSoT-Puffer_Schnippsel.md",
     "GDr-LiveSYNC/Glossar-WS_YYY__USE-aiki__ERL.md",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__xls-File.md",
     "GDr-LiveSYNC/Cnt-SSoT__xls-File.md",
