@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRM/Deal_Allianz-Weske.md",
+                "file": "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/GGruben-Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deal_Allianz-Weske"
+              "title": "GGruben-Log"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRM/Deal_Allianz-Weske.md",
+                "file": "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/GGruben-Log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Deal_Allianz-Weske"
+              "title": "Gliederung von GGruben-Log"
             }
           },
           {
@@ -278,13 +278,14 @@
   },
   "active": "457ee94c79a44258",
   "lastOpenFiles": [
+    "CRM/Deal_Allianz-Weske.md",
+    "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/GGruben-Log.md",
     "Z_Papierkorb-auf-Probe/Cnt-SSoT__USE-aiki_BAK-26308-20h40.xlsx",
     "GDr-LiveSYNC/Cnt-SSoT__USE-aiki_BAK-26308-20h40.xlsx",
     "GDr-LiveSYNC/Cnt-SSoT__USE-aiki.xlsx",
     "GDr-LiveSYNC/Cnt-SSoT__USE.aiki.xlsx",
     "GDr-LiveSYNC/CntSSoT__USEaiki.xlsx",
     "GDr-LiveSYNC/SSoT-Puffer_Schnippsel.md",
-    "CRM/Deal_Allianz-Weske.md",
     "CRM",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki_ERL.md",
     "GDr-LiveSYNC/Glossar-WS_YYY__USE-aiki__ERL.md",
@@ -297,7 +298,6 @@
     "Z_Papierkorb-auf-Probe/Cnt-SSoT__USE-aiki_ERL__BAK-26308_vor-Strukturaenderg.xlsx",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki__ERL.xlsx",
     "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USE-aiki.xlsx",
-    "GDr-LiveSYNC/Cnt-INHALTE/Cnt-SSoT/Cnt-SSoT__USEaiki.xlsx",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/CntCr-GENERISCHE-Tipps/Copywriting-Leitlinien__allgemein__von_Claude__USE-aiki__ERL.md",
     "GDr-LiveSYNC/Cnt-Sys_Lkd/Cnt-Voice-Lkd-WS_Cai/Cnt-Sys-WS_INVENTAR_Lkd-WS-Voice-POSTING-Bspe_(25227_Letzte-12-Monate-alle-ausgefaltet)_komprimiert_USE-aiki__ERL-ist-STATISCH.md",
     "Z_Papierkorb-auf-Probe/Cnt-Sys-WS_Cnt-Pipeline-WORKFLOW_CAI__USE-aiki__bak-26308.md",
