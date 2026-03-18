@@ -1,6 +1,7 @@
 {
   "showRibbon": true,
   "enabledCssSnippets": [
-    "inlineAdmonitionsPluginReadOnly"
+    "inlineAdmonitionsPluginReadOnly",
+    "print-highlight"
   ]
 }
