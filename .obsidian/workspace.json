@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRM/Weske_Dirk/ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
+                "file": "CRM/Weske_Dirk/exc1=SUMMARY_ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618"
+              "title": "exc1=SUMMARY_ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRM/Weske_Dirk/ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
+                "file": "CRM/Weske_Dirk/exc1=SUMMARY_ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618"
+              "title": "Gliederung von exc1=SUMMARY_ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618"
             }
           },
           {
@@ -276,11 +276,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "457ee94c79a44258",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
-    "CRM/Weske_Dirk/exc1=SUMMARY_ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
     "CRM/Weske_Dirk/5 ITBS-Kernerkenntnisse für GeVoSG-Calls.md",
     "CRM/Weske_Dirk/ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
+    "CRM/Weske_Dirk/exc1=SUMMARY_ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
     "GDr-LiveSYNC/SSoT-Puffer__USE-aiki.md",
     "CRM/Weske_Dirk/exc2_ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
     "CRM/Weske_Dirk/exc1_ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618__Excerpt1.md",
