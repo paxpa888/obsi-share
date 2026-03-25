@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618"
             }
+          },
+          {
+            "id": "c129e9e4f117c4be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.12.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRM/Weske_Dirk/ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von ITBS-Vorbereitung_5-Kernerkenntnisse-fuer-GeVoSG-V2__auch-fuer-Weske-GeVo_23618"
+              "title": "Gliederung"
             }
           },
           {
@@ -276,7 +288,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "457ee94c79a44258",
+  "active": "27eebd2b1f67da23",
   "lastOpenFiles": [
     "CRM/Weske_Dirk/Weske-GeVo und lp 'Produkt 'Schwierige Gespräche vorbereiten''.pdf",
     "CRM/Weske_Dirk/Weske-GeVo und lp 'Produkt 'Schwierige Gespräche vorbereiten''.md",
