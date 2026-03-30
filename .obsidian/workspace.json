@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Versionshinweise 1.12.6"
             }
+          },
+          {
+            "id": "2ee1bdca44196144",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
