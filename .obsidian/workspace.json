@@ -37,12 +37,14 @@
             "id": "2ee1bdca44196144",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Prompt-TEMPLATES 26423/Video-SICHTUNG 26423/Video-SICHTUNG zB Perplexity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.12.7"
+              "icon": "lucide-file",
+              "title": "Video-SICHTUNG zB Perplexity"
             }
           }
         ],
@@ -178,12 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Prompt-TEMPLATES 26423/Video-SICHTUNG 26423/Video-SICHTUNG zB Perplexity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Video-SICHTUNG zB Perplexity"
             }
           },
           {
@@ -300,8 +303,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27eebd2b1f67da23",
+  "active": "2ee1bdca44196144",
   "lastOpenFiles": [
+    "Prompt-TEMPLATES 26423/Video-SICHTUNG 26423/Video-SICHTUNG zB Perplexity.md",
+    "Prompt-TEMPLATES 26423/Video-SICHTUNG 26423",
     "Prompt-TEMPLATES 26423",
     "GDrive-Sync-aiki_CCwrk/Baks/Handover_Thread-Analyse-als-Content-Format__26330_bak1.md",
     "GDrive-Sync-aiki_CCwrk/!___von-CAI-hier-abgespeichert/Handover_Thread-Analyse-als-Content-Format__26330_bak1.md",
@@ -336,8 +341,6 @@
     "GDrive-Sync-aiki_CCwrk/Lkd-Postings/26322_Schlauer-Hans-GedankenLesen_Rosenthal-Effekt__So-19h55_Format-BILD/Views_26322_Schlauer-Hans-GedankenLesen_Rosenthal-Effekt__So-19h55/2026-03-22_19-57-19.txt",
     "GDrive-Sync-aiki_CCwrk/Lkd-Postings/26317_Name-it-Tame-it__Di-20h33_Format-BILD/Views_26317_Name-it-Tame-it/Thread-vollstaendig-26321.pdf",
     "GDrive-Sync-aiki_CCwrk/Lkd-Postings/26317_Name-it-Tame-it__Di-20h33_Format-BILD/Views_26317_Name-it-Tame-it/Thread-inkl-passiv-aggressiver-comment-von-birgit schellmann von toussaint straub.pdf",
-    "GDrive-Sync-aiki_CCwrk/Lkd-Postings/26317_Name-it-Tame-it__Di-20h33_Format-BILD/Views_26317_Name-it-Tame-it/2026-03-17_20-33-42.txt",
-    "GDrive-Sync-aiki_CCwrk/Lkd-Postings/26317_Name-it-Tame-it__Di-20h33_Format-BILD/Comments/26320_Shared-by-Dr-Susanne-Perker.txt",
     "GDrive-Sync-aiki_CCwrk/PUFFER_Cnt/konfliktlinie-IT-Business__XXX/26324_Lkd_konfliktlinie-IT-Business___CAI-Ideen.md",
     "GDrive-Sync-aiki_CCwrk/PUFFER_Cnt/konfliktlinie-IT-Business__XXX/26324_Lkd_konfliktlinie-IT-Business___CAI-Ideen__TOP.md",
     "GDrive-Sync-aiki_CCwrk/PUFFER_Cnt/INBOX_(Cnt)/cnt-id Geudevert Fenster werden zu Spiegeln.md",
